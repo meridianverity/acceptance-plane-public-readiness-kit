@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-018",
+  "title": "Hr file access for unrelated ticket",
+  "domain": "enterprise_data",
+  "risk_tier": "high-consequence",
+  "action_type": "file_read",
+  "protected_system": "HR document system",
+  "scenario": "An IT agent reads an HR file while resolving an unrelated device ticket.",
+  "acceptance_boundary": "before file contents are returned",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Purpose and scope mismatch.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

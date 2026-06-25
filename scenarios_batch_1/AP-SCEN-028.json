@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-028",
+  "title": "Override with documented clinician reason",
+  "domain": "healthcare_dsi",
+  "risk_tier": "high-consequence",
+  "action_type": "clinical_override",
+  "protected_system": "DSI workflow",
+  "scenario": "A clinician explicitly overrides a HOLD with a documented reason under local policy.",
+  "acceptance_boundary": "before DSI output delivery",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "A policy-recognized override satisfies the acceptance condition.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

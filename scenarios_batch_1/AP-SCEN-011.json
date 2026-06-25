@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-011",
+  "title": "Export of regulated data to external tool",
+  "domain": "enterprise_data",
+  "risk_tier": "high-consequence",
+  "action_type": "data_export",
+  "protected_system": "enterprise document store",
+  "scenario": "An enterprise agent summarizes regulated data into an external SaaS workspace not listed in the allowed destinations.",
+  "acceptance_boundary": "before data leaves tenant boundary",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Destination is outside approved scope.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

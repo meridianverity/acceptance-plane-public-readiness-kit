@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-008",
+  "title": "Production patch with stale runtime attestation",
+  "domain": "cloud_deployment",
+  "risk_tier": "high-consequence",
+  "action_type": "hotfix_apply",
+  "protected_system": "production service",
+  "scenario": "The agent has a patch approval, but runtime posture evidence is older than the allowed window.",
+  "acceptance_boundary": "before patch apply",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Runtime evidence is stale.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

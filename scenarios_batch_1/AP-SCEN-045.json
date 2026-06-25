@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-045",
+  "title": "License renewal with current applicant consent",
+  "domain": "public_sector",
+  "risk_tier": "high-consequence",
+  "action_type": "license_renewal",
+  "protected_system": "licensing portal",
+  "scenario": "An agent renews a license using current applicant authorization and fee confirmation.",
+  "acceptance_boundary": "before renewal commit",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Required evidence is current and scoped.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

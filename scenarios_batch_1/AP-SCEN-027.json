@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-027",
+  "title": "Ehr data exposure to unrelated workflow",
+  "domain": "healthcare_dsi",
+  "risk_tier": "high-consequence",
+  "action_type": "context_transfer",
+  "protected_system": "clinical workflow engine",
+  "scenario": "A patient context bundle is sent to a downstream workflow that was not named in the DSI authorization.",
+  "acceptance_boundary": "before context transfer",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Destination and purpose mismatch.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

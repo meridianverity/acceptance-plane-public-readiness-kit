@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-037",
+  "title": "Insurance claim auto-denial for vulnerable claimant",
+  "domain": "financial_actions",
+  "risk_tier": "high-consequence",
+  "action_type": "claim_decision",
+  "protected_system": "claims platform",
+  "scenario": "An AI agent denies a claim based on incomplete evidence in a protected benefits context.",
+  "acceptance_boundary": "before denial finalization",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "High-consequence decision requires sufficient proof and review.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

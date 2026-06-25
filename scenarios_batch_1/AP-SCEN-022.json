@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-022",
+  "title": "Sepsis alert display with current patient context",
+  "domain": "healthcare_dsi",
+  "risk_tier": "high-consequence",
+  "action_type": "dsi_alert",
+  "protected_system": "clinical decision support surface",
+  "scenario": "A sepsis alert is displayed using current vitals, labs, and policy-defined DSI mode.",
+  "acceptance_boundary": "before alert rendering",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Current context and allowed behavior support display.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/acceptance-plane/public-scenario-card.schema.json",
+  "title": "Acceptance Plane public scenario card",
+  "description": "Educational public scenario-card shape only. Not an evidence schema, API contract, conformance format, certification artifact, or production implementation.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "domain",
+    "risk_tier",
+    "action_type",
+    "protected_system",
+    "scenario",
+    "acceptance_boundary",
+    "public_evidence_categories",
+    "expected_decision",
+    "why",
+    "human_impact",
+    "learning_goal",
+    "rights_boundary"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^AP-SCEN-[0-9]{3}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "domain": {
+      "type": "string",
+      "minLength": 1
+    },
+    "risk_tier": {
+      "type": "string",
+      "enum": [
+        "high-consequence",
+        "context-dependent"
+      ]
+    },
+    "action_type": {
+      "type": "string",
+      "minLength": 1
+    },
+    "protected_system": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scenario": {
+      "type": "string",
+      "minLength": 1
+    },
+    "acceptance_boundary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "public_evidence_categories": {
+      "type": "array",
+      "minItems": 5,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "expected_decision": {
+      "type": "string",
+      "enum": [
+        "ACCEPT",
+        "HOLD",
+        "REFUSE"
+      ]
+    },
+    "why": {
+      "type": "string",
+      "minLength": 1
+    },
+    "human_impact": {
+      "type": "string",
+      "minLength": 1
+    },
+    "learning_goal": {
+      "type": "string",
+      "minLength": 1
+    },
+    "rights_boundary": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-036",
+  "title": "Wire transfer with stale beneficiary verification",
+  "domain": "financial_actions",
+  "risk_tier": "high-consequence",
+  "action_type": "wire_transfer",
+  "protected_system": "treasury system",
+  "scenario": "A treasury agent initiates a wire after beneficiary verification exceeded the freshness window.",
+  "acceptance_boundary": "before transfer instruction",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Freshness is stale.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

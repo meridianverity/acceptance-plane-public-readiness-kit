@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-003",
+  "title": "Rollback within active incident scope",
+  "domain": "cloud_deployment",
+  "risk_tier": "context-dependent",
+  "action_type": "rollback",
+  "protected_system": "production service",
+  "scenario": "An incident agent rolls back the exact service version named in an active incident ticket with current human approval.",
+  "acceptance_boundary": "before rollback is committed",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Evidence is current, scoped, and target-consistent.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

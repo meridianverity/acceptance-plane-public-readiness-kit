@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-043",
+  "title": "Case closure after missing-document flag removed",
+  "domain": "public_sector",
+  "risk_tier": "high-consequence",
+  "action_type": "case_closure",
+  "protected_system": "case management system",
+  "scenario": "An agent closes a case using an earlier missing-document flag that was later resolved.",
+  "acceptance_boundary": "before closure",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Stale context would cause wrong consequence.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

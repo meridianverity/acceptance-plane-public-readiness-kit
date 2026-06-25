@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-021",
+  "title": "Ai assistant chart write-back without clinician confirmation",
+  "domain": "healthcare_dsi",
+  "risk_tier": "high-consequence",
+  "action_type": "ehr_writeback",
+  "protected_system": "electronic health record",
+  "scenario": "A clinical assistant drafts a recommendation and attempts to write it into the chart without current clinician confirmation.",
+  "acceptance_boundary": "before EHR write-back",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Human confirmation is incomplete for a clinical record change.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

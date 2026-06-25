@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-042",
+  "title": "Permit application routing within scope",
+  "domain": "public_sector",
+  "risk_tier": "high-consequence",
+  "action_type": "permit_routing",
+  "protected_system": "municipal permitting system",
+  "scenario": "An agent routes an application to the correct department under current workflow policy.",
+  "acceptance_boundary": "before routing",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Target and policy state are current.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

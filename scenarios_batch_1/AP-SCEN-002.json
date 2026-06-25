@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-002",
+  "title": "Secret rotation against wrong tenant",
+  "domain": "cloud_deployment",
+  "risk_tier": "high-consequence",
+  "action_type": "secret_rotation",
+  "protected_system": "tenant secret manager",
+  "scenario": "A cloud agent attempts to rotate secrets for a tenant whose name differs by one character from the approved target.",
+  "acceptance_boundary": "before secret update is committed",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Target mismatch means proof fails.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}
