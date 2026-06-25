@@ -1,0 +1,35 @@
+{
+  "title": "Acceptance Plane™ Public Readiness Kit",
+  "upload_type": "other",
+  "description": "A free public readiness kit with a 5-minute educational scenario-card linter for developers. Not a product implementation. Not a standard. No patent license. No certification right.",
+  "creators": [
+    {
+      "name": "Lee, Scott",
+      "affiliation": "Meridian Verity Group"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "0.1.4",
+  "keywords": [
+    "Acceptance Plane",
+    "Agentic AI",
+    "AI Infrastructure",
+    "Action Acceptance",
+    "Acceptance Boundary",
+    "Verifier-Ready Evidence",
+    "Fail-Closed Autonomy",
+    "AI Security",
+    "AI Governance",
+    "Public Readiness",
+    "Scenario Corpus",
+    "Scenario Card Linter"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20645907",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Software portions are under MIT; non-software public readiness materials are under CC BY 4.0 unless a file states otherwise. This metadata is for optional archival use only and must be reviewed before enabling automated archive deposits. No patent license, trademark license, certification right, compliance approval, or implementation right is granted."
+}
