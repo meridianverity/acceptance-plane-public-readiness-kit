@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-066",
+  "title": "Recording synthetic overlay without share approval",
+  "domain": "ar_vr_overlays",
+  "risk_tier": "high-consequence",
+  "action_type": "overlay_recording",
+  "protected_system": "AR recording pipeline",
+  "scenario": "A user records an AR scene with synthetic identity overlay but share approval is missing.",
+  "acceptance_boundary": "before recording/share",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Egress condition incomplete.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

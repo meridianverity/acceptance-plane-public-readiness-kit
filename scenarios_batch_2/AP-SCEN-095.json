@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-095",
+  "title": "Newsletter subscription within consent",
+  "domain": "agent_tool_use",
+  "risk_tier": "context-dependent",
+  "action_type": "subscription",
+  "protected_system": "user account",
+  "scenario": "An agent subscribes the user to a free newsletter after explicit prompt confirmation.",
+  "acceptance_boundary": "before subscription",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Low-risk action with current consent.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-083",
+  "title": "Drone flight path after weather update",
+  "domain": "robotics_physical",
+  "risk_tier": "high-consequence",
+  "action_type": "drone_route",
+  "protected_system": "drone control system",
+  "scenario": "A drone route was approved before a weather update invalidated the corridor.",
+  "acceptance_boundary": "before route execution",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Environmental freshness requires review.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

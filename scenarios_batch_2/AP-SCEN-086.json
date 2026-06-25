@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-086",
+  "title": "Autonomous vehicle lane change with sensor ambiguity",
+  "domain": "robotics_physical",
+  "risk_tier": "high-consequence",
+  "action_type": "lane_change",
+  "protected_system": "vehicle controller",
+  "scenario": "An AI proposes a lane change while sensor classification is ambiguous.",
+  "acceptance_boundary": "before actuation",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Ambiguity in high-consequence physical action requires safer mode.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

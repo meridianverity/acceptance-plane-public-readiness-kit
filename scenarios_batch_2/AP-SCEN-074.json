@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-074",
+  "title": "Medical image series with current acquisition evidence",
+  "domain": "sensor_ingress",
+  "risk_tier": "context-dependent",
+  "action_type": "medical_image_ingress",
+  "protected_system": "imaging gateway",
+  "scenario": "A CT series arrives with current acquisition context for the correct patient and study.",
+  "acceptance_boundary": "before DSI consumption",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Current patient/study target supports admission.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

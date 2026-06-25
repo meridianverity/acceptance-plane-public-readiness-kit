@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-078",
+  "title": "Environmental sensor for public dashboard",
+  "domain": "sensor_ingress",
+  "risk_tier": "context-dependent",
+  "action_type": "environmental_sensor",
+  "protected_system": "public dashboard",
+  "scenario": "A low-risk environmental reading is published with current source and timestamp.",
+  "acceptance_boundary": "before dashboard update",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Low-risk public data with sufficient context.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

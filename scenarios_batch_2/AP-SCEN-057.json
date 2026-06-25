@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-057",
+  "title": "Classroom analytics shared across schools",
+  "domain": "education_minors",
+  "risk_tier": "high-consequence",
+  "action_type": "analytics_share",
+  "protected_system": "district analytics system",
+  "scenario": "A system shares student analytics across schools beyond the authorized cohort.",
+  "acceptance_boundary": "before sharing",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Scope and cohort mismatch.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

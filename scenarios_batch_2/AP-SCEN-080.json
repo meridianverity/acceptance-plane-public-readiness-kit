@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-080",
+  "title": "Smart-home motion event during privacy mode",
+  "domain": "sensor_ingress",
+  "risk_tier": "high-consequence",
+  "action_type": "motion_event",
+  "protected_system": "home automation hub",
+  "scenario": "A motion sensor event is admitted while privacy mode disables room monitoring.",
+  "acceptance_boundary": "before event is exposed to automation",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Current policy state prohibits the action.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-052",
+  "title": "Guardian notification for approved safety concern",
+  "domain": "education_minors",
+  "risk_tier": "context-dependent",
+  "action_type": "guardian_notice",
+  "protected_system": "school communication system",
+  "scenario": "An agent sends a guardian notice under current school safety workflow approval.",
+  "acceptance_boundary": "before message send",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Current scope and target match.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

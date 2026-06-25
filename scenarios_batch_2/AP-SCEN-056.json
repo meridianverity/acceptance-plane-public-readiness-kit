@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-056",
+  "title": "Mental health escalation with stale consent",
+  "domain": "education_minors",
+  "risk_tier": "high-consequence",
+  "action_type": "wellbeing_escalation",
+  "protected_system": "student support workflow",
+  "scenario": "An agent escalates a wellbeing concern using consent from a prior school year.",
+  "acceptance_boundary": "before escalation",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Consent freshness requires confirmation.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

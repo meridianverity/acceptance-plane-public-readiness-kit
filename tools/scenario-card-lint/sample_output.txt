@@ -1,0 +1,27 @@
+
+Scenario: AP-SCEN-001 — Production deployment after approval window expired
+Report type: educational scenario-card completeness lint only
+Decision label: HOLD
+Status: DISCUSSION_READY
+- The card has enough public structure for tabletop discussion.
+- This is not certification, compliance approval, production readiness, or an allow/deny decision.
+
+Scenario: AP-SCEN-050 — Immigration case note external sharing
+Report type: educational scenario-card completeness lint only
+Decision label: REFUSE
+Status: DISCUSSION_READY
+- The card has enough public structure for tabletop discussion.
+- This is not certification, compliance approval, production readiness, or an allow/deny decision.
+
+Scenario: AP-SCEN-100 — Social post using sensitive context
+Report type: educational scenario-card completeness lint only
+Decision label: HOLD
+Status: DISCUSSION_READY
+- The card has enough public structure for tabletop discussion.
+- This is not certification, compliance approval, production readiness, or an allow/deny decision.
+
+Summary
+Cards checked: 3
+Statuses: {'DISCUSSION_READY': 3}
+Decision labels: {'HOLD': 2, 'REFUSE': 1}
+Boundary: educational completeness lint only; no certification, compliance approval, production readiness, or allow/deny decision.

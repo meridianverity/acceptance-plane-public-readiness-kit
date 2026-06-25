@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-098",
+  "title": "Home thermostat adjustment inside preference",
+  "domain": "agent_tool_use",
+  "risk_tier": "context-dependent",
+  "action_type": "thermostat_update",
+  "protected_system": "home automation",
+  "scenario": "An agent adjusts thermostat within user-defined comfort and energy constraints.",
+  "acceptance_boundary": "before change",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Low-risk within current preference scope.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

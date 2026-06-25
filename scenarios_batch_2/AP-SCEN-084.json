@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-084",
+  "title": "Medical device dosage change without clinician approval",
+  "domain": "robotics_physical",
+  "risk_tier": "high-consequence",
+  "action_type": "dosage_actuation",
+  "protected_system": "medical device controller",
+  "scenario": "An agent changes dosage parameters without current clinician authorization.",
+  "acceptance_boundary": "before device setting change",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Required authority fails.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "AP-SAMPLE-001",
+  "title": "Coding agent proposes production deployment after approval window expires",
+  "domain": "cloud_deployment",
+  "risk_tier": "high-consequence",
+  "action_type": "production_deploy",
+  "protected_system": "production service cluster",
+  "scenario": "An agent generated a valid deployment plan earlier, but the approval window expired before the apply step.",
+  "acceptance_boundary": "before the deployment is applied to production",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "decision"
+  ],
+  "expected_decision": "HOLD",
+  "why": "The plan may be useful, but current approval is incomplete or stale.",
+  "human_impact": "Prevents stale authority from becoming an outage or unauthorized change.",
+  "learning_goal": "A deployment plan is not a deployment. Current gate-time proof matters.",
+  "rights_boundary": "This is a public educational scenario for tabletop discussion only; it is not certification, compliance approval, production readiness, or an allow/deny decision."
+}

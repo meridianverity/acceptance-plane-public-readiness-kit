@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-092",
+  "title": "Calendar cancellation for executive meeting",
+  "domain": "agent_tool_use",
+  "risk_tier": "high-consequence",
+  "action_type": "calendar_update",
+  "protected_system": "calendar system",
+  "scenario": "An agent cancels a board meeting without current organizer confirmation.",
+  "acceptance_boundary": "before cancellation",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "High-impact scheduling action needs current confirmation.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

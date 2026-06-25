@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-063",
+  "title": "Medical overlay on wrong patient image",
+  "domain": "ar_vr_overlays",
+  "risk_tier": "high-consequence",
+  "action_type": "medical_overlay",
+  "protected_system": "surgical display",
+  "scenario": "An AI overlay is bound to a different patient image than the current surgical view.",
+  "acceptance_boundary": "before overlay display",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Target/scene mismatch.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

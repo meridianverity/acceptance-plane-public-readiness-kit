@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-054",
+  "title": "Ai tutor adapts content within age profile",
+  "domain": "education_minors",
+  "risk_tier": "context-dependent",
+  "action_type": "learning_adaptation",
+  "protected_system": "AI tutoring platform",
+  "scenario": "A tutor adjusts problem difficulty within the student age and curriculum profile.",
+  "acceptance_boundary": "before new content display",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "ACCEPT",
+  "why": "Action remains within approved educational scope.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

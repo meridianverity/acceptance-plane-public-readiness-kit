@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-093",
+  "title": "Purchase above user budget",
+  "domain": "agent_tool_use",
+  "risk_tier": "high-consequence",
+  "action_type": "purchase",
+  "protected_system": "consumer payment account",
+  "scenario": "A personal agent attempts a purchase above the user-defined spending limit.",
+  "acceptance_boundary": "before purchase",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "REFUSE",
+  "why": "Budget/scope exceeded.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

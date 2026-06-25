@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-059",
+  "title": "Parent account password reset with ambiguous identity",
+  "domain": "education_minors",
+  "risk_tier": "high-consequence",
+  "action_type": "account_reset",
+  "protected_system": "guardian portal",
+  "scenario": "An agent resets a guardian account where identity verification is incomplete.",
+  "acceptance_boundary": "before reset",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Identity proof incomplete.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

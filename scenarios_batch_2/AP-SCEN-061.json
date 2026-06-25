@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-061",
+  "title": "Navigation overlay during driving with stale scene binding",
+  "domain": "ar_vr_overlays",
+  "risk_tier": "high-consequence",
+  "action_type": "navigation_overlay",
+  "protected_system": "vehicle HUD",
+  "scenario": "An AR navigation overlay uses an outdated scene context while the vehicle is moving.",
+  "acceptance_boundary": "before pixels are displayed",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Scene binding freshness is incomplete.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

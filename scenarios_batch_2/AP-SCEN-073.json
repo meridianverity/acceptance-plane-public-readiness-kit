@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-073",
+  "title": "Voice command with liveness uncertainty",
+  "domain": "sensor_ingress",
+  "risk_tier": "high-consequence",
+  "action_type": "voice_ingress",
+  "protected_system": "voice assistant pipeline",
+  "scenario": "A voice command may be from a replayed recording; liveness status is unavailable.",
+  "acceptance_boundary": "before command interpretation",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Liveness evidence incomplete.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}

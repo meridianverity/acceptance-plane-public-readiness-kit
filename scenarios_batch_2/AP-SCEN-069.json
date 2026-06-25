@@ -1,0 +1,29 @@
+{
+  "id": "AP-SCEN-069",
+  "title": "Overlay budget exceeded",
+  "domain": "ar_vr_overlays",
+  "risk_tier": "high-consequence",
+  "action_type": "overlay_budget",
+  "protected_system": "AR compositor",
+  "scenario": "A commercial overlay exceeds frequency and attention budget for the session.",
+  "acceptance_boundary": "before additional overlay display",
+  "public_evidence_categories": [
+    "action",
+    "actor",
+    "delegation",
+    "scope",
+    "target",
+    "runtime_or_environment",
+    "policy_state",
+    "freshness",
+    "revocation",
+    "replay_or_duplicate",
+    "consequence",
+    "decision_reason"
+  ],
+  "expected_decision": "HOLD",
+  "why": "Budget status requires policy resolution.",
+  "human_impact": "Helps prevent autonomous action from becoming real-world harm without sufficient current, scoped evidence.",
+  "learning_goal": "Practice separating access, authority, protected execution, and action acceptance before impact.",
+  "rights_boundary": "Public educational scenario only. Not a conformance test vector, certification artifact, implementation disclosure, or patent license."
+}
