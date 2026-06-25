@@ -72,8 +72,8 @@ docs/domain-guides/personal-and-consumer-agents.md
 docs/domain-guides/public-sector.md
 docs/domain-guides/robotics-and-physical-systems.md
 docs/domain-guides/sensors-and-edge.md
-docs/ko/공개_경계.md
-docs/ko/요약.md
+docs/ko/public-boundary-ko.md
+docs/ko/summary-ko.md
 figures/accept-hold-refuse-flow.svg
 figures/acceptance-plane-public-readiness-model.svg
 figures/acceptance-plane-stack.png
