@@ -1,0 +1,17 @@
+Acceptance Plane™ Public Readiness Kit — License Notice
+
+This repository uses a public license split.
+
+1. Software files
+
+Files under tools/, scripts/, .github/workflows/, and the root Makefile are provided under the MIT License unless a file states otherwise. See LICENSES/MIT.txt.
+
+2. Non-software public readiness materials
+
+Text, documentation, figures, templates, scenario cards, launch materials, adoption materials, and other non-software public readiness materials are provided under Creative Commons Attribution 4.0 International (CC BY 4.0) unless a file states otherwise. See LICENSES/CC-BY-4.0.txt.
+
+3. Rights boundary
+
+No patent rights are granted. No trademark rights are granted. No service mark rights are granted. No product implementation license, certification right, compliance approval, conformance approval, endorsement, or right to use Meridian Verity Group names, logos, marks, or framework identifiers as source-identifying marks is granted.
+
+For avoidance of doubt, this public release is not a formal standard, product specification, implementation disclosure, patent claim chart, commercial deployment artifact, legal opinion, conformance suite, or certification program.

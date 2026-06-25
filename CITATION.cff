@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Acceptance Plane Public Readiness Kit"
+message: "If you use this public readiness kit, please cite the canonical Acceptance Plane public architecture thesis listed in preferred-citation. This kit record itself intentionally does not declare the thesis DOI as its own identifier."
+type: dataset
+authors:
+  - family-names: Lee
+    given-names: Scott
+    affiliation: Meridian Verity Group
+version: "0.1.4"
+date-released: "2026-06-25"
+repository-code: "https://github.com/meridianverity/acceptance-plane-public-readiness-kit"
+abstract: "A free public readiness kit with a 5-minute educational scenario-card linter for developers. Not a product implementation. Not a standard. No patent license. No certification right."
+license: "MIT AND CC-BY-4.0"
+preferred-citation:
+  type: report
+  title: "The Acceptance Plane: The Missing Trust Layer for Agentic AI Infrastructure"
+  authors:
+    - family-names: Lee
+      given-names: Scott
+      affiliation: Meridian Verity Group
+  year: 2026
+  version: "1.0.0"
+  publisher:
+    name: "Meridian Verity Group"
+  identifiers:
+    - type: doi
+      value: "10.5281/zenodo.20645907"

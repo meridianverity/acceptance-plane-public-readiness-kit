@@ -1,0 +1,17 @@
+Git checkout QA test
+Date: 2026-06-25
+Release: v0.1.4
+
+Procedure:
+- initialized a local Git repository with `git init`
+- renamed the branch to `main`
+- ran `make qa-clean`, including standard-library unit tests
+
+Result:
+PASS
+
+Key result:
+- Manifest verification ignores `.git/` local VCS state while remaining strict for release files.
+- Public boundary QA passed.
+- Scenario-card linter passed across the 100-card public corpus in scenarios_batch_1/ and scenarios_batch_2/.
+- Generated Python cache files are removed before and after QA.

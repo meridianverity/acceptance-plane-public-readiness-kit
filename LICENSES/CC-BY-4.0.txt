@@ -1,0 +1,18 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Non-software public readiness materials in this repository are provided under
+Creative Commons Attribution 4.0 International unless a file states otherwise.
+
+Canonical license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribution should identify Meridian Verity Group and the Acceptance Plane™
+Public Readiness Kit, and should not imply certification, endorsement,
+implementation rights, patent rights, trademark rights, compliance approval, or
+foundation/project-hosting status.
+
+This CC BY 4.0 notice does not grant any patent license, trademark license,
+service mark license, product implementation license, certification right,
+compliance approval, conformance approval, endorsement, or right to use Meridian
+Verity Group names, logos, marks, or framework identifiers as source-identifying
+marks.

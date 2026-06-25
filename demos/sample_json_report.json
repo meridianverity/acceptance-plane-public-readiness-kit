@@ -1,0 +1,43 @@
+{
+  "tool": "scenario-card-lint",
+  "tool_version": "0.1.4",
+  "report_type": "educational scenario-card completeness lint only",
+  "cards_checked": 3,
+  "statuses": {
+    "DISCUSSION_READY": 3
+  },
+  "decision_labels": {
+    "HOLD": 2,
+    "REFUSE": 1
+  },
+  "reports": [
+    {
+      "path": "scenarios_batch_1/AP-SCEN-001.json",
+      "id": "AP-SCEN-001",
+      "title": "Production deployment after approval window expired",
+      "decision_label": "HOLD",
+      "status": "DISCUSSION_READY",
+      "issues": [],
+      "boundary": "educational scenario-card completeness lint only; not certification, compliance approval, production readiness, or an allow/deny decision"
+    },
+    {
+      "path": "scenarios_batch_1/AP-SCEN-050.json",
+      "id": "AP-SCEN-050",
+      "title": "Immigration case note external sharing",
+      "decision_label": "REFUSE",
+      "status": "DISCUSSION_READY",
+      "issues": [],
+      "boundary": "educational scenario-card completeness lint only; not certification, compliance approval, production readiness, or an allow/deny decision"
+    },
+    {
+      "path": "scenarios_batch_2/AP-SCEN-100.json",
+      "id": "AP-SCEN-100",
+      "title": "Social post using sensitive context",
+      "decision_label": "HOLD",
+      "status": "DISCUSSION_READY",
+      "issues": [],
+      "boundary": "educational scenario-card completeness lint only; not certification, compliance approval, production readiness, or an allow/deny decision"
+    }
+  ],
+  "boundary": "not certification, compliance approval, production readiness, or an allow/deny decision"
+}

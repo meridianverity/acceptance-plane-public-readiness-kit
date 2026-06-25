@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+<title id="title">ACCEPT HOLD REFUSE Flow</title>
+<desc id="desc">A public flow from proposed action through evidence question to ACCEPT HOLD or REFUSE.</desc>
+<rect x="40" y="40" width="230" height="90" rx="12" fill="#f5f5f5" stroke="#222"/>
+<text x="155" y="80" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700">Proposed AI Action</text>
+<text x="155" y="108" text-anchor="middle" font-family="Arial" font-size="15">intention before consequence</text>
+<path d="M270 85 L365 85" stroke="#222" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="365" y="40" width="270" height="90" rx="12" fill="#eef7ff" stroke="#1769aa"/>
+<text x="500" y="78" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">Gate-Time Evidence?</text>
+<text x="500" y="106" text-anchor="middle" font-family="Arial" font-size="14">current • scoped • target-bound</text>
+<path d="M635 85 L730 85" stroke="#222" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="730" y="30" width="220" height="70" rx="12" fill="#e8f8ec" stroke="#177245"/>
+<text x="840" y="72" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">ACCEPT</text>
+<rect x="730" y="140" width="220" height="70" rx="12" fill="#fff9db" stroke="#997500"/>
+<text x="840" y="182" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">HOLD</text>
+<rect x="730" y="250" width="220" height="70" rx="12" fill="#ffe8e8" stroke="#a40000"/>
+<text x="840" y="292" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">REFUSE</text>
+<text x="500" y="345" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Accept when proof is sufficient. Hold when proof is incomplete. Refuse when proof fails.</text>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#222"/></marker></defs>
+</svg>
