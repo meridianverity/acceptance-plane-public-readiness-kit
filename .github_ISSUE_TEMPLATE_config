@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Confidential boundary or security report
+    url: https://github.com/meridianverity/acceptance-plane-public-readiness-kit/security/advisories/new
+    about: Use GitHub Security Advisories for accidental implementation disclosure, private material, or false certification claims.
