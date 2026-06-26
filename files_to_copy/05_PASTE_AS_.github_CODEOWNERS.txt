@@ -1,3 +1,0 @@
-# Optional CODEOWNERS file.
-# After the GitHub organization/team is created, uncomment and replace the team below.
-# * @meridianverity/maintainers
