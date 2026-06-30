@@ -1,0 +1,5489 @@
+{
+  "schema": "mvg.search_index@2",
+  "generated_utc": "2026-06-29T00:00:00Z",
+  "version": "v282-research-apex-public-proof-surface-search-index",
+  "site_version": "v261-security-addendum-apex",
+  "offline": true,
+  "tracking": "none",
+  "items": [
+    {
+      "title": "One Protected Payment Action Challenge | Agentic Commerce Acceptance",
+      "url": "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+      "section": "Agentic Commerce Acceptance",
+      "kind": "Payment-action challenge route",
+      "weight": 985,
+      "aliases": [
+        "one protected payment action challenge",
+        "protected payment action",
+        "payment action challenge",
+        "agentic commerce challenge",
+        "acceptance before payment impact",
+        "Access authorizes reach Tokens authorize capability Acceptance authorizes impact"
+      ],
+      "keywords": [
+        "agentic commerce",
+        "payment-adjacent action",
+        "checkout",
+        "refund",
+        "dispute",
+        "settlement",
+        "negative vectors",
+        "ACCEPT HOLD REFUSE",
+        "written scope"
+      ],
+      "summary": "Public-safe challenge route for one non-confidential protected payment-adjacent action before payment impact.",
+      "description": "Bring one payment-adjacent action; MVG maps boundary, side-door routes, negative vectors, receipt fields, evidence consumers, and proceed/narrow/hold/no-go path."
+    },
+    {
+      "title": "Protected Actions | Proof Before Impact",
+      "url": "/protected-actions/",
+      "section": "Category Definition",
+      "kind": "Canonical protected-action definition",
+      "weight": 960,
+      "aliases": [
+        "protected actions",
+        "protected action",
+        "proof before impact",
+        "accept before impact",
+        "bound the agent",
+        "prove the action",
+        "ACCEPT HOLD REFUSE",
+        "external effect boundary",
+        "AI action boundary",
+        "MVG-PROTECTED-ACTIONS-1.0.0",
+        "protected actions PDF",
+        "category definition statement",
+        "value movement data release record change"
+      ],
+      "keywords": [
+        "protected action",
+        "AI action",
+        "external effect",
+        "acceptance",
+        "HOLD",
+        "REFUSE",
+        "proof before impact",
+        "execution boundary"
+      ],
+      "summary": "Canonical category definition for proposed AI or automated-system operations that may create external effect.",
+      "description": "Protected Actions defines the boundary where MVG maps ACCEPT, HOLD, or REFUSE before impact; includes a controlling PDF statement."
+    },
+    {
+      "title": "Protected Actions Category Definition Statement PDF",
+      "url": "/protected-actions/MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf",
+      "section": "Category Definition",
+      "kind": "Controlling PDF publication",
+      "weight": 925,
+      "summary": "Controlling PDF publication for MVG-PROTECTED-ACTIONS-1.0.0.",
+      "description": "SHA256: fc6f2c9a73305d774f156fd7acff9068b9c7505c13dbf9482339705b502dbc34",
+      "aliases": [
+        "MVG-PROTECTED-ACTIONS-1.0.0 PDF",
+        "Protected Actions PDF",
+        "Acceptance Boundary Statement PDF"
+      ]
+    },
+    {
+      "title": "Terms of Use and Public Materials Access Terms v3.0.0",
+      "url": "/legal/terms/",
+      "section": "Legal Surface",
+      "kind": "Current controlling terms publication",
+      "weight": 965,
+      "aliases": [
+        "Terms of Use",
+        "Public Materials Access Terms",
+        "MVG-TERMS-3.0.0",
+        "legal terms",
+        "website terms",
+        "public proof terms",
+        "evidence-room terms",
+        "clean-room terms",
+        "AI/TDM terms",
+        "commercial framework terms",
+        "written scope controls depth",
+        "no license by publication",
+        "unilateral procurement terms",
+        "gated downloads assent evidence"
+      ],
+      "keywords": [
+        "terms",
+        "legal",
+        "public materials",
+        "access",
+        "evidence room",
+        "clean room",
+        "AI/TDM",
+        "licensing"
+      ],
+      "summary": "Public website, public proof, legal publications, evidence-room, clean-room, commercial-framework, AI/TDM, procurement, security-review, licensing, and written-scope access terms.",
+      "description": "MVG-TERMS-3.0.0. PDF controls; HTML is a convenience copy unless incorporated by written agreement. Primary contact: legal@meridianverity.com."
+    },
+    {
+      "title": "Terms of Use and Public Materials Access Terms v3.0.0 PDF",
+      "url": "/legal/terms/MVG_Terms_of_Use_and_Public_Materials_Access_Terms_v3.0.0.pdf",
+      "section": "Legal Surface",
+      "kind": "Controlling PDF publication",
+      "weight": 930,
+      "summary": "Controlling PDF publication for MVG-TERMS-3.0.0.",
+      "description": "SHA256: 5cd0647607d0f0d9c033b41a4d07065624e281375b5d815f80d7e61a041478a4",
+      "aliases": [
+        "MVG-TERMS-3.0.0 PDF",
+        "controlling terms PDF",
+        "public materials access terms PDF"
+      ]
+    },
+    {
+      "title": "Archived Terms of Use v2.1.1",
+      "url": "/legal/terms/archive/v2.1.1/",
+      "section": "Legal Archive",
+      "kind": "Historical terms publication",
+      "weight": 360,
+      "summary": "Historical archive for MVG-TERMS-2.1.1. Current Terms are MVG-TERMS-3.0.0.",
+      "aliases": [
+        "MVG-TERMS-2.1.1 archive",
+        "terms archive",
+        "prior terms"
+      ]
+    },
+    {
+      "title": "Enterprise Security Addendum v3.1.0",
+      "url": "/legal/security-addendum/",
+      "section": "Legal",
+      "tags": [
+        "security addendum",
+        "TOMs",
+        "technical and organizational measures",
+        "security schedule",
+        "audit-by-evidence",
+        "enterprise security"
+      ],
+      "blurb": "Customer-facing security controls, TOMs, support-access safeguards, incident handling, audit-by-evidence, BCDR, vulnerability management, AI/agentic security boundaries, and supply-chain controls."
+    },
+    {
+      "title": "Security Addendum Trust Mirror",
+      "url": "/trust/security-addendum/",
+      "section": "Trust",
+      "tags": [
+        "security addendum",
+        "trust mirror",
+        "security evidence"
+      ],
+      "blurb": "Trust mirror for the current Enterprise Security Addendum; controlling publication remains the legal route."
+    },
+    {
+      "title": "AI Acceptance Evidence Crosswalks",
+      "url": "/ai-acceptance-crosswalks/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "Evidence Maps",
+      "weight": 910,
+      "summary": "Public standards and threat frameworks through the acceptance-before-impact lens. Frameworks describe the risk; Meridian Verity maps the acceptance evidence before impact.",
+      "aliases": [
+        "ai acceptance evidence crosswalks",
+        "nist iso owasp mitre",
+        "frameworks describe the risk",
+        "acceptance evidence before impact",
+        "public-source evidence maps"
+      ]
+    },
+    {
+      "title": "NIST AI RMF Evidence Map",
+      "url": "/ai-acceptance-crosswalks/nist-ai-rmf/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "NIST Evidence Map",
+      "weight": 870,
+      "summary": "NIST AI RMF and GenAI Profile concepts mapped to protected-action acceptance evidence. Public-source evidence map only.",
+      "aliases": [
+        "nist ai rmf evidence map",
+        "nist genai profile",
+        "govern map measure manage",
+        "nist acceptance map"
+      ]
+    },
+    {
+      "title": "ISO/IEC 42001 Evidence Map",
+      "url": "/ai-acceptance-crosswalks/iso-iec-42001/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "ISO Evidence Map",
+      "weight": 835,
+      "summary": "ISO/IEC 42001 public AI management-system concepts mapped to protected-action acceptance evidence. No ISO clause text reproduced.",
+      "aliases": [
+        "iso 42001 evidence map",
+        "iso iec 42001",
+        "ai management system evidence",
+        "iso acceptance map"
+      ]
+    },
+    {
+      "title": "OWASP GenAI / Agentic Evidence Map",
+      "url": "/ai-acceptance-crosswalks/owasp-genai-agentic/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "OWASP Evidence Map",
+      "weight": 875,
+      "summary": "OWASP LLM, GenAI, and agentic application risk signals mapped to ACCEPT / HOLD / REFUSE before impact.",
+      "aliases": [
+        "owasp genai agentic evidence map",
+        "owasp llm top 10",
+        "owasp agentic applications",
+        "prompt injection excessive agency",
+        "agent goal hijacking tool misuse"
+      ]
+    },
+    {
+      "title": "MITRE ATLAS Evidence Map",
+      "url": "/ai-acceptance-crosswalks/mitre-atlas/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "MITRE Evidence Map",
+      "weight": 840,
+      "summary": "MITRE ATLAS adversary behavior language mapped to protected-action acceptance questions before consequential AI impact.",
+      "aliases": [
+        "mitre atlas evidence map",
+        "atlas ai adversary tactics",
+        "ai-enabled systems adversary behavior",
+        "mitre acceptance map"
+      ]
+    },
+    {
+      "title": "AI Acceptance Source Register",
+      "url": "/ai-acceptance-crosswalks/source-register/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "Source Register",
+      "weight": 825,
+      "summary": "Public register for NIST, ISO, OWASP, and MITRE sources: what they are used for and what they are not used for.",
+      "aliases": [
+        "source register",
+        "ai acceptance source register",
+        "source reviewed",
+        "public source register"
+      ]
+    },
+    {
+      "title": "AI Acceptance No-Claim Notice",
+      "url": "/ai-acceptance-crosswalks/no-claim-notice/",
+      "section": "AI Acceptance Evidence Crosswalks",
+      "kind": "No-Claim Notice",
+      "weight": 820,
+      "summary": "Public-source evidence maps only. No certification, endorsement, audit readiness, compliance approval, implementation compatibility, or official framework coverage claim.",
+      "aliases": [
+        "ai acceptance no claim notice",
+        "no certification no endorsement",
+        "not audit readiness",
+        "not official framework coverage"
+      ]
+    },
+    {
+      "title": "Agentic Commerce No-Claim Notice",
+      "url": "/agentic-commerce-acceptance/no-claim-notice/",
+      "section": "Agentic Commerce Acceptance",
+      "kind": "No-Claim Notice",
+      "weight": 860,
+      "summary": "Public-source acceptance map only. No certification, endorsement, compatibility, issuer, acquirer, payment processor, or merchant-of-record claim.",
+      "aliases": [
+        "agentic commerce no claim",
+        "no certification no endorsement",
+        "public-source acceptance map",
+        "no claim notice"
+      ]
+    },
+    {
+      "title": "Agentic Commerce Verifier Replay",
+      "url": "/agentic-commerce-acceptance/replay/",
+      "section": "Agentic Commerce Acceptance",
+      "kind": "Local verifier",
+      "weight": 920,
+      "summary": "Run a local browser verifier for synthetic agentic commerce receipts. No upload.",
+      "aliases": [
+        "commerce verifier",
+        "run verifier commerce",
+        "acceptance verifier"
+      ]
+    },
+    {
+      "title": "Agentic Commerce Sample Receipts",
+      "url": "/agentic-commerce-acceptance/receipts/",
+      "section": "Agentic Commerce Acceptance",
+      "kind": "Receipts",
+      "weight": 910,
+      "summary": "Synthetic PASS, HOLD, and FAIL receipts for proof before payment impact.",
+      "aliases": [
+        "agentic commerce receipts",
+        "PASS HOLD FAIL receipts",
+        "proof before payment receipts"
+      ]
+    },
+    {
+      "title": "Public-Source Evidence Map",
+      "url": "/agentic-commerce-acceptance/crosswalk/",
+      "section": "Agentic Commerce Acceptance",
+      "kind": "Evidence map",
+      "weight": 930,
+      "summary": "AP2, ACP, UCP, Agent Pay, Visa TAP, and standards signals mapped as public evidence rails through the acceptance-before-impact lens.",
+      "aliases": [
+        "AP2 ACP UCP crosswalk",
+        "Agent Pay Visa TAP evidence map",
+        "commerce protocol crosswalk"
+      ]
+    },
+    {
+      "title": "Acceptance Before Payment Impact",
+      "url": "/agentic-commerce-acceptance/",
+      "section": "Agentic Commerce Acceptance",
+      "kind": "Category page",
+      "weight": 990,
+      "summary": "Agentic commerce needs acceptance before payment impact. Public verifier, sample receipts, No-Claim Notice, and evidence map.",
+      "aliases": [
+        "agentic commerce acceptance",
+        "proof before payment impact",
+        "acceptance before payment impact",
+        "agentic commerce"
+      ]
+    },
+    {
+      "title": "20-minute Protected-Action Review",
+      "url": "/contact/?route=protected-action-review#first-email",
+      "section": "Executive Front Door",
+      "kind": "Global commercial doorway",
+      "weight": 1000,
+      "summary": "Bring one AI action boundary. Meridian Verity maps the public-safe proof route and decides whether scoped diligence makes sense.",
+      "description": "No confidential implementation, customer, regulated, legal, security-sensitive, or deployment-specific material before written scope.",
+      "aliases": [
+        "Protected-Action Review",
+        "20-minute review",
+        "action boundary review",
+        "public-safe first email",
+        "bring one AI action boundary",
+        "executive front door",
+        "proof route",
+        "commercial doorway"
+      ]
+    },
+    {
+      "title": "ORPRG — Agentic Commerce Permit-Before-Commit Rail",
+      "url": "/patents/orprg/",
+      "section": "Patent Family Briefs",
+      "kind": "Agentic commerce fit",
+      "weight": 680,
+      "summary": "Agentic commerce changes the acceptance question: was this exact AI-agent economic action visible, bounded, and provable before commit?",
+      "aliases": [
+        "AI agent purchase",
+        "AI commerce",
+        "AI payment agent",
+        "AP2",
+        "API mutation commit",
+        "Agent Pay",
+        "Agent Pay for Machines",
+        "Agent Payments Protocol",
+        "ORPRG",
+        "Open patents",
+        "Permit-Before-Commit Rail",
+        "PermitReceipt",
+        "agent commerce",
+        "agent payments",
+        "agent-initiated transaction",
+        "agentic checkout",
+        "agentic commerce",
+        "agentic commerce licensing",
+        "agentic commerce review route",
+        "autonomous payments",
+        "before commit payment",
+        "checkout agent",
+        "checkout external effect",
+        "commerce effect boundary",
+        "commit boundary",
+        "connector surface",
+        "data release commit",
+        "deny by default",
+        "economic action",
+        "economic actions are protected effects",
+        "effect boundary",
+        "effect-boundary control record",
+        "external effect boundary",
+        "final external-effect acceptance question",
+        "final yes",
+        "flagship licensing rail",
+        "licensing dropdown",
+        "licensing front door",
+        "machine payments",
+        "machine-speed commerce",
+        "merchant controls",
+        "merchant surface",
+        "money movement",
+        "nav first card",
+        "network acceptance stack",
+        "open patents",
+        "order before commit",
+        "order commitment",
+        "orprg",
+        "partner review rail",
+        "payment adjacent workflow",
+        "payment agent authorization",
+        "payment before commit",
+        "payment external effect",
+        "payment mandate",
+        "payment-adjacent workflows",
+        "permit before commit",
+        "permit before commit flagship",
+        "permit before payment",
+        "permit receipt",
+        "policy epoch",
+        "proof before payment",
+        "proof before purchase",
+        "protected-action acceptance",
+        "public routing index",
+        "purchase submission",
+        "revocation",
+        "settlement instruction",
+        "the final yes belongs at the effect boundary",
+        "tool gateway commit",
+        "verifiable mandate",
+        "visible bounded and provable",
+        "visible bounded provable",
+        "wallet connector",
+        "wallet routing",
+        "was the external effect permitted before commit"
+      ],
+      "keywords": [
+        "AP2",
+        "machine-speed commerce signal",
+        "Proof before external effects become real.",
+        "agent checkout signal",
+        "Was the external effect permitted before commit?",
+        "Was this AI agent authorized to take this exact economic action",
+        "agentic commerce",
+        "agentic commerce licensing",
+        "claim-level under written scope",
+        "commit boundary",
+        "economic action as protected effect",
+        "effect-boundary control",
+        "external effect permit evidence",
+        "external effect permitted before commit",
+        "external effects",
+        "final external-effect acceptance question",
+        "final yes",
+        "licensing front door",
+        "machine-to-machine payments",
+        "not a wallet bot fraud model merchant UX or checkout product",
+        "partner review rail",
+        "patent family brief",
+        "payments",
+        "permit-before-commit",
+        "protected-action acceptance layer",
+        "public patent routing index",
+        "public record",
+        "public-safe agentic commerce thesis",
+        "scoped diligence",
+        "visible bounded provable before commit"
+      ],
+      "description": "Public-safe ORPRG family brief for permit-before-commit protected-action acceptance in agentic commerce, payment-adjacent workflows, merchant surfaces, wallet connectors, API mutations, and autonomous external effects."
+    },
+    {
+      "title": "TSIL — Sensor Ingress Rail",
+      "url": "/patents/tsil/",
+      "section": "Patent Family Briefs",
+      "kind": "Proof before perception",
+      "weight": 600,
+      "summary": "Was the input trustworthy enough to enter? TSIL public patent family brief for receipt-gated input admission, Sensor Receipts, signed-head freshness, and fail-closed review before downstream systems treat a signal as real.",
+      "aliases": [
+        "EvidenceBundle",
+        "GPS spoof",
+        "Input-Boundary Review",
+        "OS HAL",
+        "OS HAL sensor gate",
+        "OS/HAL",
+        "S2",
+        "S2 receipt",
+        "Sensor Ingress Rail",
+        "Sensor Integrity Score",
+        "Sensor Receipt",
+        "Sensor Receipts",
+        "Sensor Receipts patent",
+        "TSIL",
+        "Trusted Sensor Ingress Layer",
+        "active liveness",
+        "anti replay",
+        "application permission is not input trust",
+        "audio replay",
+        "camera spoof",
+        "certification result",
+        "derived stream",
+        "driver ring buffer",
+        "edge AI sensor receipts",
+        "fail-closed sensor ingress",
+        "image authenticity",
+        "input admission rail",
+        "input boundary",
+        "input-boundary review",
+        "liveness",
+        "location spoof",
+        "logs explain TSIL gates",
+        "medical imaging receipts",
+        "multi-sensor consistency",
+        "proof before perception",
+        "read subscribe path",
+        "receipt-gated sensor ingress",
+        "robotics sensor proof",
+        "sensor HAL",
+        "sensor bus",
+        "sensor integrity score",
+        "sensor permit",
+        "sensor receipt patent",
+        "signal should carry proof",
+        "signed-head freshness",
+        "structured precondition failure",
+        "structured precondition result",
+        "subscriber visibility",
+        "trusted sensor ingress",
+        "tsil",
+        "virtual sensor",
+        "was this signal trustworthy enough to enter"
+      ],
+      "keywords": [
+        "Certification Result",
+        "EvidenceBundle",
+        "HOLD FAIL PASS input boundary",
+        "OS HAL boundary",
+        "Open issued record PDF",
+        "Request scoped review",
+        "S2 event-level receipt",
+        "Sensor Integrity Score",
+        "Signal should carry proof before perception",
+        "TSIL is not an application permission screen",
+        "US 12,639,429 B1",
+        "admit before read subscribe",
+        "append-only evolution consistency proof",
+        "claim-level under written scope",
+        "downstream models workflows robots care tools protected actions",
+        "ingress gate",
+        "input-admission rail",
+        "liveness challenge",
+        "multi-sensor consistency",
+        "per-event Sensor Receipts",
+        "public category brief",
+        "signal should carry proof before perception",
+        "signed head freshness",
+        "was the input trustworthy enough to enter",
+        "zero-knowledge predicates"
+      ],
+      "description": "TSIL public patent family brief: signal should carry proof before perception, with Sensor Receipts and fail-closed input-admission review."
+    },
+    {
+      "title": "Safety Receipts — HTI + BAPR Patent Family Brief",
+      "url": "/patents/safety-receipts/",
+      "section": "Patent Family Briefs",
+      "kind": "Proof before care impact",
+      "weight": 495,
+      "summary": "Proof before AI-assisted output becomes care impact: HTI Safety Receipt Layer + BAPR bedside AI finalization rail.",
+      "aliases": [
+        "Safety Receipts patent family",
+        "Care-Boundary Review",
+        "HTI + BAPR / Safety Receipts",
+        "HTI Safety Receipt Layer",
+        "BAPR Bedside AI Permit Rail",
+        "bedside AI safety receipt",
+        "clinical AI permit before action",
+        "clinical AI permit before finalization",
+        "EHR DSI safety receipt",
+        "UI finalization gate",
+        "proof before care impact",
+        "neighbor downstream proof",
+        "이웃사랑 clinical AI proof",
+        "proof before AI-assisted output becomes care impact",
+        "public-safe care-boundary review",
+        "related patent families"
+      ],
+      "keywords": [
+        "Proof before care impact.",
+        "Every AI-assisted care episode lands on a person.",
+        "permit-before-action",
+        "permit-before-finalization",
+        "fail-closed clinical AI",
+        "context envelope policy graph permit outcome",
+        "attested device-state clinician identity token",
+        "append-only verifiable log signed head inclusion proof",
+        "pre-NDA patent family brief",
+        "public record only",
+        "scoped diligence",
+        "claim-level under written scope",
+        "AI-assisted output becomes care impact",
+        "billing or claim-support evidence",
+        "public-safe oversight posture",
+        "CTA contrast fixed",
+        "reviewable boundary"
+      ],
+      "description": "Public pre-NDA patent family brief connecting US 12,633,414 B1 and US 12,664,307 B1: HTI Safety Receipt Layer plus BAPR bedside AI safety receipt rail for proof before care impact."
+    },
+    {
+      "title": "NOVACOV — Runtime Activation Control",
+      "url": "/patents/novacov/",
+      "section": "Patent Family Briefs",
+      "kind": "Runtime activation control / Verify-to-activation",
+      "weight": 748,
+      "summary": "Public-safe family brief for NOVACOV: proof before activation for autonomous and semi-autonomous systems. The route explains current proof, purpose fit, policy-defined authority, permit outcomes, review evidence, gateway-oriented runtime enforcement, and fail-closed dispositions before I/O, egress, dispatch, device interaction, tool use, actuation, or external effect.",
+      "description": "Before autonomous logic acts, the system should be able to prove this exact action is permitted now.",
+      "aliases": [
+        "NOVACOV",
+        "Runtime Activation Control",
+        "runtime activation control",
+        "Proof before activation",
+        "proof before autonomous logic becomes action",
+        "proof before autonomous logic",
+        "verify to activation",
+        "verify-to-activation",
+        "permit before action",
+        "permit-before-action",
+        "agent activation gate",
+        "autonomous agent gate",
+        "AI agent gate",
+        "Immutable Constraint Chain",
+        "ICC",
+        "Encrypted Logic Vault",
+        "ELV",
+        "Behavioral Hash Validator",
+        "BHV",
+        "Purpose Enforcement Kernel",
+        "PEK",
+        "Mission Identity Template",
+        "MIT",
+        "Recursive Moral Drift Monitor",
+        "RMDM",
+        "licensing gate",
+        "GLG",
+        "Immutable Arbitration Ledger",
+        "IAL",
+        "Override Signature Denial Engine",
+        "OSDE",
+        "Global Override Cascade Trigger",
+        "GOCT",
+        "driver firmware hypervisor",
+        "kernel-mode driver path",
+        "firmware microcode dispatch",
+        "device-firmware microcode path",
+        "hypervisor intercept",
+        "device I/O",
+        "network egress",
+        "dispatch",
+        "actuation",
+        "tool use",
+        "external effect",
+        "short-lived permit",
+        "scope-bound permit",
+        "signed-head freshness",
+        "append-only consistency proof",
+        "MMD freshness",
+        "proof of continuity",
+        "HOLD QUARANTINE DENY ESCALATE",
+        "concurrency prevention tuple",
+        "nonce monotonic counter",
+        "permit identifier",
+        "signed-head identifier",
+        "continuation branch",
+        "gateway-oriented runtime enforcement",
+        "public family brief"
+      ],
+      "keywords": [
+        "Proof before activation",
+        "runtime activation control",
+        "public family brief",
+        "verify-to-activation gate",
+        "fail-closed activation boundary",
+        "current proof purpose fit policy-defined authority permit outcomes review evidence",
+        "gateway-oriented runtime enforcement",
+        "device I/O network egress dispatch actuation tool use external effect",
+        "parent continuation NOVACOV patent family",
+        "written-scope continuation branch"
+      ]
+    },
+    {
+      "title": "TRC — Trusted Reality Compositor",
+      "url": "/patents/trc/",
+      "section": "Patent Family Briefs",
+      "kind": "Proof before pixels / reality-surface rail",
+      "weight": 780,
+      "summary": "Proof before pixels: receipt-gated compositor control for synthetic overlays before render, label, share, upload, record/capture, clipboard, cast, mirror, remote stream, or downstream reliance.",
+      "aliases": [
+        "TRC",
+        "Trusted Reality Compositor",
+        "Reality Compositor Rail",
+        "Reality Receipts",
+        "Reality Receipt",
+        "R2",
+        "proof before pixels",
+        "proof before rendered reality",
+        "receipt-gated rendering",
+        "view-permit latch",
+        "per-frame verification",
+        "frame-budget verification",
+        "machine-readable label",
+        "machine-audible label",
+        "View Receipt",
+        "Interaction Receipt",
+        "Structured Precondition-Failure",
+        "TIME_BUDGET_EXCEEDED",
+        "render share upload record clipboard",
+        "cast mirror remote egress",
+        "AR VR camera overlays",
+        "camera overlays",
+        "synthetic overlays",
+        "compositor gate",
+        "proof before sight becomes reliance"
+      ],
+      "keywords": [
+        "Proof before pixels",
+        "Trusted Reality Compositor",
+        "Reality Receipt R2",
+        "per-frame view-permit latch",
+        "machine-readable label",
+        "egress parity for render share upload record capture clipboard cast mirror remote",
+        "synthetic overlays AR VR camera HUD HMD browser mobile automotive clinical visualization",
+        "View Receipts Interaction Receipts Certification Results",
+        "public family brief no claim chart"
+      ],
+      "description": "TRC public patent family brief for proof-before-pixels: Reality Receipts, signed-head freshness, frame-budget verification, compositor view-permit latch, machine-readable labels, and render/egress parity."
+    },
+    {
+      "title": "RVAL Replay-Verifiable Acceptance — Patent Family Brief",
+      "url": "/patents/rval/",
+      "section": "Patent Family Briefs",
+      "kind": "Proof before acceptance",
+      "weight": 505,
+      "summary": "Can the proof, validator, policy version, reason codes, certificate, and registry evidence be replayed before reliance?",
+      "aliases": [
+        "RVAL",
+        "Replay-Verifiable Acceptance",
+        "Replay-Verifiable Conformance",
+        "RVAL / Verifier-of-verifiers",
+        "RVAL / Conformance Receipts",
+        "conformance receipts",
+        "deterministic conformance suites",
+        "validator implementation certification",
+        "validator certification",
+        "verifiable certificate registry",
+        "certificate registry",
+        "signed conformance certificate",
+        "conformance pack",
+        "PASS FAIL HOLD",
+        "deterministic reason codes",
+        "reason-code registry",
+        "proof before acceptance",
+        "verifier of verifiers",
+        "procurement acceptance testing",
+        "continuous conformance monitoring",
+        "fail-closed conformance"
+      ],
+      "keywords": [
+        "proof before acceptance",
+        "replay the decision not the story",
+        "deterministic validator",
+        "policy pack identifier",
+        "policy version digest",
+        "validator digest",
+        "reason-code registry digest",
+        "conformance suite",
+        "test vectors",
+        "expected validator outputs",
+        "certificate registry signed head inclusion proof freshness revocation",
+        "public family brief",
+        "scoped diligence",
+        "claim-level under written scope"
+      ],
+      "description": "RVAL public patent family brief for replay-verifiable acceptance: conformance receipts, deterministic validators, conformance suites, certificate registries, fail-closed routing, continuous revalidation, and procurement-ready proof packages."
+    },
+    {
+      "title": "ACE — Hardware-Rooted Compute Admission",
+      "url": "/patents/ace/",
+      "section": "Patent Family Briefs",
+      "kind": "Proof before compute",
+      "weight": 610,
+      "summary": "Should this accelerator work become executable now?",
+      "aliases": [
+        "Compute Admission Rail",
+        "ACE / Compute Receipts",
+        "ace",
+        "ACE",
+        "compute receipts",
+        "compute execution permit",
+        "CEP",
+        "permit before compute",
+        "accelerator",
+        "hypervisor",
+        "energy budget",
+        "residency",
+        "export class",
+        "unlearning status",
+        "Attested Compute and Energy",
+        "hardware-rooted execution evidence",
+        "hardware rooted execution evidence",
+        "proof before compute",
+        "compute admission rail",
+        "Compute Execution Permit",
+        "compute receipt",
+        "CRc",
+        "accelerator admission",
+        "accelerator gate",
+        "DPU security",
+        "TEE evidence",
+        "confidential AI",
+        "secure inference",
+        "driver firmware hypervisor",
+        "firmware gate",
+        "hypervisor gate",
+        "GPU admission",
+        "accelerator security",
+        "carbon budget",
+        "TFLOPs",
+        "kWh",
+        "data residency",
+        "policy allow mask",
+        "signed heads",
+        "freshness-bounded signed heads",
+        "hardware root of trust",
+        "should this action be accepted now",
+        "should this compute be admitted now",
+        "not only proof of execution proof of acceptance"
+      ],
+      "keywords": [
+        "Can accelerator work become executable only after current policy, entitlement, residency, export, energy, and freshness proof hold?",
+        "High-stakes compute should not silently start when proof is stale.",
+        "patent family brief",
+        "public record",
+        "scoped diligence",
+        "claim-level under written scope",
+        "hardware-rooted evidence",
+        "confidential AI",
+        "accelerator DPU TEE firmware driver platform security",
+        "action acceptance before effect boundary",
+        "measured does not always mean acceptable",
+        "PASS HOLD DENY EMERGENCY_STOP",
+        "Evidence Registry",
+        "Compute Receipt",
+        "budget slice",
+        "policy epoch",
+        "revocation",
+        "allow mask",
+        "anti-replay",
+        "meter-enforced budgets"
+      ],
+      "description": "ACE public patent family brief for hardware-rooted permit-before-compute admission control across accelerators, DPUs, TEEs, drivers, firmware, hypervisors, budgets, residency, export, and compute receipts."
+    },
+    {
+      "title": "VIC-WM — Verifiable Inference Credentials",
+      "url": "/patents/vic-wm/",
+      "section": "Patent Family Briefs",
+      "kind": "Content provenance rail",
+      "weight": 620,
+      "summary": "Can AI-generated content carry content-checkable inference evidence without trusting a provider story?",
+      "aliases": [
+        "Verifiable Inference Credentials",
+        "VIC-WM / Content-only verification",
+        "vic-wm",
+        "VIC-WM",
+        "verifiable inference credentials",
+        "watermarking",
+        "content-only verification",
+        "synthetic content",
+        "activation digest",
+        "provenance report",
+        "content credentials",
+        "vic wm",
+        "content only verification",
+        "activation-keyed dual-channel watermarking",
+        "activation keyed watermark",
+        "dual-channel watermark",
+        "content-resident watermark",
+        "cryptographic commitment to activation digest",
+        "verifiable inference credential record",
+        "reason-coded provenance report",
+        "machine-verifiable reason codes",
+        "tamper-evident log",
+        "transparency checkpoint",
+        "log inclusion proof",
+        "witness cosignature",
+        "status stapling",
+        "maximum merge delay",
+        "MMD freshness",
+        "disclosure preservation signature",
+        "C2PA",
+        "SynthID",
+        "AI-generated content labeling",
+        "synthetic content watermarking",
+        "deepfake disclosure",
+        "provider provenance",
+        "content path proof",
+        "content should carry its own proof",
+        "proof after content leaves the model",
+        "watermark plus credential",
+        "content credential record",
+        "detection service",
+        "detector profile",
+        "policy profile digest",
+        "payload statistic",
+        "control-channel codeword",
+        "offline verification",
+        "evidence bundle cache",
+        "safety receipt reference",
+        "cross-rail governance reference",
+        "US 12,657,264 B1",
+        "US12657264B1",
+        "24 claims 14 drawing sheets",
+        "issued-record anchors",
+        "NIST AI 100-4",
+        "C2PA Content Credentials",
+        "AI Act Article 50",
+        "Article 50 transparency",
+        "content path verification",
+        "content-checkable inference evidence",
+        "provider-narrative-only",
+        "market signals no endorsement implied"
+      ],
+      "keywords": [
+        "Can machine-generated content carry verifiable inference evidence without asking a reviewer to trust the provider narrative?",
+        "Generated content should carry proof that can be checked from the content path.",
+        "patent family brief",
+        "public record",
+        "scoped diligence",
+        "claim-level under written scope",
+        "content provenance",
+        "synthetic content",
+        "generated content labeling",
+        "watermark detection",
+        "credential record",
+        "content-only offline-capable verification",
+        "verifiable credential envelope",
+        "selective disclosure",
+        "privacy-preserving verification",
+        "distribution accountability",
+        "manifest sidecar",
+        "embedded metadata",
+        "reason code registry",
+        "RVAL conformance references",
+        "Safety Receipts cross-rail binding"
+      ],
+      "description": "Flagship pre-NDA patent family brief for VIC-WM: activation-keyed dual-channel watermarking, content-path verification, verifiable inference credentials, transparency-log evidence, NIST AI 100-4/C2PA/AI Act Article 50 market context, and reason-coded provenance reports."
+    },
+    {
+      "title": "Public Patent Review Rail",
+      "url": "/patents/",
+      "section": "Patent Family Briefs",
+      "kind": "Portfolio front door",
+      "weight": 470,
+      "summary": "Review issued records and public category briefs before scoped diligence.",
+      "aliases": [
+        "patents",
+        "patent family briefs",
+        "issued patent record",
+        "public patent review rail",
+        "review the public record",
+        "scope the private depth"
+      ],
+      "keywords": [
+        "10 issued records",
+        "public category brief",
+        "scoped diligence",
+        "licensing",
+        "claim-level under written scope"
+      ],
+      "description": "Issued records and public category briefs for proof-before-impact infrastructure."
+    },
+    {
+      "title": "Sensor Receipts",
+      "url": "/sensor-receipts/",
+      "section": "Proof Architecture",
+      "kind": "Input-boundary review",
+      "weight": 500,
+      "summary": "Proof before perception. Input-boundary review before downstream AI relies on sensor, image, audio, location, device-state, or derived streams.",
+      "aliases": [
+        "sensor",
+        "sensor receipt",
+        "sensor receipts",
+        "proof before perception",
+        "input boundary",
+        "input-boundary review",
+        "trusted sensor ingress",
+        "trusted sensor ingress layer",
+        "TSIL",
+        "S2",
+        "S2 sensor receipt",
+        "sensor evidence",
+        "receipt-gated ingress",
+        "fail-closed sensor ingress",
+        "OS HAL sensor gate",
+        "medical imaging receipts",
+        "liveness receipt",
+        "liveness",
+        "multi-sensor consistency",
+        "sensor integrity",
+        "sensor integrity score",
+        "sensor evidence bundle",
+        "capture admission reliance",
+        "was the input trustworthy enough to enter",
+        "proof before sensor data",
+        "camera spoof",
+        "audio spoof",
+        "location spoof",
+        "image authenticity",
+        "signal upstream",
+        "input boundary review",
+        "proof before perception AI"
+      ],
+      "keywords": [
+        "capture boundary",
+        "admission boundary",
+        "reliance boundary",
+        "freshness",
+        "liveness",
+        "consistency",
+        "medical imaging",
+        "robotics",
+        "identity and liveness",
+        "AR VR spatial computing",
+        "industrial telemetry",
+        "camera",
+        "audio",
+        "image",
+        "location",
+        "device state",
+        "derived stream",
+        "OS",
+        "HAL",
+        "PACS",
+        "edge",
+        "spoof",
+        "replay"
+      ],
+      "description": "Proof before perception. Input-boundary review before downstream AI relies on sensor, image, audio, location, device-state, or derived streams."
+    },
+    {
+      "title": "Safety Receipts",
+      "url": "/safety-receipts/",
+      "section": "Applied Proof Boundaries",
+      "kind": "Care-boundary review",
+      "weight": 575,
+      "summary": "Proof before care impact. Reviewer-ready evidence before AI-assisted recommendations, displays, write-backs, device actions, or downstream reliance affect care.",
+      "aliases": [
+        "AI clinical decision support evidence",
+        "AI medical safety receipt",
+        "AI-assisted care receipt",
+        "BAPR",
+        "EHR DSI safety receipt",
+        "HTI",
+        "HTI safety receipt",
+        "bedside AI",
+        "bedside safety receipt",
+        "care boundary",
+        "care boundary review",
+        "care episode",
+        "care episode evidence",
+        "care-boundary proof",
+        "care-boundary review",
+        "clinical AI",
+        "clinical AI receipt",
+        "clinical AI safety receipts",
+        "clinical decision support receipt",
+        "device action",
+        "display",
+        "downstream reliance",
+        "patient downstream proof",
+        "proof before care",
+        "proof before care impact",
+        "proof before AI-assisted output becomes care impact",
+        "safety",
+        "safety evidence packet",
+        "safety receipt",
+        "safety receipts",
+        "sensor receipts",
+        "what proof traveled with the care episode",
+        "write-back"
+      ],
+      "keywords": [
+        "recommendation",
+        "display",
+        "write-back",
+        "device action",
+        "downstream reliance",
+        "input boundary",
+        "decision boundary",
+        "finalization boundary",
+        "patient downstream",
+        "clinician",
+        "health system",
+        "payer",
+        "regulator",
+        "medical device",
+        "EHR",
+        "DSI",
+        "clinical decision support"
+      ],
+      "description": "Proof before care impact. Reviewer-ready evidence before AI-assisted recommendations, displays, write-backs, device actions, or downstream reliance affect care."
+    },
+    {
+      "title": "Clinical AI Acceptance Controls",
+      "url": "/clinical-ai-acceptance-controls/",
+      "section": "Applied Boundaries",
+      "kind": "Proof before care actions",
+      "weight": 650,
+      "summary": "A public-safe applied model for clinical AI acceptance controls: evidence freshness, reviewer pathways, safety evidence packets, dashboard reporting, and review/replay before pharmacy transmission, EHR write-back, patient-facing release, or other care effects.",
+      "description": "Missing clinical proof should become HOLD or ESCALATE, not implied approval.",
+      "aliases": [
+        "90-day replay layer",
+        "accept hold escalate refuse",
+        "AI clinical acceptance",
+        "AI pharmacy transmission",
+        "AI prescription renewal",
+        "care action",
+        "Care-Boundary Patent Record",
+        "care-boundary review",
+        "clinical acceptance boundary",
+        "clinical AI",
+        "clinical AI acceptance controls",
+        "clinical AI controls",
+        "clinical AI ESCALATE",
+        "clinical AI HOLD",
+        "clinical AI replay packet",
+        "clinical AI safety controls",
+        "clinical AI safety receipts",
+        "dashboard counts replay packets",
+        "EHR write-back",
+        "EHR writeback",
+        "HTI + BAPR patent route",
+        "medication policy freshness",
+        "medication-specific evidence",
+        "missing clinical proof",
+        "override required",
+        "patient-facing release",
+        "pharmacist escalation",
+        "pharmacy transmission",
+        "physician review path",
+        "pre transmission acceptance",
+        "pre-transmission acceptance control",
+        "prescription renewal AI",
+        "prescription renewal controls",
+        "proof before care action leaves workflow",
+        "proof before care actions",
+        "redacted replay packet",
+        "reviewer pathway",
+        "safety evidence packet",
+        "safety receipt patent",
+        "sandbox-control language"
+      ],
+      "keywords": [
+        "ACCEPT ACCEPT WITH GUARDRAILS HOLD ESCALATE REFUSE OVERRIDE REQUIRED",
+        "dashboard counts trace back to replayable packets",
+        "HTI BAPR issued record route",
+        "linked to Care-Boundary Review patent family",
+        "Missing clinical proof should become HOLD or ESCALATE, not implied approval",
+        "No current medication policy no transmission",
+        "No evidence package no transmission",
+        "No identity prescription match no transmission",
+        "No valid reviewer pathway no transmission",
+        "pharmacy transmission EHR write-back patient-facing release downstream reliance",
+        "pre-transmission acceptance plane",
+        "Proof before care actions leave the workflow",
+        "redacted safety evidence packet",
+        "safety evidence packet"
+      ]
+    },
+    {
+      "title": "Execution Boundary",
+      "url": "/execution-boundary/",
+      "section": "Proof Architecture",
+      "kind": "External effect boundary",
+      "weight": 485,
+      "summary": "The boundary is the product. Where proposed AI operations become external effects and proof must attach before impact.",
+      "aliases": [
+        "execution boundary",
+        "external effect boundary",
+        "boundary is the product",
+        "AI action boundary",
+        "action boundary",
+        "proof-bearing control plane",
+        "where proof attaches",
+        "where AI action becomes external effect",
+        "where AI changes the world",
+        "trust boundary",
+        "effect boundary",
+        "protected-action boundary",
+        "proof before action becomes effect",
+        "acceptance plane vs execution boundary",
+        "execution authorization"
+      ],
+      "keywords": [
+        "authority",
+        "context",
+        "proof",
+        "ACCEPT HOLD REFUSE",
+        "external effect",
+        "acceptance plane",
+        "acceptance boundary API",
+        "commit-time authorization",
+        "runtime governance",
+        "action control",
+        "HOLD or REFUSE before impact",
+        "execution boundary",
+        "external effect boundary",
+        "AI action boundary",
+        "boundary is the product",
+        "proof-bearing control plane",
+        "execution authorization",
+        "AI action control plane",
+        "protected action boundary",
+        "effect boundary",
+        "before external effect",
+        "AI agent external effect",
+        "where AI changes the world",
+        "AI output to action boundary",
+        "Permit Receipts",
+        "Evidence Packs",
+        "Run the Verifier",
+        "Instruction Promotion Gates",
+        "NIST AI agent identity authorization",
+        "MCP security guidance",
+        "agentic AI adoption guidance",
+        "AP2 runtime verification",
+        "EU AI agents law",
+        "external actions data flows connected systems affected persons"
+      ],
+      "description": "The boundary is the product. Where proposed AI operations become external effects and proof must attach before impact."
+    },
+    {
+      "title": "Permit Receipts",
+      "url": "/permit-receipts/",
+      "section": "Proof Architecture",
+      "kind": "Permit-before-commit evidence",
+      "weight": 478,
+      "summary": "Proof before commit. Machine-verifiable permit evidence before protected external effects become real.",
+      "aliases": [
+        "permit",
+        "permit receipt",
+        "permit receipts",
+        "permit before commit",
+        "permit-before-commit",
+        "ORPRG",
+        "operational permit receipt gate",
+        "external effect receipt",
+        "proof before commit",
+        "proof before external effect commits",
+        "was it permitted before commit",
+        "machine-verifiable permit",
+        "policy epoch receipt",
+        "effect boundary receipt",
+        "revocation stale HOLD",
+        "PermitReceipt",
+        "PermitReceipts",
+        "12,640,933",
+        "12640933",
+        "US 12,640,933",
+        "before commit authorization",
+        "AI agent permit receipt",
+        "workload external effect",
+        "agentic commerce",
+        "agent payments",
+        "Agent Payments Protocol",
+        "AP2",
+        "Agent Pay",
+        "Agent Pay for Machines",
+        "machine payments",
+        "machine-speed commerce",
+        "autonomous payments",
+        "checkout agent",
+        "payment mandate",
+        "verifiable mandate",
+        "merchant controls",
+        "payment before commit",
+        "order before commit",
+        "purchase submission",
+        "money movement",
+        "commerce effect boundary",
+        "payment external effect",
+        "was the external effect permitted before commit"
+      ],
+      "keywords": [
+        "effect boundary",
+        "external effect",
+        "permit evidence",
+        "proof before external effect",
+        "revocation",
+        "policy epoch",
+        "fail-closed",
+        "action digest",
+        "receipt authenticity",
+        "authority profile",
+        "scope",
+        "recency",
+        "epoch compatibility",
+        "agentic commerce",
+        "payments",
+        "AP2",
+        "machine-speed commerce signal",
+        "agent checkout signal",
+        "machine-to-machine payments",
+        "permit-before-commit",
+        "external effects"
+      ],
+      "description": "Proof before commit. Machine-verifiable permit evidence before protected external effects become real."
+    },
+    {
+      "title": "Evidence Packs",
+      "url": "/evidence-packs/",
+      "section": "Proof Architecture",
+      "kind": "Reviewer-ready proof package",
+      "weight": 470,
+      "summary": "Proof that survives review. Reviewer-ready proof packages behind ACCEPT, HOLD, or REFUSE outcomes.",
+      "aliases": [
+        "ACCEPT HOLD REFUSE evidence",
+        "EvidencePack",
+        "EvidencePacks",
+        "HOLD evidence",
+        "audit proof package",
+        "boundary decision record",
+        "clinical AI replay packet",
+        "evidence",
+        "evidence digest",
+        "evidence pack",
+        "evidence packs",
+        "evidence_ref",
+        "insurance-grade review",
+        "policy epoch proof",
+        "procurement evidence pack",
+        "proof package",
+        "proof packet",
+        "proof that survives review",
+        "receipts not narratives",
+        "redacted replay packet",
+        "regulatory inquiry",
+        "reviewer-ready evidence",
+        "reviewer-ready proof",
+        "run the verifier evidence",
+        "safety evidence packet",
+        "what proof survived the decision"
+      ],
+      "keywords": [
+        "ACCEPT HOLD REFUSE",
+        "policy epoch",
+        "reason code",
+        "receipt references",
+        "audit proof package",
+        "procurement evidence",
+        "insurance-grade review",
+        "regulatory inquiry",
+        "decision record",
+        "human-reviewable",
+        "machine-readable",
+        "privacy-minimized",
+        "replay-aware"
+      ],
+      "description": "Proof that survives review. Reviewer-ready proof packages behind ACCEPT, HOLD, or REFUSE outcomes."
+    },
+    {
+      "title": "Run the Proof · Local Verifier v0.1",
+      "url": "/run-the-verifier/",
+      "section": "Acceptance Plane",
+      "kind": "No-upload local verifier",
+      "weight": 820,
+      "summary": "Run the proof. Reproduce the pause. Browser-local PASS / HOLD / FAIL verifier for public Protected-Action Acceptance demo receipts.",
+      "aliases": [
+        "local verifier",
+        "run the proof",
+        "reproduce the pause",
+        "HOLD Challenge verifier",
+        "PASS HOLD FAIL verifier",
+        "no upload verifier",
+        "protected action verifier",
+        "receipt replay",
+        "proof before impact verifier",
+        "mvg local verifier",
+        "HOLD is protected restraint"
+      ],
+      "keywords": [
+        "Run the proof. Reproduce the pause.",
+        "browser local verifier",
+        "no upload",
+        "Protected-Action Acceptance Profile v0.1",
+        "HOLD Challenge Local Verifier",
+        "PASS HOLD FAIL",
+        "sample receipts",
+        "transcript hash",
+        "reason codes",
+        "receipts not promises"
+      ],
+      "description": "No-upload local verifier for the HOLD Challenge and Protected-Action Acceptance Profile v0.1. Public demo receipts only; not certification, legal advice, claim chart, implementation mapping, or license grant."
+    },
+    {
+      "title": "Instruction Promotion Gates",
+      "url": "/instruction-promotion-gates/",
+      "section": "Proof Architecture",
+      "kind": "Content-to-action review",
+      "weight": 460,
+      "summary": "Content is not authority. Separate proposed instructions from authorized operations before tool calls, workflow commits, and external effects.",
+      "aliases": [
+        "instruction promotion gates",
+        "instruction promotion",
+        "content is not authority",
+        "suggestion is not permission",
+        "a suggestion is not permission",
+        "prompt is not approval",
+        "prompt is not authority",
+        "retrieved instruction is not authority",
+        "plan is not approval",
+        "can content promote itself into action",
+        "context is not authority",
+        "tool call promotion",
+        "proposed instruction gate",
+        "external content authorization",
+        "untrusted content tool call",
+        "RAG prompt injection approval",
+        "prompt injection tool call",
+        "a plan is not approval",
+        "agent tool invocation approval",
+        "AI agent content authority"
+      ],
+      "keywords": [
+        "untrusted content",
+        "retrieval",
+        "tool call",
+        "proposed action",
+        "authority",
+        "promotion proof",
+        "HOLD",
+        "mutable shared document",
+        "external context artifact",
+        "authority-bearing",
+        "context-only"
+      ],
+      "description": "Content is not authority. Separate proposed instructions from authorized operations before tool calls, workflow commits, and external effects."
+    },
+    {
+      "title": "Review Packet",
+      "url": "/review/",
+      "section": "Conversion Route",
+      "kind": "Partner review",
+      "weight": 230,
+      "aliases": [
+        "review",
+        "review packet",
+        "partner review",
+        "public proof route",
+        "start review",
+        "serious partner review",
+        "public-safe review",
+        "start a serious partner review",
+        "review without sending secrets",
+        "review without secrets",
+        "internal champion note",
+        "copy internal review note",
+        "independent pressure-test",
+        "pressure test",
+        "protected action boundary",
+        "validation front door",
+        "public-safe pressure-test"
+      ],
+      "keywords": [
+        "Review",
+        "Review Packet",
+        "public proof",
+        "verify locally",
+        "first email",
+        "partner review",
+        "security",
+        "procurement",
+        "counsel",
+        "licensing"
+      ],
+      "description": "Start a serious partner review without sending secrets. Public proof first; private depth only under written scope.",
+      "summary": "Start a serious partner review without sending secrets. Public proof first; private depth only under written scope."
+    },
+    {
+      "title": "Protected-Action Review",
+      "url": "/review/protected-action/",
+      "section": "Review",
+      "kind": "Commercial review route",
+      "weight": 930,
+      "summary": "Bring one protected action. Meridian Verity maps the public-safe evidence route and defines written scope before private technical depth.",
+      "description": "Public-safe route for one action surface, one evidence consumer, one HOLD condition, and one public-safe artifact. No confidential material before written scope.",
+      "aliases": [
+        "protected action review",
+        "bring one protected action",
+        "written scope before depth",
+        "review route",
+        "one action boundary",
+        "protected-action review",
+        "copy review brief"
+      ]
+    },
+    {
+      "title": "Public-safe first email",
+      "url": "/contact/?route=review#first-email",
+      "section": "Conversion Route",
+      "kind": "Contact route",
+      "weight": 410,
+      "aliases": [
+        "contact",
+        "first email",
+        "send first email",
+        "public-safe first email",
+        "email",
+        "contact sales",
+        "reach out",
+        "send public-safe first email",
+        "partner contact",
+        "public safe email",
+        "route first note",
+        "send public safe first email",
+        "first note",
+        "public safe contact"
+      ],
+      "keywords": [
+        "Email",
+        "first email",
+        "public-safe",
+        "contact",
+        "review route",
+        "scoped review",
+        "no confidential material",
+        "review",
+        "safe first note"
+      ],
+      "description": "Send a public-safe first email without confidential, regulated, legal, security-sensitive, or deployment-specific material.",
+      "summary": "Send a public-safe first email without confidential, regulated, legal, security-sensitive, or deployment-specific material."
+    },
+    {
+      "title": "Licensing",
+      "url": "/licensing/",
+      "section": "Commercial Route",
+      "kind": "Scoped diligence",
+      "weight": 220,
+      "aliases": [
+        "10 issued U.S. patent records",
+        "AI control licensing",
+        "ORPRG licensing",
+        "agentic commerce licensing",
+        "agentic commerce review route",
+        "claim-level review",
+        "commercial discussion",
+        "compute admission",
+        "conformance evidence",
+        "dependency leverage",
+        "field of use",
+        "field-of-use rights implementation depth",
+        "license",
+        "license instead of rebuild",
+        "license the boundary",
+        "licensing",
+        "partner route",
+        "patent license",
+        "private depth",
+        "proof before impact licensing",
+        "proof before payment licensing",
+        "provenance",
+        "public proof first",
+        "rebuild",
+        "rights timing evidence",
+        "scoped diligence",
+        "start scoped diligence",
+        "switch scoped diligence",
+        "visible bounded provable licensing",
+        "written scope"
+      ],
+      "keywords": [
+        "can the proposed action be made visible bounded and provable before it commits",
+        "economic actions need proof before acceptance",
+        "high-stakes AI actions",
+        "licensing",
+        "partner route",
+        "proof before impact",
+        "public patent-record controls",
+        "public proof",
+        "scoped diligence"
+      ],
+      "summary": "Licensing route with Agentic Commerce Review Route: start with ORPRG public brief, then move to scoped diligence under written scope.",
+      "tags": [
+        "licensing",
+        "proof before impact",
+        "public proof first",
+        "scoped diligence",
+        "public patent-record",
+        "partner route"
+      ],
+      "blurb": "Partner-first licensing gateway: public proof first, scoped diligence second, and reviewable evidence before high-stakes AI actions take effect.",
+      "description": "Move claim-level, commercial, conformance, and implementation depth under written scope."
+    },
+    {
+      "title": "Procurement",
+      "url": "/procurement/",
+      "section": "Buyer Route",
+      "kind": "Procurement evidence",
+      "weight": 210,
+      "aliases": [
+        "procurement",
+        "procurement kit",
+        "buyer review",
+        "attachable artifacts",
+        "security procurement",
+        "vendor review",
+        "RFP",
+        "evidence pack procurement",
+        "reviewer-ready proof artifacts",
+        "procurement for high-stakes ai",
+        "procurement‑grade deliverables — verified offline.",
+        "buyer pack",
+        "buyer",
+        "security review",
+        "ticket pack",
+        "see prove route",
+        "attach proof route",
+        "procurement control gap",
+        "HOLD Drill",
+        "AI Action Control Drill",
+        "HOLD Drill Summary",
+        "can your AI action stop before impact",
+        "Protected Action Register",
+        "AI Action Surface Register",
+        "name what AI can touch",
+        "action inventory"
+      ],
+      "keywords": [
+        "procurement",
+        "for",
+        "high",
+        "stakes",
+        "grade",
+        "deliverables",
+        "verified",
+        "offline",
+        "diligence",
+        "counsel",
+        "security",
+        "reviewable",
+        "hold drill",
+        "control tabletop",
+        "public tabletop",
+        "protected action register",
+        "action inventory",
+        "action surface"
+      ],
+      "summary": "Attach reviewer-ready proof artifacts for security, procurement, counsel, and internal champion workflows.",
+      "description": "Attach reviewer-ready proof artifacts for security, procurement, counsel, and internal champion workflows."
+    },
+    {
+      "title": "Acceptance Boundary API",
+      "url": "/acceptance-boundary-api/",
+      "tags": [
+        "acceptance boundary api",
+        "buyer route",
+        "permit before commit",
+        "external effect",
+        "agent tools",
+        "mcp-style interfaces",
+        "api gateways",
+        "service meshes",
+        "scoped diligence"
+      ],
+      "blurb": "No external effect commits without proof. Buyer-facing route for where proof-before-commit controls enter agent tools, gateways, meshes, backend hooks, and protected workflows.",
+      "description": "Buyer-facing route for proof-before-impact acceptance boundaries and scoped implementation discussion.",
+      "summary": "Buyer-facing route for proof-before-impact acceptance boundaries and scoped implementation discussion.",
+      "aliases": [
+        "acceptance boundary api",
+        "acceptance boundary",
+        "buyer route",
+        "proof-before-commit boundary",
+        "boundary api",
+        "ABA",
+        "acceptance plane api",
+        "No external effect commits without proof",
+        "publish the boundary gate the mechanism license the rail",
+        "hold placement",
+        "scoped mapping",
+        "boundary placement",
+        "one protected workflow"
+      ],
+      "keywords": [
+        "Acceptance Boundary API",
+        "permit before commit",
+        "proof before impact",
+        "external effect",
+        "MCP-style interfaces",
+        "API gateways",
+        "service meshes",
+        "backend commit hooks",
+        "scoped diligence"
+      ],
+      "weight": 208,
+      "section": "Commercial Route",
+      "kind": "Buyer route"
+    },
+    {
+      "title": "Resources",
+      "url": "/resources/",
+      "section": "Navigation",
+      "kind": "Proof Architecture hub",
+      "weight": 202,
+      "aliases": [
+        "resources",
+        "proof architecture",
+        "proof architecture hub",
+        "tools and record",
+        "all routes",
+        "site map",
+        "public record",
+        "moved"
+      ],
+      "keywords": [
+        "moved",
+        "resources"
+      ],
+      "summary": "Tools, records, and proof architecture routes including Sensor Receipts, Safety Receipts, Execution Boundary, Permit Receipts, Evidence Packs, and Run the Verifier.",
+      "description": "Tools, records, and proof architecture routes including Sensor Receipts, Safety Receipts, Execution Boundary, Permit Receipts, Evidence Packs, and Run the Verifier."
+    },
+    {
+      "title": "Company",
+      "url": "/company/",
+      "section": "Company",
+      "kind": "Mission and public proof",
+      "weight": 195,
+      "aliases": [
+        "company",
+        "meridian verity",
+        "meridian verity group",
+        "scott lee",
+        "founder",
+        "mission",
+        "proof before impact company",
+        "public brand",
+        "Acceptance Boundary API buyer route",
+        "Acceptance Plane company story",
+        "company | mission, public proof, and official identity",
+        "decision before action. proof before impact.",
+        "human-protective AI infrastructure",
+        "mission-led proof before impact",
+        "official identity",
+        "one thesis four review surfaces",
+        "public patent review rail",
+        "people accounts institutions systems",
+        "pre-impact boundary",
+        "protect what AI actions reach",
+        "public brand of Meridian Verity Group",
+        "public category name",
+        "public proof",
+        "scoped diligence protects the mechanism",
+        "downstream boundary"
+      ],
+      "keywords": [
+        "Acceptance Boundary API",
+        "Acceptance Plane",
+        "Human-Protective AI Infrastructure",
+        "Patent-backed record",
+        "People Accounts Institutions Systems",
+        "Proof Before Impact",
+        "Protected Actions",
+        "Public Brand",
+        "Scoped Diligence",
+        "and",
+        "company",
+        "decision",
+        "identity",
+        "meridian verity group",
+        "mission",
+        "official",
+        "proof",
+        "public",
+        "public category",
+        "scope-bound evidence",
+        "scott lee",
+        "who we are"
+      ],
+      "summary": "Meridian Verity is the public brand of Meridian Verity Group: proof-before-impact infrastructure for consequential AI actions.",
+      "blurb": "Human-protective infrastructure for proof-before-impact AI action: public brand identity, mission, Acceptance Plane category, buyer route, patent record, and scoped diligence boundaries.",
+      "description": "Meridian Verity is the public brand of Meridian Verity Group: proof-before-impact infrastructure for consequential AI actions.",
+      "tags": [
+        "company",
+        "kyb",
+        "identity",
+        "vendor",
+        "human-protective infrastructure",
+        "proof before impact",
+        "protected action",
+        "current evidence"
+      ]
+    },
+    {
+      "title": "No Silent Switch | Control Continuity Kit",
+      "url": "/control-continuity/",
+      "section": "Procurement",
+      "kind": "Public planning aid",
+      "weight": 180,
+      "tags": [
+        "control continuity",
+        "dependency change",
+        "HOLD",
+        "proof before impact",
+        "buyer prompts"
+      ],
+      "aliases": [
+        "No Silent Switch",
+        "Control Continuity Kit",
+        "control continuity",
+        "AI Control Continuity Addendum",
+        "AI dependency continuity",
+        "dependency change",
+        "changed proof is not continuity",
+        "control must survive the switch",
+        "model replacement control",
+        "vendor switch proof",
+        "proof continuity",
+        "switch readiness",
+        "HOLD during transition",
+        "no silent switch worksheet"
+      ],
+      "keywords": [
+        "control continuity",
+        "dependency change",
+        "model replacement",
+        "vendor outage",
+        "proof-source expiry",
+        "entitlement change",
+        "region move",
+        "compute path",
+        "HOLD",
+        "proof before impact",
+        "continuity proof"
+      ],
+      "summary": "Public-safe worksheet and buyer prompts for AI dependency changes. Affected protected actions return to HOLD until current proof re-establishes authority, scope, policy, and review.",
+      "description": "Control must survive the switch. Generate a Control Continuity Summary locally in the browser."
+    },
+    {
+      "title": "No Silent Pass | Buyer Language Kit",
+      "url": "/no-silent-pass/",
+      "section": "Procurement",
+      "kind": "Route",
+      "weight": 176,
+      "tags": [
+        "buyer language",
+        "procurement",
+        "vendor review",
+        "HOLD",
+        "proof before impact"
+      ],
+      "aliases": [
+        "No Silent Pass",
+        "missing proof is not approval",
+        "buyer language kit",
+        "Protected-Action Acceptance Addendum",
+        "vendor review prompts",
+        "RFP prompts",
+        "no silent pass clause kit",
+        "AI procurement language",
+        "proof is not approval",
+        "HOLD clause",
+        "buyer prompts",
+        "vendor security counsel procurement review"
+      ],
+      "keywords": [
+        "missing proof",
+        "not approval",
+        "buyer language",
+        "RFP",
+        "vendor review",
+        "procurement",
+        "scoped diligence",
+        "HOLD",
+        "protected action acceptance"
+      ],
+      "summary": "Buyer-side language for AI procurement, vendor review, and scoped diligence. Public drafting aid only; not legal advice or a model contract.",
+      "description": "Buyer-side prompts for vendor, security, counsel, and procurement review: missing proof is not approval."
+    },
+    {
+      "title": "The HOLD Drill | AI Action Control Tabletop",
+      "url": "/hold-drill/",
+      "section": "Review",
+      "kind": "Public tabletop",
+      "weight": 172,
+      "aliases": [
+        "AI Action Control Drill",
+        "Can your AI action stop before impact",
+        "HOLD Drill",
+        "HOLD Drill Summary",
+        "action surface required proof HOLD condition reviewer artifact",
+        "control tabletop",
+        "download worksheet",
+        "fail closed drill",
+        "fail-closed tabletop",
+        "no confidential material",
+        "one-page worksheet",
+        "proof drill",
+        "public tabletop",
+        "run one protected action",
+        "see switch hold prove",
+        "the hold drill",
+        "public tabletop worksheet",
+        "HOLD Drill worksheet",
+        "Protected Action Register",
+        "AI Action Surface Register",
+        "name what AI can touch",
+        "action inventory"
+      ],
+      "keywords": [
+        "hold drill",
+        "AI action control",
+        "protected action",
+        "HOLD",
+        "proof before impact",
+        "public tabletop",
+        "review summary",
+        "security review",
+        "procurement attachment",
+        "control gap",
+        "protected action register",
+        "action inventory",
+        "action surface"
+      ],
+      "summary": "A public no-confidential-data tabletop for one protected AI action, with a local worksheet, one-page PDF worksheet, and reviewer-ready HOLD Drill Summary.",
+      "description": "A public no-confidential-data tabletop for one protected AI action, with a local worksheet, one-page PDF worksheet, and reviewer-ready HOLD Drill Summary.",
+      "tags": [
+        "HOLD Drill",
+        "AI action control",
+        "proof before impact",
+        "public tabletop"
+      ]
+    },
+    {
+      "title": "Protected Action Register",
+      "url": "/protected-action-register/",
+      "section": "Review",
+      "kind": "Public-safe action inventory",
+      "weight": 166,
+      "aliases": [
+        "protected action register",
+        "AI action surface register",
+        "action inventory",
+        "agent action inventory",
+        "AI action inventory",
+        "protected effect register",
+        "name what AI can touch",
+        "you cannot HOLD what you have not named",
+        "protected action intake",
+        "action surface inventory",
+        "register before hold drill"
+      ],
+      "keywords": [
+        "Protected Action Register",
+        "AI Action Surface Register",
+        "action surface",
+        "protected effect",
+        "dependency",
+        "reviewer owner",
+        "next route",
+        "HOLD Drill",
+        "public-safe register",
+        "AI action control",
+        "control gap"
+      ],
+      "description": "Public-safe register for naming protected AI action surfaces before running a HOLD Drill or moving into scoped review.",
+      "summary": "Public-safe register for naming protected AI action surfaces before running a HOLD Drill or moving into scoped review."
+    },
+    {
+      "title": "The Control Gap Operating Model",
+      "url": "/control-gap/",
+      "section": "Review",
+      "kind": "Public operating model",
+      "weight": 160,
+      "aliases": [
+        "control gap",
+        "control gap operating model",
+        "see switch hold prove",
+        "AI action control",
+        "action control operating model",
+        "see switch hold prove before impact",
+        "control is becoming the scarce asset",
+        "AI sovereignty operating model",
+        "dependency control",
+        "proof before impact operating model",
+        "HOLD Drill",
+        "AI Action Control Drill",
+        "HOLD Drill Summary",
+        "can your AI action stop before impact",
+        "Protected Action Register",
+        "AI Action Surface Register",
+        "name what AI can touch",
+        "action inventory"
+      ],
+      "keywords": [
+        "Control Gap",
+        "SEE",
+        "SWITCH",
+        "HOLD",
+        "PROVE",
+        "AI action control",
+        "proof before impact",
+        "agentic AI",
+        "AI dependencies",
+        "operating model",
+        "security review",
+        "procurement",
+        "licensing",
+        "public proof",
+        "hold drill",
+        "control tabletop",
+        "public tabletop",
+        "protected action register",
+        "action inventory",
+        "action surface"
+      ],
+      "description": "Public operating model for proof-before-impact control: SEE, SWITCH, HOLD, and PROVE before high-stakes AI actions take effect.",
+      "summary": "Public operating model for proof-before-impact control: SEE, SWITCH, HOLD, and PROVE before high-stakes AI actions take effect."
+    },
+    {
+      "title": "Acceptance Keyhole DevKit",
+      "url": "/acceptance-keyhole-devkit/",
+      "section": "Resources",
+      "kind": "Developer Preview",
+      "weight": 158,
+      "aliases": [
+        "keyhole",
+        "acceptance keyhole",
+        "acceptance keyhole devkit",
+        "developer preview",
+        "protected effect decorators",
+        "try the keyhole",
+        "license the rail",
+        "mvg acceptance",
+        "mvg-acceptance",
+        "mcp keyhole",
+        "langchain adapter",
+        "crewai adapter",
+        "gateway ext-authz",
+        "hold drill cli"
+      ],
+      "keywords": [
+        "Acceptance Keyhole DevKit",
+        "Protected Effect Decorators",
+        "MCP",
+        "LangChain",
+        "LangGraph",
+        "CrewAI",
+        "gateway ext-authz",
+        "HOLD Drill",
+        "public preview",
+        "developer preview",
+        "protected effects",
+        "missing proof is not approval"
+      ],
+      "description": "Public-preview adapters show where protected effects should HOLD or REFUSE before impact. Production verifier profiles, conformance packs, canonicalization, cryptographic bindings, certification marks, and patent-license scope remain under written scope.",
+      "summary": "Try the keyhole. License the rail. Developer preview for MCP, LangChain/LangGraph, CrewAI, gateways, backend commit hooks, and HOLD Drill review."
+    },
+    {
+      "title": "Trust Center | HOLD is control",
+      "url": "/trust-center/",
+      "section": "Trust",
+      "kind": "Signed public state",
+      "weight": 154,
+      "aliases": [
+        "HOLD is control",
+        "fail-closed HOLD",
+        "no implied PASS",
+        "signed non-approval state"
+      ],
+      "keywords": [
+        "HOLD",
+        "Fail-Closed",
+        "Signed State",
+        "No Implied Approval",
+        "Public Decision State"
+      ],
+      "summary": "Inspect signed public state and understand HOLD as a signed non-approval state until proof arrives.",
+      "description": "Inspect signed public state and understand HOLD as a signed non-approval state until proof arrives.",
+      "tags": [
+        "trust center",
+        "HOLD",
+        "fail closed",
+        "signed state"
+      ]
+    },
+    {
+      "title": "Verify | What HOLD means",
+      "url": "/verify/",
+      "section": "Trust",
+      "kind": "Local verification",
+      "weight": 154,
+      "aliases": [
+        "what HOLD means",
+        "clean PASS must be earned",
+        "verifier refuses to infer approval"
+      ],
+      "keywords": [
+        "Verify",
+        "HOLD",
+        "PASS",
+        "Local Verification",
+        "Independent Replay"
+      ],
+      "summary": "Run local verification and understand HOLD as refusal to infer approval when proof is missing, stale, withheld, or unreplayed.",
+      "description": "Run local verification and understand HOLD as refusal to infer approval when proof is missing, stale, withheld, or unreplayed."
+    },
+    {
+      "title": "Meridian Signals — Proof Before Impact",
+      "url": "/signals/proof-before-impact-ai-control/",
+      "section": "Resources",
+      "kind": "AI control field notes",
+      "weight": 150,
+      "aliases": [
+        "meridian signals",
+        "signals",
+        "proof before impact",
+        "field notes",
+        "ai control field notes",
+        "protected actions",
+        "access is not acceptance",
+        "missing proof is not approval",
+        "final yes",
+        "skeptical reviewer",
+        "route this for review"
+      ],
+      "keywords": [
+        "Meridian Signals",
+        "Proof Before Impact",
+        "AI control",
+        "protected actions",
+        "HOLD",
+        "verifier-ready evidence",
+        "public brief",
+        "field notes",
+        "licensing logic"
+      ],
+      "blurb": "Public-safe field notes for serious reviewers: decision before action, proof before impact, missing proof is not approval."
+    },
+    {
+      "title": "Why now | Proof Before Impact for Agentic AI",
+      "url": "/why-now/",
+      "section": "Why now",
+      "kind": "Page",
+      "weight": 148,
+      "aliases": [
+        "why now",
+        "why proof must arrive before impact.",
+        "urgency",
+        "recent regulations",
+        "regulations",
+        "recent news",
+        "why proof must arrive before impact",
+        "proof before impact signal dashboard",
+        "control gap",
+        "control is scarce",
+        "dependency risk",
+        "switch when dependencies change"
+      ],
+      "keywords": [
+        "why",
+        "now",
+        "operational shift",
+        "accountability",
+        "autonomy",
+        "recent rules",
+        "why-now",
+        "proof before impact",
+        "AI agents",
+        "protected actions",
+        "HOLD behavior",
+        "reviewable receipts",
+        "autonomous workflows"
+      ],
+      "summary": "Why protected AI actions need evidence, HOLD behavior, and reviewable receipts before impact.",
+      "description": "Why protected AI actions need evidence, HOLD behavior, and reviewable receipts before impact.",
+      "tags": [
+        "why now",
+        "board",
+        "ceo",
+        "ciso",
+        "AISI",
+        "urgency",
+        "frontier ai",
+        "evidence"
+      ]
+    },
+    {
+      "title": "The Acceptance Plane",
+      "url": "/acceptance-plane/",
+      "section": "Research",
+      "kind": "Public research record",
+      "weight": 100,
+      "aliases": [
+        "acceptance plane",
+        "proof before impact",
+        "agentic AI",
+        "AI agents",
+        "action acceptance",
+        "verifier-ready receipts",
+        "protected actions",
+        "affected-party review",
+        "AI governance",
+        "cyber risk management",
+        "audit evidence"
+      ],
+      "keywords": [
+        "Acceptance Plane",
+        "Agentic AI",
+        "AI Agents",
+        "Action Acceptance",
+        "Verifier-Ready Receipts",
+        "Protected Actions",
+        "Proof-Before-Impact",
+        "AI Governance",
+        "AI Risk Management",
+        "AI Assurance",
+        "AI Security",
+        "Cyber Risk Management",
+        "Operational Risk",
+        "Audit Evidence",
+        "Action-Level Assurance",
+        "Affected-Party Review"
+      ],
+      "summary": "Public trust architecture for agentic AI action acceptance, ACCEPT/HOLD/REFUSE decisions, and verifier-ready receipts before protected-system impact.",
+      "description": "Public trust architecture for agentic AI action acceptance, ACCEPT/HOLD/REFUSE decisions, and verifier-ready receipts before protected-system impact."
+    },
+    {
+      "title": "Acceptance Plane technical report",
+      "url": "/scholar/acceptance-plane/",
+      "section": "Research",
+      "kind": "Scholar landing page",
+      "weight": 99,
+      "aliases": [
+        "technical report",
+        "google scholar",
+        "DOI 10.5281/zenodo.20683834",
+        "Scott Lee",
+        "Meridian Verity Group",
+        "selected references",
+        "source meta",
+        "technical report number",
+        "citation_pdf_url",
+        "public-safe boundary",
+        "synthetic deterministic examples",
+        "scoped conformance packs",
+        "production/full conformance test-vector packs",
+        "public thesis",
+        "model confidence is not acceptance",
+        "protected actions before impact",
+        "academic landing page"
+      ],
+      "keywords": [
+        "technical report",
+        "Google Scholar",
+        "DOI",
+        "Meridian Verity Group",
+        "Scott Lee",
+        "Selected references",
+        "Source HTML meta tags",
+        "citation_technical_report_number",
+        "citation_pdf_url",
+        "public-safe boundary",
+        "synthetic deterministic examples",
+        "scoped conformance packs",
+        "production full conformance packs",
+        "Public Thesis",
+        "Model Confidence Is Not Acceptance",
+        "Protected Actions Before Impact",
+        "Academic Landing Page"
+      ],
+      "summary": "Scholar-oriented landing page for the Acceptance Plane technical report, with a refined academic title presentation, visible abstract, selected references, DOI, citation block, and public-safe evaluation boundary.",
+      "description": "Scholar-oriented landing page for the Acceptance Plane technical report, with a refined academic title presentation, visible abstract, selected references, DOI, citation block, and public-safe evaluation boundary."
+    },
+    {
+      "title": "Security Review Kit",
+      "url": "/trust/security-review/",
+      "section": "Trust",
+      "kind": "Security review",
+      "weight": 99,
+      "aliases": [
+        "security review kit",
+        "security packet",
+        "packet.pdf",
+        "packet hash",
+        "local verification",
+        "security.txt",
+        "big tech security review",
+        "procurement packet",
+        "prove route",
+        "portable proof",
+        "packet freshness",
+        "HOLD Drill",
+        "AI Action Control Drill",
+        "HOLD Drill Summary",
+        "can your AI action stop before impact"
+      ],
+      "keywords": [
+        "Security Review Kit",
+        "Packet PDF",
+        "SHA-256",
+        "Local Verification",
+        "Security.txt",
+        "PASS HOLD FAIL",
+        "Public Proof",
+        "Procurement",
+        "hold drill",
+        "control tabletop",
+        "public tabletop"
+      ],
+      "summary": "Public security review route with packet PDF, packet hash, local verification, security.txt, and fail-closed HOLD handling.",
+      "description": "Public security review route with packet PDF, packet hash, local verification, security.txt, and fail-closed HOLD handling.",
+      "tags": [
+        "security",
+        "review",
+        "packet",
+        "local verification",
+        "security.txt",
+        "procurement"
+      ]
+    },
+    {
+      "title": "Executive Briefing | AI agents moving from suggestions to actions",
+      "url": "/executive/",
+      "section": "Executive",
+      "kind": "One-screen buyer story",
+      "weight": 98,
+      "aliases": [
+        "executive briefing",
+        "one-screen buyer story",
+        "AI agents moving from suggestions to actions",
+        "should this action be accepted now",
+        "ACCEPT HOLD REFUSE",
+        "proof before impact",
+        "CEO briefing",
+        "board briefing",
+        "nontechnical buyer story",
+        "protected systems accept before impact"
+      ],
+      "keywords": [
+        "Executive Briefing",
+        "AI Agents",
+        "Suggestions To Actions",
+        "Protected Systems",
+        "ACCEPT HOLD REFUSE",
+        "Proof Before Impact",
+        "Decision Before Action",
+        "Buyer Story",
+        "Board",
+        "CISO",
+        "GC",
+        "Procurement"
+      ],
+      "summary": "One-screen nontechnical buyer story: AI agents can now change real systems; protected systems need ACCEPT/HOLD/REFUSE before impact.",
+      "description": "One-screen nontechnical buyer story: AI agents can now change real systems; protected systems need ACCEPT/HOLD/REFUSE before impact.",
+      "tags": [
+        "executive",
+        "board",
+        "ceo",
+        "briefing",
+        "one-screen buyer story",
+        "accept hold refuse",
+        "proof before impact"
+      ]
+    },
+    {
+      "title": "Security & Procurement Review Packet PDF",
+      "url": "/trust/security-review/packet.pdf",
+      "section": "Trust",
+      "kind": "PDF",
+      "weight": 98,
+      "aliases": [
+        "packet.pdf",
+        "security review packet",
+        "procurement packet PDF",
+        "security packet PDF",
+        "public packet"
+      ],
+      "keywords": [
+        "Security Packet",
+        "Procurement Packet",
+        "PDF",
+        "SHA-256",
+        "Public Redacted"
+      ],
+      "summary": "Public redacted Security & Procurement Review Packet. Verify SHA-256 before relying on it.",
+      "description": "Public redacted Security & Procurement Review Packet. Verify SHA-256 before relying on it.",
+      "tags": [
+        "security packet",
+        "procurement packet",
+        "pdf",
+        "sha256",
+        "public proof"
+      ]
+    },
+    {
+      "title": "Acceptance Plane Framework Crosswalk",
+      "url": "/research/acceptance-plane-framework-crosswalk/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "framework crosswalk",
+        "nist ai rmf",
+        "iso 42001",
+        "zero trust",
+        "owasp",
+        "eu ai act"
+      ],
+      "keywords": [
+        "Framework Crosswalk",
+        "Nist Ai Rmf",
+        "Iso 42001",
+        "Zero Trust",
+        "Owasp",
+        "Eu Ai Act"
+      ],
+      "summary": "Conceptual crosswalk showing how the Acceptance Plane complements governance and security frameworks.",
+      "description": "Conceptual crosswalk showing how the Acceptance Plane complements governance and security frameworks.",
+      "tags": [
+        "framework crosswalk",
+        "nist ai rmf",
+        "iso 42001",
+        "zero trust",
+        "owasp",
+        "eu ai act"
+      ]
+    },
+    {
+      "title": "Acceptance Plane Official Reference Note",
+      "url": "/press/acceptance-plane-category-note/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "press",
+        "category note",
+        "official definition",
+        "boilerplate",
+        "acceptance plane"
+      ],
+      "keywords": [
+        "Press",
+        "Category Note",
+        "Official Definition",
+        "Boilerplate",
+        "Acceptance Plane"
+      ],
+      "summary": "Official public-safe definition, quote, and canonical links for Acceptance Plane references.",
+      "description": "Official public-safe definition, quote, and canonical links for Acceptance Plane references.",
+      "tags": [
+        "press",
+        "category note",
+        "official definition",
+        "boilerplate",
+        "acceptance plane"
+      ]
+    },
+    {
+      "title": "Acceptance Plane Public Definition",
+      "url": "/acceptance-plane/primer/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "acceptance plane",
+        "primer",
+        "proof before impact",
+        "agentic ai",
+        "protected action",
+        "category definition"
+      ],
+      "keywords": [
+        "Acceptance Plane",
+        "Primer",
+        "Proof Before Impact",
+        "Agentic Ai",
+        "Protected Action",
+        "Category Definition"
+      ],
+      "summary": "Plain-language definition of the Acceptance Plane as the proof-before-impact boundary for agentic AI actions.",
+      "description": "Plain-language definition of the Acceptance Plane as the proof-before-impact boundary for agentic AI actions.",
+      "tags": [
+        "acceptance plane",
+        "primer",
+        "proof before impact",
+        "agentic ai",
+        "protected action",
+        "category definition"
+      ]
+    },
+    {
+      "title": "Acceptance Plane Reference Kit",
+      "url": "/resources/acceptance-plane-share-kit/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "reference kit",
+        "linkedin",
+        "distribution",
+        "citation loop",
+        "acceptance plane"
+      ],
+      "keywords": [
+        "Reference Kit",
+        "Linkedin",
+        "Distribution",
+        "Citation Loop",
+        "Acceptance Plane"
+      ],
+      "summary": "Public-safe reference and citation language for the Acceptance Plane.",
+      "description": "Public-safe reference and citation language for the Acceptance Plane.",
+      "tags": [
+        "reference kit",
+        "linkedin",
+        "distribution",
+        "citation loop",
+        "acceptance plane"
+      ]
+    },
+    {
+      "title": "Acceptance Plane Signal Dashboard",
+      "url": "/research/acceptance-plane-signal-dashboard/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "research",
+        "signal dashboard",
+        "why now",
+        "agent standards",
+        "proof before impact"
+      ],
+      "keywords": [
+        "Research",
+        "Signal Dashboard",
+        "Why Now",
+        "Agent Standards",
+        "Proof Before Impact"
+      ],
+      "summary": "Research signal dashboard explaining why proof before impact matters now.",
+      "description": "Research signal dashboard explaining why proof before impact matters now.",
+      "tags": [
+        "research",
+        "signal dashboard",
+        "why now",
+        "agent standards",
+        "proof before impact"
+      ]
+    },
+    {
+      "title": "Buyer Checklist for Agentic AI Action Acceptance",
+      "url": "/procurement/agentic-action-acceptance-checklist/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "procurement",
+        "checklist",
+        "agentic action acceptance",
+        "hold",
+        "refuse",
+        "receipts"
+      ],
+      "keywords": [
+        "Procurement",
+        "Checklist",
+        "Agentic Action Acceptance",
+        "Hold",
+        "Refuse",
+        "Receipts"
+      ],
+      "summary": "Procurement, security, and counsel checklist for proof-before-impact behavior.",
+      "description": "Procurement, security, and counsel checklist for proof-before-impact behavior.",
+      "tags": [
+        "procurement",
+        "checklist",
+        "agentic action acceptance",
+        "hold",
+        "refuse",
+        "receipts"
+      ]
+    },
+    {
+      "title": "Executive Questions for Agentic AI Actions",
+      "url": "/executive/agentic-action-questions/",
+      "section": "Acceptance Plane",
+      "kind": "Public reference",
+      "weight": 96,
+      "aliases": [
+        "board",
+        "executive",
+        "agentic ai",
+        "protected actions",
+        "accept hold refuse",
+        "questions"
+      ],
+      "keywords": [
+        "Board",
+        "Executive",
+        "Agentic Ai",
+        "Protected Actions",
+        "Accept Hold Refuse",
+        "Questions"
+      ],
+      "summary": "Ten board-level questions before protected agentic AI actions become real.",
+      "description": "Ten board-level questions before protected agentic AI actions become real.",
+      "tags": [
+        "board",
+        "executive",
+        "agentic ai",
+        "protected actions",
+        "accept hold refuse",
+        "questions"
+      ]
+    },
+    {
+      "title": "Request Scoped Diligence",
+      "url": "/licensing/request-diligence/",
+      "section": "Licensing",
+      "kind": "Public record",
+      "weight": 96,
+      "aliases": [
+        "request diligence",
+        "NDA",
+        "licensing",
+        "partner evaluation",
+        "Patent-backed proof before impact",
+        "scoped diligence path",
+        "issued patent record",
+        "no license by publication"
+      ],
+      "keywords": [
+        "request diligence",
+        "NDA",
+        "licensing",
+        "partner evaluation"
+      ],
+      "blurb": "Move from public record to qualified legal, security, engineering, procurement, or executive review under written scope.",
+      "tags": [
+        "licensing",
+        "diligence",
+        "partner review",
+        "patent record"
+      ],
+      "summary": "Request scoped diligence without sending confidential information before agreement.",
+      "description": "Request scoped diligence without sending confidential information before agreement."
+    },
+    {
+      "title": "Safety-Bound Licensing | Public Record First",
+      "url": "/licensing/safety-bound/",
+      "section": "Licensing",
+      "kind": "Public record",
+      "weight": 96,
+      "aliases": [
+        "safety-bound licensing",
+        "public record first",
+        "scoped diligence",
+        "proof before impact",
+        "reviewer-neutral review",
+        "no license by publication",
+        "human-protective AI infrastructure"
+      ],
+      "keywords": [
+        "safety-bound licensing",
+        "reviewer-neutral",
+        "public record first",
+        "scoped diligence",
+        "proof before impact"
+      ],
+      "blurb": "Reviewer-neutral safety-bound licensing posture: public record first, implementation depth under scope, and no license by publication.",
+      "tags": [
+        "licensing",
+        "safety-bound",
+        "scope-bound review",
+        "proof before impact"
+      ],
+      "summary": "Public record first, scoped diligence before implementation depth, no implied implementation right, and no public FRAND commitment.",
+      "description": "Public record first, scoped diligence before implementation depth, no implied implementation right, and no public FRAND commitment."
+    },
+    {
+      "title": "Kingdom | Vendor-neutral conformance layer",
+      "url": "/products/kingdom/",
+      "section": "Products",
+      "kind": "Conformance layer",
+      "weight": 94,
+      "aliases": [
+        "Kingdom conformance",
+        "vendor-neutral conformance layer",
+        "verifier-ready acceptance evidence"
+      ],
+      "keywords": [
+        "Kingdom",
+        "Conformance Packs",
+        "PASS HOLD FAIL",
+        "Verifier-Ready Evidence",
+        "Procurement Acceptance Tests"
+      ],
+      "summary": "Vendor-neutral conformance layer for verifier-ready acceptance evidence, replayable conformance packs, deterministic PASS/HOLD/FAIL, and acceptance tests.",
+      "description": "Vendor-neutral conformance layer for verifier-ready acceptance evidence, replayable conformance packs, deterministic PASS/HOLD/FAIL, and acceptance tests.",
+      "tags": [
+        "Kingdom",
+        "conformance",
+        "PASS HOLD FAIL",
+        "receipts"
+      ]
+    },
+    {
+      "title": "Controls | Three vocabularies one posture",
+      "url": "/controls/",
+      "section": "Controls",
+      "kind": "Vocabulary bridge",
+      "weight": 92,
+      "aliases": [
+        "PASS HOLD FAIL",
+        "ACCEPT HOLD REFUSE",
+        "PERMIT HOLD DENY",
+        "missing proof stays HOLD"
+      ],
+      "keywords": [
+        "Verification Layer",
+        "Action Acceptance Layer",
+        "Runtime Enforcement Layer",
+        "HOLD"
+      ],
+      "summary": "Explains how PASS/HOLD/FAIL, ACCEPT/HOLD/REFUSE, and PERMIT/HOLD/DENY map to one fail-closed posture.",
+      "description": "Explains how PASS/HOLD/FAIL, ACCEPT/HOLD/REFUSE, and PERMIT/HOLD/DENY map to one fail-closed posture."
+    },
+    {
+      "title": "HALTSEAL",
+      "url": "/products/haltseal/",
+      "section": "Products",
+      "kind": "Page",
+      "weight": 90,
+      "aliases": [
+        "products haltseal",
+        "haltseal",
+        "haltseal | licensing-ready runtime control",
+        "permit before action.",
+        "runtime control",
+        "permit before action",
+        "pre action control",
+        "runtime action"
+      ],
+      "keywords": [
+        "haltseal",
+        "licensing",
+        "ready",
+        "runtime",
+        "control",
+        "permit",
+        "before",
+        "action",
+        "trusted boundary",
+        "short lived permits",
+        "network egress",
+        "privileged io",
+        "accelerator dispatch"
+      ],
+      "summary": "HALTSEAL is the runtime-action surface for permit-before-action and fail-closed control.",
+      "description": "HALTSEAL is the runtime-action surface for permit-before-action and fail-closed control."
+    },
+    {
+      "title": "Meridian Verity Group | Trust Infrastructure for AI Agents",
+      "url": "/",
+      "section": "Overview",
+      "kind": "Page",
+      "weight": 84,
+      "aliases": [
+        "trust infrastructure for AI agents",
+        "home",
+        "decision before action. proof before impact.",
+        "homepage",
+        "meridian verity",
+        "mvg",
+        "proof before impact",
+        "decision before action",
+        "Acceptance Plane v2.0.2",
+        "DOI 10.5281/zenodo.20683834"
+      ],
+      "keywords": [
+        "AI agents",
+        "Acceptance Boundary API",
+        "Acceptance Plane v2.0.2",
+        "DOI 10.5281/zenodo.20683834",
+        "Patent-backed review rail",
+        "Scholar route",
+        "action",
+        "autonomous workflows",
+        "before",
+        "buyer route",
+        "decision",
+        "fail closed",
+        "fail-closed gates",
+        "group",
+        "independent replay",
+        "local verification",
+        "meridian",
+        "proof before impact",
+        "proof-before-commit",
+        "replayable receipts",
+        "signed state",
+        "trust infrastructure",
+        "verity"
+      ],
+      "summary": "Decision-before-action trust infrastructure for AI agents: signed state, local verification, fail-closed gates, and replayable receipts before impact.",
+      "description": "Decision-before-action trust infrastructure for AI agents: signed state, local verification, fail-closed gates, and replayable receipts before impact.",
+      "blurb": "Decision-before-action trust infrastructure for AI agents, with an executive one-screen story and buyer route for proof-before-commit review.",
+      "tags": [
+        "homepage",
+        "proof before impact",
+        "receipts",
+        "board",
+        "security",
+        "procurement",
+        "licensing"
+      ]
+    },
+    {
+      "title": "Products | One system. Clear roles.",
+      "url": "/products/",
+      "section": "Products",
+      "kind": "Page",
+      "weight": 82,
+      "aliases": [
+        "Acceptance Boundary API buyer route",
+        "Acceptance Plane category",
+        "Kingdom conformance face",
+        "MVG system map",
+        "Meridian State Layer public proof rail",
+        "haltseal",
+        "kingdom",
+        "one system clear roles",
+        "portfolio",
+        "product",
+        "products",
+        "products | start where consequence begins",
+        "proof-before-impact portfolio",
+        "start where consequence begins.",
+        "priority licensing lanes",
+        "agentic commerce",
+        "payment-adjacent workflows",
+        "accelerated AI infrastructure",
+        "compute admission",
+        "ORPRG external-effect boundaries",
+        "ACE compute admission"
+      ],
+      "keywords": [
+        "acceptance boundary api",
+        "acceptance plane category",
+        "begins",
+        "buyer route",
+        "consequence",
+        "entry products",
+        "kingdom conformance face",
+        "meridian state layer",
+        "mvg system map",
+        "products",
+        "proof-before-impact portfolio",
+        "public proof rail",
+        "start",
+        "start where consequence begins",
+        "three entry points",
+        "where",
+        "priority licensing lanes",
+        "agentic commerce",
+        "payment-adjacent workflows",
+        "checkout steps",
+        "refunds",
+        "disputes",
+        "merchant actions",
+        "delegated commercial obligations",
+        "accelerated ai infrastructure",
+        "compute admission",
+        "accelerator workloads",
+        "orprg",
+        "ace",
+        "proof before commit",
+        "acceptance plane",
+        "haltseal",
+        "kingdom",
+        "clinical truth chain"
+      ],
+      "summary": "MVG system map plus priority licensing lanes: agentic commerce, payment-adjacent workflows, accelerated AI infrastructure, ORPRG external-effect boundaries, and ACE compute admission.",
+      "description": "MVG system map plus priority licensing lanes: agentic commerce, payment-adjacent workflows, accelerated AI infrastructure, ORPRG external-effect boundaries, and ACE compute admission."
+    },
+    {
+      "title": "Witness Quorum",
+      "url": "/trust-center/witness-quorum/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 82,
+      "aliases": [
+        "trust center witness quorum",
+        "witness quorum",
+        "witness quorum | independent replay status",
+        "witnesses",
+        "public witness",
+        "witnessed replay"
+      ],
+      "keywords": [
+        "witness",
+        "quorum",
+        "independent",
+        "replay",
+        "status",
+        "trust",
+        "center",
+        "independent witnesses"
+      ],
+      "summary": "Independent witness quorum and replay surface.",
+      "description": "Independent witness quorum and replay surface."
+    },
+    {
+      "title": "US 12,602,481 B1 — Grant PDF",
+      "url": "/downloads/docs/us-12602481-b1-grant.pdf",
+      "section": "Patents",
+      "kind": "Document",
+      "weight": 78,
+      "aliases": [
+        "grant pdf 12602481",
+        "us 12 602 481 b1",
+        "12602481",
+        "issued grant pdf",
+        "patent pdf 12602481",
+        "novacov patent",
+        "sovereign agi execution patent",
+        "permit before action patent"
+      ],
+      "keywords": [
+        "novacov",
+        "permit before action",
+        "runtime gate",
+        "issued grant",
+        "grant pdf"
+      ],
+      "summary": "Grant PDF for Neural Override Verification and Constraint Architecture for Sovereign AGI Execution, issued Apr. 14, 2026.",
+      "description": "Grant PDF for Neural Override Verification and Constraint Architecture for Sovereign AGI Execution, issued Apr. 14, 2026."
+    },
+    {
+      "title": "US 12,608,476 B1 — Grant PDF",
+      "url": "/downloads/docs/us-12608476-b1-grant.pdf",
+      "section": "Patents",
+      "kind": "Document",
+      "weight": 78,
+      "aliases": [
+        "grant pdf 12608476",
+        "us 12 608 476 b1",
+        "12608476",
+        "issued grant pdf",
+        "patent pdf 12608476",
+        "driver firmware hypervisor patent",
+        "novacov gateway patent",
+        "hypervisor enforcement patent"
+      ],
+      "keywords": [
+        "driver firmware hypervisor",
+        "gateway enforcement",
+        "issued grant",
+        "grant pdf"
+      ],
+      "summary": "Grant PDF for Neural Override Verification and Constraint Architecture for Sovereign AGI Execution at Driver, Firmware, and Hypervisor Gateways, issued Apr. 21, 2026.",
+      "description": "Grant PDF for Neural Override Verification and Constraint Architecture for Sovereign AGI Execution at Driver, Firmware, and Hypervisor Gateways, issued Apr. 21, 2026."
+    },
+    {
+      "title": "Language & Region",
+      "url": "/language/",
+      "section": "Global Language Rail",
+      "kind": "Language selector",
+      "weight": 74,
+      "aliases": [
+        "language",
+        "languages",
+        "translation",
+        "korean",
+        "japanese",
+        "german",
+        "english source",
+        "global language rail"
+      ],
+      "keywords": [
+        "English source controls",
+        "public review convenience",
+        "in review",
+        "no automatic translation"
+      ],
+      "description": "English is the source. Korean, Japanese, and German public-review translations are in review.",
+      "summary": "English is the source. Korean, Japanese, and German public-review translations are in review."
+    },
+    {
+      "title": "Falsification Receipt",
+      "url": "/standards/falsification-receipt/",
+      "section": "Standards",
+      "kind": "Page",
+      "weight": 72,
+      "aliases": [
+        "standards falsification receipt",
+        "falsification receipt",
+        "falsification receipt | candidate specification",
+        "falsification receipt.",
+        "receipt standard",
+        "reason code"
+      ],
+      "keywords": [
+        "falsification",
+        "receipt",
+        "candidate",
+        "specification",
+        "standards"
+      ],
+      "summary": "Reference standard for falsification receipts and verifiable reason codes.",
+      "description": "Reference standard for falsification receipts and verifiable reason codes."
+    },
+    {
+      "title": "Attack surface",
+      "url": "/attack-surface/",
+      "section": "Why now",
+      "kind": "Page",
+      "weight": 70,
+      "aliases": [
+        "attack surface",
+        "ai attack surface map | where genai breaks",
+        "where genai breaks — and what evidence closes it.",
+        "attack map",
+        "surface map"
+      ],
+      "keywords": [
+        "attack",
+        "surface",
+        "map",
+        "where",
+        "genai",
+        "breaks",
+        "and",
+        "what",
+        "risk map",
+        "operational risk"
+      ],
+      "summary": "Operational attack-surface map for consequential-AI control discussions.",
+      "description": "Operational attack-surface map for consequential-AI control discussions.",
+      "tags": [
+        "attack surface",
+        "ai security",
+        "infrastructure",
+        "supply chain",
+        "interfaces",
+        "procurement",
+        "evidence spine",
+        "verify permit gate receipts"
+      ]
+    },
+    {
+      "title": "Clinical Truth Chain",
+      "url": "/products/ctc/",
+      "section": "Products",
+      "kind": "Page",
+      "weight": 68,
+      "aliases": [
+        "products ctc",
+        "ctc",
+        "admissible automation.",
+        "clinical truth chain",
+        "clinical receipts"
+      ],
+      "keywords": [
+        "ctc",
+        "admissible",
+        "automation",
+        "products",
+        "care",
+        "payment",
+        "truth chain"
+      ],
+      "summary": "Infrastructure for high-stakes care and payment decisions where proof must survive independent recomputation.",
+      "description": "Infrastructure for high-stakes care and payment decisions where proof must survive independent recomputation."
+    },
+    {
+      "title": "Governance",
+      "url": "/governance/",
+      "section": "Company",
+      "kind": "Page",
+      "weight": 68,
+      "aliases": [
+        "governance",
+        "policy",
+        "oversight"
+      ],
+      "keywords": [
+        "governance",
+        "escalation",
+        "stop authority"
+      ],
+      "summary": "Governance posture and oversight routes.",
+      "description": "Governance posture and oversight routes.",
+      "tags": [
+        "governance",
+        "release stop",
+        "escalation",
+        "incident response"
+      ]
+    },
+    {
+      "title": "Legal Surface",
+      "url": "/legal/",
+      "section": "Legal",
+      "kind": "Page",
+      "weight": 64,
+      "aliases": [
+        "legal",
+        "legal surface",
+        "privacy",
+        "data protection",
+        "public legal surfaces",
+        "policies reviewers can cite",
+        "legal review"
+      ],
+      "keywords": [
+        "PGP",
+        "cookies",
+        "data protection",
+        "legal",
+        "pdf controls",
+        "privacy",
+        "procurement",
+        "public proof",
+        "responsible disclosure",
+        "security",
+        "security.txt",
+        "security@meridianverity.com",
+        "written scope"
+      ],
+      "summary": "Official legal, privacy, cookies, security disclosure, data protection, and procurement policy routes. PDFs control; written agreements control customer context.",
+      "description": "Official legal, privacy, cookies, security disclosure, data protection, and procurement policy routes. PDFs control; written agreements control customer context.",
+      "href": "/legal/",
+      "body": "Public legal, privacy, security, procurement, and publication-control routes. Written scope controls private depth. legal privacy procurement DPA written scope public-safe intake",
+      "tags": [
+        "legal",
+        "privacy",
+        "procurement",
+        "DPA",
+        "written scope",
+        "public-safe intake"
+      ],
+      "surface": "legal",
+      "version": "v247-legal-security-disclosure-apex"
+    },
+    {
+      "title": "HALTSEAL — 1-page brief PDF",
+      "url": "/downloads/docs/HALTSEAL_Outreach_1pager_Apex_v3_1_0.pdf",
+      "section": "Products",
+      "kind": "Document",
+      "weight": 62,
+      "aliases": [
+        "haltseal brief",
+        "haltseal 1 pager",
+        "one pager haltseal",
+        "haltseal pdf"
+      ],
+      "keywords": [
+        "runtime control",
+        "buyer brief"
+      ],
+      "summary": "Public-safe HALTSEAL overview PDF for buyer and partner routing.",
+      "description": "Public-safe HALTSEAL overview PDF for buyer and partner routing."
+    },
+    {
+      "title": "HALTSEAL — deck PDF",
+      "url": "/downloads/docs/HALTSEAL_Outreach_Apex_Deck_v2_0_0.pdf",
+      "section": "Products",
+      "kind": "Document",
+      "weight": 58,
+      "aliases": [
+        "haltseal deck",
+        "haltseal slides",
+        "runtime control deck"
+      ],
+      "keywords": [
+        "buyer deck",
+        "public safe"
+      ],
+      "summary": "HALTSEAL presentation deck PDF.",
+      "description": "HALTSEAL presentation deck PDF."
+    },
+    {
+      "title": "Press & media kit",
+      "url": "/press/",
+      "section": "Official",
+      "kind": "Page",
+      "weight": 58,
+      "aliases": [
+        "press",
+        "press & media kit | official references and brand assets",
+        "press & media kit",
+        "media kit",
+        "public research record",
+        "Acceptance Plane Scholar route",
+        "DOI 10.5281/zenodo.20683834"
+      ],
+      "keywords": [
+        "press",
+        "media",
+        "kit",
+        "official",
+        "references",
+        "and",
+        "brand",
+        "assets",
+        "public research record",
+        "Acceptance Plane",
+        "Scholar route",
+        "DOI"
+      ],
+      "summary": "Press and media kit with canonical official references and Acceptance Plane public research record.",
+      "description": "Press and media kit with canonical official references and Acceptance Plane public research record.",
+      "tags": [
+        "press",
+        "media kit",
+        "logo",
+        "boilerplate"
+      ]
+    },
+    {
+      "title": "Contact",
+      "url": "/contact/",
+      "section": "Official",
+      "kind": "Page",
+      "weight": 56,
+      "aliases": [
+        "contact",
+        "contact | licensing, procurement, and security routing",
+        "contact.",
+        "email",
+        "contact us",
+        "HOLD Drill",
+        "AI Action Control Drill",
+        "HOLD Drill Summary",
+        "can your AI action stop before impact"
+      ],
+      "keywords": [
+        "contact",
+        "licensing",
+        "procurement",
+        "and",
+        "security",
+        "routing",
+        "official",
+        "hold drill",
+        "control tabletop",
+        "public tabletop"
+      ],
+      "summary": "Official contact routes.",
+      "description": "Official contact routes."
+    },
+    {
+      "title": "Control-rail portfolio memo PDF",
+      "url": "/downloads/docs/meridian-verity-control-rail-portfolio-external-safe-apr-2026.pdf",
+      "section": "Patents",
+      "kind": "Document",
+      "weight": 54,
+      "aliases": [
+        "portfolio memo",
+        "control rail portfolio",
+        "strategic buyer memo",
+        "external safe portfolio memo"
+      ],
+      "keywords": [
+        "10 families",
+        "6 core control points",
+        "buyer memo"
+      ],
+      "summary": "External-safe control-rail portfolio memo for strategic buyers and partners.",
+      "description": "External-safe control-rail portfolio memo for strategic buyers and partners."
+    },
+    {
+      "title": "Attack surface map PDF",
+      "url": "/downloads/docs/MVG_Attack_Surface_Map_APEX_v2.pdf",
+      "section": "Why now",
+      "kind": "Document",
+      "weight": 52,
+      "aliases": [
+        "attack surface map pdf",
+        "attack surface pdf",
+        "mvg attack surface"
+      ],
+      "keywords": [
+        "capability",
+        "execution",
+        "accountability"
+      ],
+      "summary": "Attack surface map PDF used in why-now and operational-risk discussions.",
+      "description": "Attack surface map PDF used in why-now and operational-risk discussions."
+    },
+    {
+      "title": "Accessibility",
+      "url": "/accessibility/",
+      "section": "Official",
+      "kind": "Page",
+      "weight": 48,
+      "aliases": [
+        "accessibility",
+        "accessibility | use the site your way",
+        "use the site your way.",
+        "a11y"
+      ],
+      "keywords": [
+        "accessibility",
+        "use",
+        "the",
+        "site",
+        "your",
+        "way",
+        "official"
+      ],
+      "summary": "Accessibility statement and browsing guidance.",
+      "description": "Accessibility statement and browsing guidance."
+    },
+    {
+      "title": "AIMS (public-safe)",
+      "url": "/aims/",
+      "section": "Aims",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "aims",
+        "aims (public-safe)",
+        "ai management system (aims)"
+      ],
+      "keywords": [
+        "aims",
+        "public",
+        "safe",
+        "management",
+        "system"
+      ],
+      "summary": "Public-safe AIMS: how MVG defines AI risk, assigns stop authority, and gates releases using replayable receipts (fail-closed).",
+      "description": "Public-safe AIMS: how MVG defines AI risk, assigns stop authority, and gates releases using replayable receipts (fail-closed).",
+      "tags": [
+        "aims",
+        "ai management system",
+        "ISO 42001",
+        "NIST AI RMF",
+        "map measure manage govern",
+        "public-safe",
+        "mvg-aims",
+        "mvg-aims.json",
+        "/.well-known/mvg-aims.json"
+      ]
+    },
+    {
+      "title": "Approval Receipts",
+      "url": "/approval-receipts/",
+      "section": "Approval Receipts",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "approval receipts",
+        "approval receipts — signed, ticket‑bound, offline‑verifiable."
+      ],
+      "keywords": [
+        "approval",
+        "receipts",
+        "signed",
+        "ticket",
+        "bound",
+        "offline",
+        "verifiable"
+      ],
+      "summary": "Procurement-ready approval receipts: countersigned, ticket-bound, and offline-verifiable verification evidence for Security and Counsel.",
+      "description": "Procurement-ready approval receipts: countersigned, ticket-bound, and offline-verifiable verification evidence for Security and Counsel."
+    },
+    {
+      "title": "Diligence commitments",
+      "url": "/diligence-commitments/",
+      "section": "Diligence Commitments",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "diligence commitments",
+        "blinded public commitments — without leaking pack hashes."
+      ],
+      "keywords": [
+        "diligence",
+        "commitments",
+        "blinded",
+        "public",
+        "without",
+        "leaking",
+        "pack",
+        "hashes"
+      ],
+      "summary": "Public, append-only log of blinded commitments to MVG diligence packs. Counterparties verify inclusion offline using a private nonce.",
+      "description": "Public, append-only log of blinded commitments to MVG diligence packs. Counterparties verify inclusion offline using a private nonce."
+    },
+    {
+      "title": "Glossary",
+      "url": "/glossary/",
+      "section": "Glossary",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "glossary",
+        "key terms"
+      ],
+      "keywords": [
+        "glossary",
+        "key",
+        "terms"
+      ],
+      "summary": "Glossary for MVG procurement-ready AI governance: DSSE, receipts, PASS/HOLD/FAIL, reason codes, offline verification, transparency log.",
+      "description": "Glossary for MVG procurement-ready AI governance: DSSE, receipts, PASS/HOLD/FAIL, reason codes, offline verification, transparency log."
+    },
+    {
+      "title": "Impact",
+      "url": "/impact/",
+      "section": "Impact",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "impact",
+        "measured impact — not promises."
+      ],
+      "keywords": [
+        "impact",
+        "measured",
+        "not",
+        "promises"
+      ],
+      "summary": "Measured impact methodology for high-stakes AI governance: how MVG defines, verifies, and audits outcomes using replayable receipts and fail-closed semantics.",
+      "description": "Measured impact methodology for high-stakes AI governance: how MVG defines, verifies, and audits outcomes using replayable receipts and fail-closed semantics.",
+      "tags": [
+        "impact",
+        "metrics",
+        "public trust",
+        "safety"
+      ]
+    },
+    {
+      "title": "Mission | Human-Protective Infrastructure",
+      "url": "/mission/",
+      "section": "Mission",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "mission",
+        "protect the person downstream",
+        "human-protective infrastructure",
+        "moral infrastructure",
+        "stewardship before spectacle",
+        "receipts over narratives",
+        "safety defaults to HOLD",
+        "Soli Deo Gloria"
+      ],
+      "keywords": [
+        "mission",
+        "human-protective infrastructure",
+        "protect the person downstream",
+        "autonomous systems",
+        "moral infrastructure",
+        "stewardship before spectacle",
+        "proof before impact",
+        "decision before action",
+        "receipts over narratives",
+        "safety defaults to HOLD",
+        "Soli Deo Gloria"
+      ],
+      "summary": "Meridian Verity builds human-protective infrastructure for consequential AI: decision before action, proof before impact, and stewardship before spectacle.",
+      "description": "Meridian Verity builds human-protective infrastructure for consequential AI: decision before action, proof before impact, and stewardship before spectacle.",
+      "tags": [
+        "mission",
+        "human-protective infrastructure",
+        "stewardship",
+        "downstream",
+        "receipts",
+        "hold",
+        "accountability",
+        "Soli Deo Gloria"
+      ]
+    },
+    {
+      "title": "Neighbor-Love, in System Form",
+      "url": "/mission/neighbor-love/",
+      "section": "Mission",
+      "kind": "Moral spine",
+      "weight": 120,
+      "summary": "A soft-public mission page describing protected-action AI infrastructure as neighbor-love in system form: power pauses before consequence; proof before impact.",
+      "description": "Mission language for the moral spine behind the Acceptance Plane: protect the person downstream before autonomous action becomes consequence, with receipts, verifier-ready proof, and fail-closed restraint.",
+      "aliases": [
+        "neighbor-love",
+        "neighbor love",
+        "love of neighbor",
+        "Sola Gratia",
+        "mission spine",
+        "protect the person downstream",
+        "proof before impact",
+        "receipts not promises",
+        "faith posture",
+        "human consequence",
+        "before harm",
+        "Acceptance Plane mission"
+      ],
+      "keywords": [
+        "neighbor-love in system form",
+        "love pauses power until proof is present",
+        "protect the person downstream",
+        "power pauses before consequence",
+        "proof before impact",
+        "receipts before trust",
+        "HOLD when proof is missing",
+        "truth mercy restraint stewardship",
+        "Sola Gratia"
+      ]
+    },
+    {
+      "title": "Moved",
+      "url": "/buyers/",
+      "section": "Buyers",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "buyers",
+        "moved"
+      ],
+      "keywords": [
+        "moved",
+        "buyers"
+      ],
+      "summary": "This page has moved to /procurement/.",
+      "description": "This page has moved to /procurement/."
+    },
+    {
+      "title": "Moved",
+      "url": "/standard/",
+      "section": "Standard",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "standard",
+        "moved"
+      ],
+      "keywords": [
+        "moved",
+        "standard"
+      ],
+      "summary": "This page has moved to /standards/.",
+      "description": "This page has moved to /standards/."
+    },
+    {
+      "title": "Proof",
+      "url": "/proof/",
+      "section": "Proof",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "proof",
+        "receipts, not promises."
+      ],
+      "keywords": [
+        "proof",
+        "receipts",
+        "not",
+        "promises"
+      ],
+      "summary": "Run a 30-second offline proof: verify a HALTSEAL Conformance Pack in your browser — deterministic PASS/HOLD/FAIL, pinned versions, stable reason codes.",
+      "description": "Run a 30-second offline proof: verify a HALTSEAL Conformance Pack in your browser — deterministic PASS/HOLD/FAIL, pinned versions, stable reason codes."
+    },
+    {
+      "title": "Research for Proof Before Impact | Meridian Verity Group",
+      "url": "/research/",
+      "section": "Research",
+      "kind": "Public research and evidence review surface",
+      "weight": 940,
+      "aliases": [
+        "research hub",
+        "proof before impact research",
+        "acceptance plane research",
+        "public proof research",
+        "open evaluation repositories",
+        "permit receipt repository",
+        "acceptance plane GitHub",
+        "protected action research"
+      ],
+      "keywords": [
+        "research",
+        "proof before impact",
+        "protected actions",
+        "Acceptance Plane",
+        "PermitReceipt",
+        "agentic commerce acceptance",
+        "evidence maps",
+        "public archives",
+        "Zenodo",
+        "GitHub",
+        "patent records",
+        "written scope"
+      ],
+      "summary": "Research hub with Acceptance Plane v2.0.2, DOI 10.5281/zenodo.20683834, Scholar route, technical report PDF, visual guide, and Zenodo record.",
+      "description": "Public research, verifier routes, patent records, open evaluation repos, and evidence maps for protected-action review before AI impact."
+    },
+    {
+      "title": "Solutions",
+      "url": "/solutions/",
+      "section": "Solutions",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "solutions",
+        "three high‑risk action surfaces. one verification pattern."
+      ],
+      "keywords": [
+        "solutions",
+        "three",
+        "high",
+        "risk",
+        "action",
+        "surfaces",
+        "one",
+        "verification"
+      ],
+      "summary": "Fail‑closed AI governance for high‑risk actions: DSSE‑anchored receipts, offline‑verifiable evidence packs, and deterministic PASS/HOLD/FAIL.",
+      "description": "Fail‑closed AI governance for high‑risk actions: DSSE‑anchored receipts, offline‑verifiable evidence packs, and deterministic PASS/HOLD/FAIL.",
+      "tags": [
+        "solutions",
+        "agentic",
+        "clinical",
+        "regulated",
+        "use cases"
+      ]
+    },
+    {
+      "title": "Standards",
+      "url": "/standards/",
+      "section": "Standards",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "standards"
+      ],
+      "keywords": [
+        "standards"
+      ],
+      "summary": "Standards and profiles for procurement‑grade AI governance: deterministic PASS/HOLD/FAIL, offline verification, and signed receipts.",
+      "description": "Standards and profiles for procurement‑grade AI governance: deterministic PASS/HOLD/FAIL, offline verification, and signed receipts.",
+      "tags": [
+        "standards",
+        "kcs",
+        "alp",
+        "whitepaper",
+        "zenodo"
+      ]
+    },
+    {
+      "title": "Trust",
+      "url": "/trust/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "trust",
+        "trust is an engineering property."
+      ],
+      "keywords": [
+        "trust",
+        "engineering",
+        "property"
+      ],
+      "summary": "Current trust surfaces for release integrity, transparency, offline verification, and procurement evidence.",
+      "description": "Current trust surfaces for release integrity, transparency, offline verification, and procurement evidence."
+    },
+    {
+      "title": "Verifiable contact channels",
+      "url": "/contact-channels/",
+      "section": "Contact Channels",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "contact channels",
+        "verifiable contact channels",
+        "verifiable contact channels (pinned)"
+      ],
+      "keywords": [
+        "verifiable",
+        "contact",
+        "channels",
+        "pinned"
+      ],
+      "summary": "Pinned, verifiable contact channels (role aliases) for licensing, procurement, security, privacy, and legal — designed to reduce phishing and misrouting risk.",
+      "description": "Pinned, verifiable contact channels (role aliases) for licensing, procurement, security, privacy, and legal — designed to reduce phishing and misrouting risk."
+    },
+    {
+      "title": "Verify Air‑gapped Verifier Kit (Offline) — Meridian Verity Group",
+      "url": "/verify-airgap-kit/",
+      "section": "Verify Airgap Kit",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "verify airgap kit",
+        "verify air‑gapped verifier kit (offline) — meridian verity group",
+        "verify the air‑gapped verifier kit offline."
+      ],
+      "keywords": [
+        "verify",
+        "air",
+        "gapped",
+        "verifier",
+        "kit",
+        "offline",
+        "meridian",
+        "verity"
+      ],
+      "summary": "Offline verification for the MVG air‑gapped verifier kit ZIP: SHA-256 + DSSE Ed25519 signature + signed keyring + head-of-head commitments. No uploads. No network calls.",
+      "description": "Offline verification for the MVG air‑gapped verifier kit ZIP: SHA-256 + DSSE Ed25519 signature + signed keyring + head-of-head commitments. No uploads. No network calls."
+    },
+    {
+      "title": "Verify Assurance Pack (Offline) — Meridian Verity Group",
+      "url": "/verify-assurance/",
+      "section": "Verify Assurance",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "verify assurance",
+        "verify assurance pack (offline) — meridian verity group",
+        "verify assurance pack (offline)"
+      ],
+      "keywords": [
+        "verify",
+        "assurance",
+        "pack",
+        "offline",
+        "meridian",
+        "verity",
+        "group"
+      ],
+      "summary": "Offline verification for MVG Assurance Packs: SHA-256 + DSSE Ed25519 signatures + contents manifest. No uploads. No network calls.",
+      "description": "Offline verification for MVG Assurance Packs: SHA-256 + DSSE Ed25519 signatures + contents manifest. No uploads. No network calls."
+    },
+    {
+      "title": "Verify Diligence Pack (Offline) — Meridian Verity Group",
+      "url": "/verify-diligence/",
+      "section": "Verify Diligence",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "verify diligence",
+        "verify diligence pack (offline) — meridian verity group",
+        "verify diligence pack (offline)"
+      ],
+      "keywords": [
+        "verify",
+        "diligence",
+        "pack",
+        "offline",
+        "meridian",
+        "verity",
+        "group"
+      ],
+      "summary": "Offline verification for MVG licensing diligence packs: SHA-256 + DSSE Ed25519 private receipts + contents manifest + blinded commitment log. No uploads. No network calls.",
+      "description": "Offline verification for MVG licensing diligence packs: SHA-256 + DSSE Ed25519 private receipts + contents manifest + blinded commitment log. No uploads. No network calls."
+    },
+    {
+      "title": "Verify Trust Pack (Archived Reference) — Meridian Verity Group",
+      "url": "/verify-trust/",
+      "section": "Verify Trust",
+      "kind": "Page",
+      "weight": 44,
+      "aliases": [
+        "verify trust",
+        "verify trust pack (archived reference) — meridian verity group",
+        "verify trust pack (offline — archived reference)"
+      ],
+      "keywords": [
+        "verify",
+        "trust",
+        "pack",
+        "archived",
+        "reference",
+        "meridian",
+        "verity",
+        "group"
+      ],
+      "summary": "No uploads • No network calls • Deterministic PASS / HOLD / FAIL • Requires secure context (https:// or localhost)",
+      "description": "No uploads • No network calls • Deterministic PASS / HOLD / FAIL • Requires secure context (https:// or localhost)"
+    },
+    {
+      "title": "Agentic execution safety",
+      "url": "/solutions/agentic/",
+      "section": "Solutions",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "solutions agentic",
+        "agentic",
+        "agentic execution safety"
+      ],
+      "keywords": [
+        "agentic",
+        "execution",
+        "safety",
+        "solutions"
+      ],
+      "summary": "Agentic execution safety — procurement-ready receipts, offline verification, and fail-closed gates (PASS/HOLD/FAIL).",
+      "description": "Agentic execution safety — procurement-ready receipts, offline verification, and fail-closed gates (PASS/HOLD/FAIL)."
+    },
+    {
+      "title": "Attachment bundle export",
+      "url": "/procurement/attachment-bundle/",
+      "section": "Procurement",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "procurement attachment bundle",
+        "attachment bundle",
+        "attachment bundle export",
+        "attachment bundle export (offline)."
+      ],
+      "keywords": [
+        "attachment",
+        "bundle",
+        "export",
+        "offline",
+        "procurement"
+      ],
+      "summary": "Offline attachment bundle export for procurement/audit: PDF naming guidance, one‑click JSON downloads, and a ticket comment template — with bundle manifest hashes.",
+      "description": "Offline attachment bundle export for procurement/audit: PDF naming guidance, one‑click JSON downloads, and a ticket comment template — with bundle manifest hashes."
+    },
+    {
+      "title": "Audit lens (Controls Explorer) | Procurement",
+      "url": "/procurement/audit/",
+      "section": "Procurement",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "procurement audit",
+        "audit",
+        "audit lens (controls explorer) | procurement",
+        "controls explorer — map control language to evidence pointers."
+      ],
+      "keywords": [
+        "audit",
+        "lens",
+        "controls",
+        "explorer",
+        "procurement",
+        "map",
+        "control",
+        "language"
+      ],
+      "summary": "Audit lens: Controls Explorer for SOC 2 / ISO 27001 / NIST CSF and OWASP GenAI mapping with evidence pointers and offline verification hints.",
+      "description": "Audit lens: Controls Explorer for SOC 2 / ISO 27001 / NIST CSF and OWASP GenAI mapping with evidence pointers and offline verification hints.",
+      "tags": [
+        "procurement",
+        "audit",
+        "controls",
+        "soc2",
+        "iso27001",
+        "nist",
+        "owasp genai"
+      ]
+    },
+    {
+      "title": "Break the Rail",
+      "url": "/verify/challenge/",
+      "section": "Verify",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "verify challenge",
+        "challenge",
+        "break the rail",
+        "break the rail."
+      ],
+      "keywords": [
+        "break",
+        "the",
+        "rail",
+        "verify"
+      ],
+      "summary": "Challenge the public state with local-only fixtures, inspect PASS / HOLD / FAIL semantics, and compare challenge results against the corroboration path.",
+      "description": "Challenge the public state with local-only fixtures, inspect PASS / HOLD / FAIL semantics, and compare challenge results against the corroboration path."
+    },
+    {
+      "title": "Changes | Meridian State Layer",
+      "url": "/trust-center/changes/",
+      "section": "Trust Center",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust center changes",
+        "changes",
+        "changes | meridian state layer",
+        "what changed since the last accepted review."
+      ],
+      "keywords": [
+        "changes",
+        "meridian",
+        "state",
+        "layer",
+        "what",
+        "changed",
+        "since",
+        "the"
+      ],
+      "summary": "Review only the deltas that matter since the last accepted public state: claims, freshness windows, pointer phases, and route-affecting changes.",
+      "description": "Review only the deltas that matter since the last accepted public state: claims, freshness windows, pointer phases, and route-affecting changes."
+    },
+    {
+      "title": "Clinical admissible automation (CTC)",
+      "url": "/solutions/clinical/",
+      "section": "Solutions",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "solutions clinical",
+        "clinical",
+        "clinical admissible automation (ctc)"
+      ],
+      "keywords": [
+        "clinical",
+        "admissible",
+        "automation",
+        "ctc",
+        "solutions"
+      ],
+      "summary": "Clinical admissible automation (CTC) — procurement-ready receipts, offline verification, and fail-closed gates (PASS/HOLD/FAIL).",
+      "description": "Clinical admissible automation (CTC) — procurement-ready receipts, offline verification, and fail-closed gates (PASS/HOLD/FAIL)."
+    },
+    {
+      "title": "Controls Mapping Pack",
+      "url": "/downloads/controls-mapping/",
+      "section": "Downloads",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "downloads controls mapping",
+        "controls mapping",
+        "controls mapping pack"
+      ],
+      "keywords": [
+        "controls",
+        "mapping",
+        "pack",
+        "downloads"
+      ],
+      "summary": "Controls mapping pack (SOC 2 / ISO 27001 / NIST CSF) with MVG mechanisms, evidence URLs, and offline verification hints. Informational only; not a certification.",
+      "description": "Controls mapping pack (SOC 2 / ISO 27001 / NIST CSF) with MVG mechanisms, evidence URLs, and offline verification hints. Informational only; not a certification.",
+      "tags": [
+        "soc2",
+        "iso",
+        "nist",
+        "controls mapping",
+        "compliance",
+        "procurement",
+        "crosswalk"
+      ]
+    },
+    {
+      "title": "Cookie and Tracking Technologies Policy v2.2.1",
+      "url": "/legal/cookies/",
+      "section": "Legal",
+      "kind": "Page",
+      "weight": 55,
+      "aliases": [
+        "legal cookies",
+        "cookies",
+        "cookie policy",
+        "tracking technologies",
+        "cookie and tracking technologies policy",
+        "MVG-COOKIES-2.2.1",
+        "GPC",
+        "Global Privacy Control",
+        "no advertising surveillance"
+      ],
+      "keywords": [
+        "cookie",
+        "tracking technologies",
+        "legal",
+        "privacy",
+        "GPC",
+        "local storage",
+        "consent",
+        "no advertising surveillance",
+        "scanner evidence",
+        "strictly necessary"
+      ],
+      "summary": "No advertising surveillance. Strictly necessary, local-only, and consent-gated technologies by design. PDF controls; HTML is a convenience copy.",
+      "description": "Meridian Verity Group Cookie and Tracking Technologies Policy v2.2.1: no advertising surveillance, strictly necessary technologies, local-only tools, consent-gated non-essential technologies, GPC posture, scanner evidence, and publication controls."
+    },
+    {
+      "title": "Corroboration object",
+      "url": "/trust-center/corroboration/",
+      "section": "Trust Center",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust center corroboration",
+        "corroboration",
+        "corroboration object",
+        "corroboration object."
+      ],
+      "keywords": [
+        "corroboration",
+        "object",
+        "trust",
+        "center"
+      ],
+      "summary": "Current corroboration object for Witness Quorum: whether an independent replay matched the same public state, digest, and verdict.",
+      "description": "Current corroboration object for Witness Quorum: whether an independent replay matched the same public state, digest, and verdict."
+    },
+    {
+      "title": "Data Processing Addendum (DPA)",
+      "url": "/legal/dpa/",
+      "section": "Legal",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "legal dpa",
+        "dpa",
+        "data processing addendum (dpa)"
+      ],
+      "keywords": [
+        "data",
+        "processing",
+        "addendum",
+        "dpa",
+        "legal"
+      ],
+      "summary": "Data Processing Addendum (DPA) for Meridian Verity Group (public; procurement-oriented).",
+      "description": "Data Processing Addendum (DPA) for Meridian Verity Group (public; procurement-oriented)."
+    },
+    {
+      "title": "Data Retention, Deletion, and Evidence Artifact Minimization Policy",
+      "url": "/legal/retention/",
+      "section": "Legal",
+      "kind": "Policy",
+      "weight": 72,
+      "aliases": [
+        "retention policy",
+        "data retention policy",
+        "deletion policy",
+        "evidence artifact minimization",
+        "MVG-RETENTION-2.3.0",
+        "retention v2.3.0",
+        "legal retention",
+        "public-site logs",
+        "public proof artifacts",
+        "legal holds",
+        "de-linking",
+        "least-revealing proof"
+      ],
+      "keywords": [
+        "data",
+        "retention",
+        "deletion",
+        "evidence",
+        "artifact",
+        "minimization",
+        "Customer Content",
+        "Customer Personal Data",
+        "security reports",
+        "legal holds",
+        "public-site logs",
+        "signed state",
+        "proof artifacts"
+      ],
+      "summary": "Current MVG retention, deletion, and evidence artifact minimization policy. PDF controls; HTML is a convenience copy. Public review only; written scope controls private depth.",
+      "description": "Retention boundaries for public-site logs, security reports, business communications, Customer Content, proof artifacts, signed state, and deletion workflows."
+    },
+    {
+      "title": "Deployments rail (preview)",
+      "url": "/trust/deployments/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust deployments",
+        "deployments",
+        "deployments rail (preview)"
+      ],
+      "keywords": [
+        "deployments",
+        "rail",
+        "preview",
+        "trust"
+      ],
+      "summary": "Deployments rail (preview): planned signed deployment events and audit receipts, published fail-closed until signatures are available.",
+      "description": "Deployments rail (preview): planned signed deployment events and audit receipts, published fail-closed until signatures are available."
+    },
+    {
+      "title": "DSSE viewer (procurement-friendly)",
+      "url": "/trust/dsse-viewer/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust dsse viewer",
+        "dsse viewer",
+        "dsse viewer (procurement-friendly)",
+        "dsse viewer — one page a reviewer can read."
+      ],
+      "keywords": [
+        "dsse",
+        "viewer",
+        "procurement",
+        "friendly",
+        "one",
+        "page",
+        "reviewer",
+        "can"
+      ],
+      "summary": "Procurement-friendly DSSE viewer: decode MVG Ticket Pack DSSE into a one-page human summary with security packet + transparency pointers.",
+      "description": "Procurement-friendly DSSE viewer: decode MVG Ticket Pack DSSE into a one-page human summary with security packet + transparency pointers."
+    },
+    {
+      "title": "Evidence Pack Index",
+      "url": "/legal/evidence-pack/",
+      "section": "Legal",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "legal evidence pack",
+        "evidence pack",
+        "evidence pack index"
+      ],
+      "keywords": [
+        "evidence",
+        "pack",
+        "index",
+        "legal"
+      ],
+      "summary": "Public vs request-only evidence map for procurement review, with minimal-PII request pattern. (public; procurement-oriented).",
+      "description": "Public vs request-only evidence map for procurement review, with minimal-PII request pattern. (public; procurement-oriented)."
+    },
+    {
+      "title": "Executive procurement briefing",
+      "url": "/procurement/exec/",
+      "section": "Procurement",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "procurement exec",
+        "exec",
+        "executive procurement briefing",
+        "board‑ready procurement closure — verifiable offline."
+      ],
+      "keywords": [
+        "executive",
+        "procurement",
+        "briefing",
+        "board",
+        "ready",
+        "closure",
+        "verifiable",
+        "offline"
+      ],
+      "summary": "Board-ready procurement briefing: what MVG delivers, how to verify offline, and the PASS/HOLD/FAIL decision rule.",
+      "description": "Board-ready procurement briefing: what MVG delivers, how to verify offline, and the PASS/HOLD/FAIL decision rule.",
+      "tags": [
+        "procurement",
+        "executive",
+        "board",
+        "decision",
+        "go-hold-fail"
+      ]
+    },
+    {
+      "title": "Impact assessment (public-safe)",
+      "url": "/impact/assessment/",
+      "section": "Impact",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "impact assessment",
+        "assessment",
+        "impact assessment (public-safe)"
+      ],
+      "keywords": [
+        "impact",
+        "assessment",
+        "public",
+        "safe"
+      ],
+      "summary": "Public-safe impact assessment policy: how MVG turns social impact into replayable receipts (fail-closed) for regulators, auditors, and procurement.",
+      "description": "Public-safe impact assessment policy: how MVG turns social impact into replayable receipts (fail-closed) for regulators, auditors, and procurement."
+    },
+    {
+      "title": "Key roles",
+      "url": "/trust/key-roles/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust key roles",
+        "key roles",
+        "key roles: verification vs encrypted contact"
+      ],
+      "keywords": [
+        "key",
+        "roles",
+        "verification",
+        "encrypted",
+        "contact",
+        "trust"
+      ],
+      "summary": "Key role separation: site-release verification keyring vs security contact encryption key. Eliminate reviewer drift questions.",
+      "description": "Key role separation: site-release verification keyring vs security contact encryption key. Eliminate reviewer drift questions."
+    },
+    {
+      "title": "Legal lens | Procurement",
+      "url": "/procurement/legal/",
+      "section": "Procurement",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "procurement legal",
+        "legal",
+        "legal lens | procurement",
+        "legal lens: canonical policies + disclosure + privacy posture."
+      ],
+      "keywords": [
+        "legal",
+        "lens",
+        "procurement",
+        "canonical",
+        "policies",
+        "disclosure",
+        "privacy",
+        "posture"
+      ],
+      "summary": "Legal lens for procurement: canonical policy links, disclosure, privacy posture, and contract-ready evidence pointers.",
+      "description": "Legal lens for procurement: canonical policy links, disclosure, privacy posture, and contract-ready evidence pointers.",
+      "tags": [
+        "procurement",
+        "legal",
+        "privacy",
+        "security disclosure",
+        "policy"
+      ]
+    },
+    {
+      "title": "Licensing diligence",
+      "url": "/licensing/diligence/",
+      "section": "Licensing",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "licensing diligence",
+        "diligence",
+        "verifiable diligence for licensing."
+      ],
+      "keywords": [
+        "licensing",
+        "diligence",
+        "verifiable",
+        "for"
+      ],
+      "summary": "Verifiable licensing diligence: immutable pack ZIP + private DSSE receipt + blinded public commitment + offline verifier. Procurement-ready and litigation-conscious by design.",
+      "description": "Verifiable licensing diligence: immutable pack ZIP + private DSSE receipt + blinded public commitment + offline verifier. Procurement-ready and litigation-conscious by design."
+    },
+    {
+      "title": "Meridian State Layer | Signed public state",
+      "url": "/trust-center/state/",
+      "section": "Trust Center",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust center state",
+        "state",
+        "meridian state layer | signed public state",
+        "one signed state. two ways to verify it."
+      ],
+      "keywords": [
+        "meridian",
+        "state",
+        "layer",
+        "signed",
+        "public",
+        "one",
+        "two",
+        "ways"
+      ],
+      "summary": "The signed public state behind Trust Center, Verify, and Witness Quorum.",
+      "description": "The signed public state behind Trust Center, Verify, and Witness Quorum."
+    },
+    {
+      "title": "Policy & Evidence index",
+      "url": "/trust/policy-evidence/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust policy evidence",
+        "policy evidence",
+        "policy & evidence index",
+        "policy & evidence index (json + dsse)"
+      ],
+      "keywords": [
+        "policy",
+        "evidence",
+        "index",
+        "json",
+        "dsse",
+        "trust"
+      ],
+      "summary": "Machine-readable pointers (JSON + DSSE) for procurement automation: policy anchors and verifiable evidence rails.",
+      "description": "Machine-readable pointers (JSON + DSSE) for procurement automation: policy anchors and verifiable evidence rails."
+    },
+    {
+      "title": "Privacy Policy and Data Protection Notice v3.0.0",
+      "url": "/legal/privacy/",
+      "section": "Legal",
+      "kind": "Current controlling privacy publication",
+      "weight": 65,
+      "aliases": [
+        "privacy",
+        "privacy policy",
+        "data protection notice",
+        "MVG-PRIVACY-3.0.0",
+        "legal privacy",
+        "privacy rights request",
+        "no tracking by default",
+        "Customer Content privacy",
+        "evidence-room privacy",
+        "clean-room privacy",
+        "regulated data routing"
+      ],
+      "keywords": [
+        "privacy",
+        "data protection",
+        "MVG-PRIVACY-3.0.0",
+        "legal@meridianverity.com",
+        "security@meridianverity.com",
+        "Customer Content",
+        "Evidence Artifacts",
+        "PHI",
+        "DPA",
+        "BAA",
+        "rights",
+        "retention",
+        "evidence-room",
+        "clean-room",
+        "regulated data"
+      ],
+      "summary": "Current MVG privacy notice: evidence-first privacy posture for no-tracking-by-default public Site, public proof surfaces, evidence-room and clean-room diligence, Customer Content boundaries, regulated-data routing, and customer-agreement-controlled processing.",
+      "description": "Current MVG privacy notice: evidence-first privacy posture for no-tracking-by-default public Site, public proof surfaces, evidence-room and clean-room diligence, Customer Content boundaries, regulated-data routing, and customer-agreement-controlled processing.",
+      "href": "/legal/privacy/",
+      "body": "Current MVG privacy publication MVG-PRIVACY-2.1.1. Controlling PDF, HTML convenience copy, no-tracking-by-default Site posture, rights, retention, transfers, Customer Content, model training, and regulated data boundaries. privacy data protection MVG-PRIVACY-2.1.1 legal@meridianverity.com no tracking GDPR CCPA DPA BAA Customer Content Evidence Artifacts",
+      "tags": [
+        "privacy",
+        "data protection",
+        "MVG-PRIVACY-2.1.1",
+        "legal@meridianverity.com",
+        "no tracking",
+        "GDPR",
+        "CCPA",
+        "DPA",
+        "BAA",
+        "Customer Content",
+        "Evidence Artifacts"
+      ],
+      "surface": "legal",
+      "version": "v244-legal-privacy-apex"
+    },
+    {
+      "title": "Procurement automation input",
+      "url": "/trust/procurement-inputs/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust procurement inputs",
+        "procurement inputs",
+        "procurement automation input",
+        "one input"
+      ],
+      "keywords": [
+        "procurement",
+        "automation",
+        "input",
+        "one",
+        "trust"
+      ],
+      "summary": "Procurement input artifacts and latest machine-readable pointers for offline reviewer workflows.",
+      "description": "Procurement input artifacts and latest machine-readable pointers for offline reviewer workflows."
+    },
+    {
+      "title": "Procurement Ticket Pack",
+      "url": "/procurement/ticket-pack/",
+      "section": "Procurement",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "procurement ticket pack",
+        "ticket pack"
+      ],
+      "keywords": [
+        "procurement",
+        "ticket",
+        "pack"
+      ],
+      "summary": "Attachable ZIP for internal procurement/security tickets: verifiable evidence + deterministic PASS/HOLD/FAIL with reason codes.",
+      "description": "Attachable ZIP for internal procurement/security tickets: verifiable evidence + deterministic PASS/HOLD/FAIL with reason codes."
+    },
+    {
+      "title": "Procurement Ticket Pack Rail",
+      "url": "/trust/procurement-ticket-pack/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust procurement ticket pack",
+        "procurement ticket pack",
+        "procurement ticket pack rail"
+      ],
+      "keywords": [
+        "procurement",
+        "ticket",
+        "pack",
+        "rail",
+        "trust"
+      ],
+      "summary": "Machine-readable DSSE pointer for the latest Procurement Ticket Pack index (attachable ZIP for internal tickets).",
+      "description": "Machine-readable DSSE pointer for the latest Procurement Ticket Pack index (attachable ZIP for internal tickets)."
+    },
+    {
+      "title": "Public keys and trust anchors",
+      "url": "/trust-center/keys/",
+      "section": "Trust Center",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust center keys",
+        "keys",
+        "public keys and trust anchors",
+        "public keys and trust anchors."
+      ],
+      "keywords": [
+        "public",
+        "keys",
+        "and",
+        "trust",
+        "anchors",
+        "center"
+      ],
+      "summary": "Human-readable trust anchor page for the Meridian State Layer: root/security key, witness keys, fingerprints, and machine-readable key index.",
+      "description": "Human-readable trust anchor page for the Meridian State Layer: root/security key, witness keys, fingerprints, and machine-readable key index."
+    },
+    {
+      "title": "Receipts signing ceremony",
+      "url": "/trust/identity-receipts/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust identity receipts",
+        "identity receipts",
+        "receipts signing ceremony"
+      ],
+      "keywords": [
+        "receipts",
+        "signing",
+        "ceremony",
+        "trust"
+      ],
+      "summary": "One-page runbook for publishing signed receipts (Company, Governance, AIMS, Safety-IR) and attaching them to audit tickets.",
+      "description": "One-page runbook for publishing signed receipts (Company, Governance, AIMS, Safety-IR) and attaching them to audit tickets.",
+      "tags": [
+        "identity",
+        "receipts",
+        "gpg",
+        "signature",
+        "ceremony",
+        "audit",
+        "runbook"
+      ]
+    },
+    {
+      "title": "Regulated ops & change control",
+      "url": "/solutions/regulated/",
+      "section": "Solutions",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "solutions regulated",
+        "regulated",
+        "regulated ops & change control"
+      ],
+      "keywords": [
+        "regulated",
+        "ops",
+        "change",
+        "control",
+        "solutions"
+      ],
+      "summary": "Regulated ops & change control — procurement-ready receipts, offline verification, and fail-closed gates (PASS/HOLD/FAIL).",
+      "description": "Regulated ops & change control — procurement-ready receipts, offline verification, and fail-closed gates (PASS/HOLD/FAIL)."
+    },
+    {
+      "title": "Reviewer index",
+      "url": "/trust/reviewer-index/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust reviewer index",
+        "reviewer index",
+        "reviewer index (canonical)",
+        "independent pressure-test",
+        "pressure test",
+        "protected action boundary",
+        "validation front door",
+        "public-safe pressure-test"
+      ],
+      "keywords": [
+        "reviewer",
+        "index",
+        "canonical",
+        "trust"
+      ],
+      "summary": "Canonical reviewer flow for MVG trust surfaces: one source, zero drift. Receipts win; missing proof yields HOLD.",
+      "description": "Public-safe review packet, local verification, independent pressure-test, internal champion note, and scoped diligence routing."
+    },
+    {
+      "title": "Safety incident response (public-safe)",
+      "url": "/safety/incident-response/",
+      "section": "Safety",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "safety incident response",
+        "incident response",
+        "safety incident response (public-safe)",
+        "safety incident response — built for reviewers."
+      ],
+      "keywords": [
+        "safety",
+        "incident",
+        "response",
+        "public",
+        "safe",
+        "built",
+        "for",
+        "reviewers"
+      ],
+      "summary": "Public‑safe safety incident response: classification, stop/hold triggers, escalation path, and communications posture — aligned with governance.",
+      "description": "Public‑safe safety incident response: classification, stop/hold triggers, escalation path, and communications posture — aligned with governance.",
+      "tags": [
+        "safety incident",
+        "safety IR",
+        "incident response",
+        "stop authority",
+        "hold triggers",
+        "non-cyber",
+        "mvg-safety-ir",
+        "mvg-safety-ir.json",
+        "/.well-known/mvg-safety-ir.json"
+      ]
+    },
+    {
+      "title": "SCITT Bridge (Export-only) — Meridian Verity Group",
+      "url": "/trust/scitt-bridge/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust scitt bridge",
+        "scitt bridge",
+        "scitt bridge (export-only) — meridian verity group",
+        "scitt bridge (export-only)"
+      ],
+      "keywords": [
+        "scitt",
+        "bridge",
+        "export",
+        "only",
+        "meridian",
+        "verity",
+        "group",
+        "trust"
+      ],
+      "summary": "SCITT bridge references and signed export pointers for auditor-facing verification workflows.",
+      "description": "SCITT bridge references and signed export pointers for auditor-facing verification workflows."
+    },
+    {
+      "title": "Search",
+      "url": "/search/",
+      "section": "Navigation",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "search",
+        "find the exact meridian route.",
+        "site search",
+        "find",
+        "command palette",
+        "route finder",
+        "lookup"
+      ],
+      "keywords": [
+        "search",
+        "find",
+        "the",
+        "exact",
+        "meridian",
+        "route",
+        "private search",
+        "client side",
+        "no tracking",
+        "offline once loaded"
+      ],
+      "summary": "Search state, receipts, products, patents, and exact routes. Client-side. No tracking.",
+      "description": "Search state, receipts, products, patents, and exact routes. Client-side. No tracking.",
+      "tags": [
+        "search",
+        "receipt finder",
+        "command palette",
+        "hotkey",
+        "cmd+k",
+        "ctrl+k"
+      ]
+    },
+    {
+      "title": "Security advisories",
+      "url": "/security/advisories/",
+      "section": "Security",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "security advisories",
+        "advisories"
+      ],
+      "keywords": [
+        "security",
+        "advisories"
+      ],
+      "summary": "Signed security advisories feed (append‑only scaffold) for vulnerability disclosures and updates. Official channels only.",
+      "description": "Signed security advisories feed (append‑only scaffold) for vulnerability disclosures and updates. Official channels only.",
+      "tags": [
+        "advisories",
+        "security advisory",
+        "cve",
+        "mvg-adv",
+        "vulnerability",
+        "feed",
+        "append-only",
+        "receipt"
+      ]
+    },
+    {
+      "title": "Security lens | Procurement",
+      "url": "/procurement/security/",
+      "section": "Procurement",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "procurement security",
+        "security",
+        "security lens | procurement",
+        "security lens: headers, csp, caching, release evidence."
+      ],
+      "keywords": [
+        "security",
+        "lens",
+        "procurement",
+        "headers",
+        "csp",
+        "caching",
+        "release",
+        "evidence"
+      ],
+      "summary": "Security lens for procurement: headers, CSP, caching, supply-chain posture, and release evidence pointers.",
+      "description": "Security lens for procurement: headers, CSP, caching, supply-chain posture, and release evidence pointers.",
+      "tags": [
+        "procurement",
+        "security",
+        "headers",
+        "csp",
+        "sri",
+        "cache"
+      ]
+    },
+    {
+      "title": "Signed status aggregator",
+      "url": "/trust/status/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust status",
+        "status",
+        "signed status aggregator"
+      ],
+      "keywords": [
+        "signed",
+        "status",
+        "aggregator",
+        "trust"
+      ],
+      "summary": "Latest MVG status aggregates for PROD and DEMO reviewer surfaces, with detached signatures and offline verification hints.",
+      "description": "Latest MVG status aggregates for PROD and DEMO reviewer surfaces, with detached signatures and offline verification hints."
+    },
+    {
+      "title": "Status & Incident Communication",
+      "url": "/legal/status/",
+      "section": "Legal",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "legal status",
+        "status",
+        "status & incident communication"
+      ],
+      "keywords": [
+        "status",
+        "incident",
+        "communication",
+        "legal"
+      ],
+      "summary": "Objective-only status & incident communication posture (not an SLA). (public; procurement-oriented).",
+      "description": "Objective-only status & incident communication posture (not an SLA). (public; procurement-oriented)."
+    },
+    {
+      "title": "Tamper‑Evident Legal & Trust Documents (Signed Manifest)",
+      "url": "/legal/tamper-evident-manifest/",
+      "section": "Legal",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "legal tamper evident manifest",
+        "tamper evident manifest",
+        "tamper‑evident legal & trust documents (signed manifest)"
+      ],
+      "keywords": [
+        "tamper",
+        "evident",
+        "legal",
+        "trust",
+        "documents",
+        "signed",
+        "manifest"
+      ],
+      "summary": "How to make legal/trust PDFs tamper-evident using signed manifests and deterministic digests. (public; procurement-oriented).",
+      "description": "How to make legal/trust PDFs tamper-evident using signed manifests and deterministic digests. (public; procurement-oriented)."
+    },
+    {
+      "title": "Transparency log (preview)",
+      "url": "/trust/transparency/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust transparency",
+        "transparency",
+        "transparency log (preview)",
+        "append-only release log. inclusion proofs you can replay."
+      ],
+      "keywords": [
+        "transparency",
+        "log",
+        "preview",
+        "append",
+        "only",
+        "release",
+        "inclusion",
+        "proofs"
+      ],
+      "summary": "Append-only transparency log (preview): procurement-ready release receipts with offline verification and fail-closed posture.",
+      "description": "Append-only transparency log (preview): procurement-ready release receipts with offline verification and fail-closed posture.",
+      "tags": [
+        "transparency",
+        "append-only",
+        "log",
+        "inclusion proof"
+      ]
+    },
+    {
+      "title": "Trusted Types (optional)",
+      "url": "/trust/trusted-types/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust trusted types",
+        "trusted types",
+        "trusted types (optional)"
+      ],
+      "keywords": [
+        "trusted",
+        "types",
+        "optional",
+        "trust"
+      ],
+      "summary": "Trusted Types (optional) readiness. MVG verifier UIs avoid HTML injection sinks; opt-in policy templates for strict deployments.",
+      "description": "Trusted Types (optional) readiness. MVG verifier UIs avoid HTML injection sinks; opt-in policy templates for strict deployments."
+    },
+    {
+      "title": "Website release integrity",
+      "url": "/trust/site-release/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust site release",
+        "site release",
+        "website release integrity",
+        "website release integrity — canonical prod + appendix rails"
+      ],
+      "keywords": [
+        "website",
+        "release",
+        "integrity",
+        "canonical",
+        "prod",
+        "appendix",
+        "rails",
+        "trust"
+      ],
+      "summary": "Canonical release integrity surface for PROD, with appendix reference rails for compatibility and ceremony review.",
+      "description": "Canonical release integrity surface for PROD, with appendix reference rails for compatibility and ceremony review."
+    },
+    {
+      "title": "Witness countersign",
+      "url": "/trust/witnesses/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust witnesses",
+        "witnesses",
+        "witness countersign"
+      ],
+      "keywords": [
+        "witness",
+        "countersign",
+        "trust"
+      ],
+      "summary": "Optional independent countersign of key PROD procurement pointers.",
+      "description": "Optional independent countersign of key PROD procurement pointers."
+    },
+    {
+      "title": "Witness Quorum Summary",
+      "url": "/trust-center/public-witnessed-pass/",
+      "section": "Trust Center",
+      "kind": "Page",
+      "weight": 40,
+      "aliases": [
+        "trust center public witnessed pass",
+        "public witnessed pass",
+        "witness quorum summary",
+        "witness quorum."
+      ],
+      "keywords": [
+        "witness",
+        "quorum",
+        "summary",
+        "trust",
+        "center"
+      ],
+      "summary": "Compact summary of the current public posture, witness quorum status, and whether an independent replay matched the same public state.",
+      "description": "Compact summary of the current public posture, witness quorum status, and whether an independent replay matched the same public state."
+    },
+    {
+      "title": "Advisories receipt ceremony",
+      "url": "/security/advisories/receipt-ceremony/",
+      "section": "Security",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "security advisories receipt ceremony",
+        "receipt ceremony",
+        "advisories receipt ceremony"
+      ],
+      "keywords": [
+        "advisories",
+        "receipt",
+        "ceremony",
+        "security"
+      ],
+      "summary": "One-page runbook for publishing append-only security advisories as receipts (feed + root + detached signatures).",
+      "description": "One-page runbook for publishing append-only security advisories as receipts (feed + root + detached signatures).",
+      "tags": [
+        "advisory",
+        "advisories",
+        "receipt ceremony",
+        "runbook",
+        "checklist",
+        "signing",
+        "gpg",
+        "offline verify",
+        "expected output",
+        "audit ticket"
+      ]
+    },
+    {
+      "title": "Deployments (PROD)",
+      "url": "/trust/deployments/prod/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust deployments prod",
+        "prod",
+        "deployments (prod)"
+      ],
+      "keywords": [
+        "deployments",
+        "prod",
+        "trust"
+      ],
+      "summary": "Current production deployment evidence, receipts, and verification links.",
+      "description": "Current production deployment evidence, receipts, and verification links."
+    },
+    {
+      "title": "Falsification Receipt examples",
+      "url": "/standards/falsification-receipt/examples/",
+      "section": "Standards",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "standards falsification receipt examples",
+        "examples",
+        "falsification receipt examples",
+        "examples."
+      ],
+      "keywords": [
+        "falsification",
+        "receipt",
+        "examples",
+        "standards"
+      ],
+      "summary": "Illustrative example objects for the Falsification Receipt candidate specification.",
+      "description": "Illustrative example objects for the Falsification Receipt candidate specification."
+    },
+    {
+      "title": "Falsification Receipt implementer guide",
+      "url": "/standards/falsification-receipt/implementer-guide/",
+      "section": "Standards",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "standards falsification receipt implementer guide",
+        "implementer guide",
+        "falsification receipt implementer guide",
+        "implementer guide."
+      ],
+      "keywords": [
+        "falsification",
+        "receipt",
+        "implementer",
+        "guide",
+        "standards"
+      ],
+      "summary": "Implementer guide for the Falsification Receipt candidate specification used by the Meridian system.",
+      "description": "Implementer guide for the Falsification Receipt candidate specification used by the Meridian system."
+    },
+    {
+      "title": "Falsification Receipt test vectors",
+      "url": "/standards/falsification-receipt/test-vectors/",
+      "section": "Standards",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "standards falsification receipt test vectors",
+        "test vectors",
+        "falsification receipt test vectors",
+        "test vectors."
+      ],
+      "keywords": [
+        "falsification",
+        "receipt",
+        "test",
+        "vectors",
+        "standards"
+      ],
+      "summary": "Checksum-pinned candidate test vectors for the Falsification Receipt specification.",
+      "description": "Checksum-pinned candidate test vectors for the Falsification Receipt specification."
+    },
+    {
+      "title": "MVG Deployments (DEMO)",
+      "url": "/trust/deployments/demo/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust deployments demo",
+        "demo",
+        "mvg deployments (demo)"
+      ],
+      "keywords": [
+        "mvg",
+        "deployments",
+        "demo",
+        "trust"
+      ],
+      "summary": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets.",
+      "description": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets."
+    },
+    {
+      "title": "MVG Deployments (PROD)",
+      "url": "/trust/deployments/ready_to_sign/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust deployments ready_to_sign",
+        "ready_to_sign",
+        "mvg deployments (prod)"
+      ],
+      "keywords": [
+        "mvg",
+        "deployments",
+        "prod",
+        "trust"
+      ],
+      "summary": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets.",
+      "description": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets."
+    },
+    {
+      "title": "Ticket Pack Policy",
+      "url": "/trust/procurement-ticket-pack/policy/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust procurement ticket pack policy",
+        "policy",
+        "ticket pack policy",
+        "procurement ticket pack rail"
+      ],
+      "keywords": [
+        "ticket",
+        "pack",
+        "policy",
+        "procurement",
+        "rail",
+        "trust"
+      ],
+      "summary": "Machine-readable DSSE pointer for the latest Procurement Ticket Pack index (attachable ZIP for internal tickets).",
+      "description": "Machine-readable DSSE pointer for the latest Procurement Ticket Pack index (attachable ZIP for internal tickets)."
+    },
+    {
+      "title": "Website release integrity — DEMO",
+      "url": "/trust/site-release/demo/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust site release demo",
+        "demo",
+        "website release integrity — demo",
+        "website release integrity (demo)"
+      ],
+      "keywords": [
+        "website",
+        "release",
+        "integrity",
+        "demo",
+        "trust"
+      ],
+      "summary": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets.",
+      "description": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets."
+    },
+    {
+      "title": "Website release integrity — PROD",
+      "url": "/trust/site-release/latest/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust site release latest",
+        "latest",
+        "website release integrity — prod",
+        "website release integrity (prod)"
+      ],
+      "keywords": [
+        "website",
+        "release",
+        "integrity",
+        "prod",
+        "trust"
+      ],
+      "summary": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets.",
+      "description": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets."
+    },
+    {
+      "title": "Website release integrity — READY_TO_SIGN",
+      "url": "/trust/site-release/ready_to_sign/",
+      "section": "Trust",
+      "kind": "Page",
+      "weight": 36,
+      "aliases": [
+        "trust site release ready_to_sign",
+        "ready_to_sign",
+        "website release integrity — ready_to_sign",
+        "website release integrity (ready_to_sign)"
+      ],
+      "keywords": [
+        "website",
+        "release",
+        "integrity",
+        "ready",
+        "sign",
+        "trust"
+      ],
+      "summary": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets.",
+      "description": "Signed website release manifests for audit-grade verification of MVG verifier UI code and critical assets."
+    },
+    {
+      "title": "Explainers",
+      "url": "/explainers/",
+      "tags": [
+        "explainers",
+        "dsse",
+        "offline verification",
+        "hold"
+      ],
+      "blurb": "Short explainers for DSSE, HOLD semantics, and offline verification.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Fresh HOLD Release",
+      "url": "/trust-center/#fresh-hold-release",
+      "description": "Integrity PASS, public posture HOLD, independent replay pending.",
+      "aliases": [
+        "fresh hold",
+        "intentional hold",
+        "independent replay pending",
+        "RC.PUBLIC.HOLD.INDEPENDENT_REPLAY_PENDING",
+        "release integrity pass public posture hold"
+      ],
+      "section": "Trust",
+      "summary": "Integrity PASS, public posture HOLD, independent replay pending.",
+      "keywords": [],
+      "weight": 0
+    },
+    {
+      "title": "Fresh HOLD Release",
+      "url": "/.well-known/mvg-fresh-hold-release.json",
+      "summary": "Release integrity PASS; public posture HOLD; independent replay pending.",
+      "tags": [
+        "trust",
+        "verify",
+        "hold",
+        "fresh hold",
+        "reason code",
+        "security review"
+      ],
+      "description": "Release integrity PASS; public posture HOLD; independent replay pending.",
+      "aliases": [],
+      "keywords": [],
+      "weight": 0
+    },
+    {
+      "title": "GenAI controls map (OWASP ↔ MVG)",
+      "url": "/downloads/controls-mapping/#genai",
+      "tags": [
+        "owasp",
+        "genai",
+        "llm",
+        "prompt injection",
+        "agentic",
+        "controls map",
+        "crosswalk"
+      ],
+      "blurb": "OWASP GenAI/LLM risk categories mapped to MVG (Verify → Permit → Gate) with evidence pointers.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Glossary (reason codes)",
+      "url": "/glossary/#reason-codes",
+      "tags": [
+        "glossary",
+        "reason codes",
+        "hold",
+        "fail",
+        "pass"
+      ],
+      "blurb": "Reviewer translation layer: what PASS/HOLD/FAIL mean and why.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Open DSSE viewer",
+      "url": "/trust/dsse-viewer/?dsse=/.well-known/mvg-procurement-ticket-pack.dsse.json",
+      "tags": [
+        "dsse",
+        "viewer",
+        "procurement",
+        "ticket",
+        "pack"
+      ],
+      "blurb": "Procurement-friendly view of a DSSE evidence pointer — human readable, deterministic links.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Production state pointer",
+      "url": "/trust/dsse-viewer/?dsse=/.well-known/mvg-prod.dsse.json",
+      "tags": [
+        "prod",
+        "production",
+        "state",
+        "pointer",
+        "receipt",
+        "mvg-prod",
+        "release",
+        "verification"
+      ],
+      "blurb": "Single authoritative pointer for production state and verification receipts.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Ticket Pack procurement",
+      "url": "/procurement/#ticket-pack",
+      "tags": [
+        "procurement",
+        "ticket pack",
+        "jira",
+        "servicenow",
+        "dsse"
+      ],
+      "blurb": "Attach 1 URL (DSSE) + 1 ZIP. Offline verifier outputs PASS / HOLD / FAIL.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Verify a site release (offline)",
+      "url": "/trust/site-release/#verify",
+      "tags": [
+        "verify",
+        "site release",
+        "offline",
+        "integrity",
+        "manifest"
+      ],
+      "blurb": "Deterministic verification of the signed Site Release Manifest under pinned digests.",
+      "aliases": [],
+      "keywords": []
+    },
+    {
+      "title": "Protected-Action Acceptance Profile v0.1",
+      "url": "/acceptance-plane/profile/",
+      "section": "Acceptance Plane",
+      "kind": "Public control profile",
+      "weight": 860,
+      "summary": "A public control profile for proof-before-impact AI actions: protected action classes, acceptance boundary, receipt envelope, evidence set, PASS/HOLD/FAIL semantics, and test vectors.",
+      "description": "MVG defines the before-impact acceptance boundary for agentic AI. Public profile only; not certification, legal advice, claim chart, implementation mapping, license grant, or compliance determination.",
+      "aliases": [
+        "Protected-Action Acceptance",
+        "acceptance profile",
+        "before-impact acceptance",
+        "proof before impact",
+        "protected action",
+        "acceptance boundary",
+        "receipt envelope",
+        "HOLD",
+        "PASS HOLD FAIL",
+        "agentic AI acceptance",
+        "profile v0.1"
+      ]
+    },
+    {
+      "title": "The HOLD Challenge",
+      "url": "/acceptance-plane/hold-challenge/",
+      "section": "Acceptance Plane",
+      "kind": "Public replay challenge",
+      "weight": 760,
+      "summary": "Replayable proof that an AI action paused correctly before consequence. HOLD is protected restraint, not failure.",
+      "description": "Public-safe challenge page for HOLD semantics, local replay posture, demo vectors, and proof-before-impact review.",
+      "aliases": [
+        "HOLD Challenge",
+        "replay HOLD",
+        "prove why it paused",
+        "HOLD is not failure",
+        "protected restraint",
+        "fail closed",
+        "public test vectors"
+      ]
+    },
+    {
+      "title": "Protected-Action Acceptance Test Vectors v0.1",
+      "url": "/examples/protected-action-acceptance/",
+      "section": "Examples",
+      "kind": "Public test vectors",
+      "weight": 610,
+      "summary": "Public-safe PASS, HOLD, and FAIL sample receipts for the Protected-Action Acceptance Profile v0.1.",
+      "description": "Demo receipts for current authority, stale policy epoch, missing lineage, conflicting receipts, revoked authority, render disclosure, clinical finalization, and out-of-scope infrastructure mutation.",
+      "aliases": [
+        "test vectors",
+        "sample receipts",
+        "PASS HOLD FAIL examples",
+        "protected action receipts",
+        "receipt examples",
+        "hold stale policy epoch"
+      ]
+    },
+    {
+      "title": "Receipt Envelope Schema v0.1",
+      "url": "/acceptance-plane/profile/schema/",
+      "section": "Acceptance Plane",
+      "kind": "Human-readable schema explainer",
+      "weight": 540,
+      "summary": "Plain-English guide to the Protected-Action Acceptance receipt envelope, with raw JSON schema and reason-code registry links.",
+      "description": "Human-readable schema page for action identity, evidence posture, decision state, verification record, version discipline, and public-safe receipt boundaries.",
+      "aliases": [
+        "receipt schema",
+        "receipt envelope",
+        "schema v0.1",
+        "reason codes",
+        "PASS HOLD FAIL schema",
+        "protected action receipt envelope",
+        "raw JSON schema",
+        "verifier receipt"
+      ]
+    },
+    {
+      "title": "MVG Local Verifier v0.1 ZIP",
+      "url": "/downloads/protected-action-acceptance/mvg-local-verifier-v0.1.zip",
+      "section": "Downloads",
+      "kind": "Verifier download",
+      "weight": 430,
+      "summary": "CLI verifier bundle for local replay of public PASS / HOLD / FAIL demo receipts.",
+      "aliases": [
+        "download local verifier",
+        "CLI verifier",
+        "mvg verifier zip",
+        "HOLD verifier download"
+      ],
+      "description": "Downloadable public-safe local verifier bundle with CLI script, README, sample receipts, and expected outputs."
+    },
+    {
+      "title": "AI/TDM Reservation Policy and Machine-Readable Rights Notice v2.4.0",
+      "url": "/legal/ai-tdm-reservation/",
+      "section": "Legal Surface",
+      "kind": "Current AI/TDM rights-reservation publication",
+      "weight": 920,
+      "summary": "Human-readable and machine-readable reservation of rights for AI training, TDM, embeddings, semantic indexing, RAG, model evaluation, automated extraction, and competitive reuse.",
+      "description": "PDF controls; machine-readable routes include robots.txt, ai.txt, TDMRep JSON, compact reservation JSON, TDM policy JSON-LD, publication JSON, and SHA-256 sidecars.",
+      "aliases": [
+        "AI/TDM reservation",
+        "MVG-AI-TDM-2.4.0",
+        "no AI training",
+        "ai.txt",
+        "tdmrep",
+        "tdm-reservation",
+        "model training reservation",
+        "text and data mining reservation",
+        "machine-readable rights notice",
+        "crawler authorization",
+        "RAG corpus prohibited",
+        "semantic indexing prohibited"
+      ]
+    },
+    {
+      "title": "Security & Responsible Disclosure Policy v2.3.0",
+      "url": "/legal/security-disclosure/",
+      "section": "Legal Surface",
+      "kind": "Current controlling security disclosure publication",
+      "weight": 910,
+      "aliases": [
+        "security disclosure",
+        "responsible disclosure",
+        "MVG-SECURITY-DISCLOSURE-2.3.0",
+        "vulnerability disclosure",
+        "safe harbor",
+        "security.txt",
+        "PGP",
+        "coordinated disclosure",
+        "security@meridianverity.com"
+      ],
+      "keywords": [
+        "security",
+        "responsible disclosure",
+        "vulnerability disclosure",
+        "safe harbor",
+        "security.txt",
+        "PGP",
+        "security@meridianverity.com",
+        "coordinated disclosure",
+        "no bounty",
+        "written scope"
+      ],
+      "summary": "Public-safe vulnerability intake, coordinated disclosure, safe-harbor conditions, security.txt, PGP route, no-bounty boundary, and written-scope testing controls.",
+      "description": "PDF controls; HTML is a convenience copy unless incorporated by written agreement. security.txt routes contact; written scope controls private testing depth.",
+      "href": "/legal/security-disclosure/",
+      "body": "MVG-SECURITY-DISCLOSURE-2.3.0 Security & Responsible Disclosure Policy. Report vulnerabilities to security@meridianverity.com. Use security.txt and PGP for sensitive reports. Good-faith, non-disruptive, in-scope testing only. No DoS, exfiltration, social engineering, third-party testing, or customer systems without written scope.",
+      "tags": [
+        "security",
+        "responsible disclosure",
+        "vulnerability disclosure",
+        "safe harbor",
+        "security.txt",
+        "PGP",
+        "written scope"
+      ],
+      "surface": "legal",
+      "version": "v247-legal-security-disclosure-apex"
+    },
+    {
+      "title": "Security & Responsible Disclosure Policy v2.3.0 PDF",
+      "url": "/legal/security-disclosure/MVG_Security_and_Responsible_Disclosure_Policy_v2.3.0.pdf",
+      "section": "Legal Surface",
+      "kind": "Controlling PDF publication",
+      "weight": 890,
+      "summary": "Controlling PDF publication for MVG-SECURITY-DISCLOSURE-2.3.0.",
+      "description": "SHA256: f18057d7394e6b0bab7eee9f1cd2fe2ebc2b415be993067de564453f0fc38650",
+      "aliases": [
+        "MVG-SECURITY-DISCLOSURE-2.3.0 PDF",
+        "controlling security disclosure PDF",
+        "security disclosure PDF"
+      ]
+    },
+    {
+      "title": "MVG-RETENTION-2.3.0 controlling PDF",
+      "url": "/legal/retention/MVG_Data_Retention_Deletion_and_Evidence_Artifact_Minimization_Policy_v2.3.0.pdf",
+      "section": "Legal",
+      "kind": "PDF",
+      "weight": 40,
+      "summary": "Controlling PDF for Data Retention, Deletion, and Evidence Artifact Minimization Policy v2.3.0.",
+      "aliases": [
+        "MVG-RETENTION-2.3.0 PDF",
+        "retention policy PDF",
+        "deletion policy PDF"
+      ]
+    },
+    {
+      "title": "Subprocessor Disclosure and Vendor Control Statement",
+      "url": "/legal/subprocessors/",
+      "section": "Legal",
+      "kind": "Legal Publication",
+      "weight": 750,
+      "summary": "MVG-SUBPROCESSORS-2.4.0. Public subprocessor transparency, vendor-control posture, Customer Agreement precedence, service-specific Subprocessor Schedule routing, and restricted downstream-use controls.",
+      "aliases": [
+        "subprocessors",
+        "subprocessor schedule",
+        "vendor control",
+        "DPA subprocessor schedule",
+        "MVG-SUBPROCESSORS-2.4.0",
+        "subprocessor disclosure"
+      ]
+    },
+    {
+      "title": "Privacy Policy and Data Protection Notice v3.0.0 PDF",
+      "url": "/legal/privacy/MVG_Privacy_Policy_and_Data_Protection_Notice_v3.0.0.pdf",
+      "section": "Legal",
+      "kind": "Controlling PDF",
+      "weight": 60,
+      "aliases": [
+        "MVG-PRIVACY-3.0.0 PDF",
+        "privacy controlling PDF",
+        "data protection notice PDF"
+      ],
+      "keywords": [
+        "privacy",
+        "PDF controls",
+        "SHA256",
+        "MVG-PRIVACY-3.0.0"
+      ],
+      "summary": "Controlling PDF for MVG-PRIVACY-3.0.0. HTML is a convenience copy unless incorporated by written agreement.",
+      "description": "Controlling PDF for MVG-PRIVACY-3.0.0."
+    },
+    {
+      "title": "Witness-ready One Protected Payment Action Challenge",
+      "url": "/agentic-commerce-acceptance/one-protected-payment-action-challenge/#witness-ready-route",
+      "description": "A witness-ready route for one non-confidential protected payment-adjacent action. A qualified independent witness may observe scope, inputs, replay outputs, and no-claim posture under written scope.",
+      "tags": [
+        "witness-ready challenge",
+        "payment action challenge",
+        "agentic commerce",
+        "acceptance before impact",
+        "written scope",
+        "independent observation"
+      ]
+    }
+  ]
+}

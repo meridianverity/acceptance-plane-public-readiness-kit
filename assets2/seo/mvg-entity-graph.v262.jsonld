@@ -1,0 +1,321 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://meridianverity.com/#organization",
+      "name": "Meridian Verity Group",
+      "alternateName": [
+        "Meridian Verity",
+        "MVG"
+      ],
+      "legalName": "Meridian Verity Group LLC",
+      "url": "https://meridianverity.com/",
+      "logo": "https://meridianverity.com/assets/logo.svg",
+      "description": "Meridian Verity Group builds proof-before-impact trust infrastructure for consequential AI actions.",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "legal, procurement, privacy, licensing, and data protection",
+          "email": "legal@meridianverity.com"
+        },
+        {
+          "@type": "ContactPoint",
+          "contactType": "security",
+          "email": "security@meridianverity.com"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://meridianverity.com/#website",
+      "url": "https://meridianverity.com/",
+      "name": "Meridian Verity",
+      "alternateName": [
+        "Meridian Verity Group",
+        "Proof Before Impact"
+      ],
+      "publisher": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://meridianverity.com/search/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://meridianverity.com/#acceptance-terms",
+      "name": "Meridian Verity acceptance vocabulary",
+      "hasDefinedTerm": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Proof before impact",
+          "url": "https://meridianverity.com/",
+          "description": "Evidence before consequential AI action."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Protected Action",
+          "url": "https://meridianverity.com/protected-actions/",
+          "description": "A proposed AI or automated-system operation that can create external effect and therefore needs acceptance before impact."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Protected-Action Review",
+          "url": "https://meridianverity.com/review/protected-action/",
+          "description": "A public-safe review route for one consequential AI action boundary."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Acceptance Plane",
+          "url": "https://meridianverity.com/acceptance-plane/",
+          "description": "Review boundary before consequential AI actions create impact."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Agentic Commerce Acceptance",
+          "url": "https://meridianverity.com/agentic-commerce-acceptance/",
+          "description": "Acceptance before payment impact for agentic commerce actions."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "AI Acceptance Evidence Crosswalks",
+          "url": "https://meridianverity.com/ai-acceptance-crosswalks/",
+          "description": "Public-source evidence maps for NIST, ISO, OWASP, and MITRE through the protected-action acceptance lens."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "PASS / HOLD / FAIL",
+          "url": "https://meridianverity.com/run-the-verifier/",
+          "description": "Verifier replay states for evidence routes."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "ACCEPT / HOLD / REFUSE",
+          "url": "https://meridianverity.com/review/protected-action/",
+          "description": "Action review states before impact."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Enterprise Commercial Framework",
+          "url": "https://meridianverity.com/legal/commercial-framework/"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Evaluation Access and Clean-Room Agreement",
+          "url": "https://meridianverity.com/legal/evaluation-access/"
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "One Protected Payment Action Challenge",
+          "url": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+          "description": "A public-safe challenge route for one non-confidential protected payment-adjacent action before impact."
+        },
+        {
+          "@type": "DefinedTerm",
+          "name": "Protected payment-adjacent action",
+          "url": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+          "description": "A checkout, payment, refund, dispute, settlement, merchant-operation, or related action that needs acceptance evidence before becoming real."
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://meridianverity.com/review/protected-action/#service",
+      "name": "Protected-Action Review",
+      "provider": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "serviceType": "AI action boundary review",
+      "areaServed": "Global",
+      "url": "https://meridianverity.com/review/protected-action/",
+      "audience": [
+        {
+          "@type": "Audience",
+          "audienceType": "enterprise security, procurement, counsel, licensing, and partner reviewers"
+        }
+      ],
+      "description": "Bring one protected action. Meridian Verity maps the public-safe evidence route before private technical depth."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://meridianverity.com/licensing/#service",
+      "name": "Meridian Verity licensing route",
+      "provider": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "serviceType": "Proof-before-impact licensing review",
+      "url": "https://meridianverity.com/licensing/",
+      "description": "Licensing routes for acceptance-plane, protected-action, and agentic commerce review surfaces."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://meridianverity.com/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf#document",
+      "name": "Enterprise Commercial and Licensing Framework Statement",
+      "identifier": "MVG-COMMERCIAL-FRAMEWORK-1.0.0",
+      "version": "1.0.0",
+      "datePublished": "2026-06-29",
+      "url": "https://meridianverity.com/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf",
+      "encodingFormat": "application/pdf",
+      "publisher": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "description": "Public transaction-routing framework for enterprise customer agreements and strategic licensing. Public / non-binding framework / request-routing surface."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://meridianverity.com/legal/evaluation-access/MVG_Evaluation_Access_Clean_Room_Diligence_and_Non_Public_Materials_Agreement_v1.2.0.pdf#document",
+      "name": "Mutual Confidentiality, Evaluation Access, Clean-Room Diligence, and Non-Public Materials Agreement",
+      "identifier": "MVG-EVALUATION-ACCESS-1.2.0",
+      "version": "1.2.0",
+      "datePublished": "2026-06-29",
+      "url": "https://meridianverity.com/legal/evaluation-access/MVG_Evaluation_Access_Clean_Room_Diligence_and_Non_Public_Materials_Agreement_v1.2.0.pdf",
+      "encodingFormat": "application/pdf",
+      "sha256": "d8d809bf1afc3902076c52731de81f5c53ebc172676831ff0a4c4834da28bc79",
+      "publisher": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "about": [
+        "Evaluation access",
+        "Clean-room diligence",
+        "Evidence room access",
+        "Non-Public Materials",
+        "No AI/TDM"
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://meridianverity.com/legal/terms/MVG_Terms_of_Use_and_Public_Materials_Access_Terms_v3.0.0.pdf#document",
+      "name": "Terms of Use and Public Materials Access Terms",
+      "identifier": "MVG-TERMS-3.0.0",
+      "version": "3.0.0",
+      "datePublished": "2026-06-29",
+      "url": "https://meridianverity.com/legal/terms/MVG_Terms_of_Use_and_Public_Materials_Access_Terms_v3.0.0.pdf",
+      "encodingFormat": "application/pdf",
+      "sha256": "5cd0647607d0f0d9c033b41a4d07065624e281375b5d815f80d7e61a041478a4",
+      "publisher": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "description": "Public website, public proof, legal publications, evidence-room, clean-room, commercial-framework, AI/TDM, procurement, security-review, licensing, and written-scope access terms."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://meridianverity.com/legal/privacy/#mvg-privacy-3.0.0",
+      "name": "Privacy Policy and Data Protection Notice",
+      "identifier": "MVG-PRIVACY-3.0.0",
+      "version": "3.0.0",
+      "datePublished": "2026-06-29",
+      "url": "https://meridianverity.com/legal/privacy/",
+      "encoding": {
+        "@type": "MediaObject",
+        "contentUrl": "https://meridianverity.com/legal/privacy/MVG_Privacy_Policy_and_Data_Protection_Notice_v3.0.0.pdf",
+        "encodingFormat": "application/pdf"
+      },
+      "publisher": {
+        "@id": "https://meridianverity.com/#organization"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://meridianverity.com/protected-actions/#term",
+      "name": "Protected Action",
+      "url": "https://meridianverity.com/protected-actions/",
+      "description": "A proposed AI or automated-system operation that can create external effect and therefore needs acceptance before impact.",
+      "inDefinedTermSet": {
+        "@id": "https://meridianverity.com/#acceptance-terms"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://meridianverity.com/protected-actions/#webpage",
+      "url": "https://meridianverity.com/protected-actions/",
+      "name": "Protected Actions",
+      "description": "A protected action is where an AI or automated system may create external effect. Meridian Verity maps ACCEPT, HOLD, or REFUSE before impact.",
+      "isPartOf": {
+        "@id": "https://meridianverity.com/#website"
+      },
+      "about": {
+        "@id": "https://meridianverity.com/protected-actions/#term"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://meridianverity.com/protected-actions/MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf#digitaldocument",
+      "name": "Protected Actions Category Definition and Acceptance Boundary Statement",
+      "identifier": "MVG-PROTECTED-ACTIONS-1.0.0",
+      "version": "1.0.0",
+      "datePublished": "2026-06-29",
+      "url": "https://meridianverity.com/protected-actions/MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf",
+      "encodingFormat": "application/pdf",
+      "sha256": "2c60b554e0bdc555e0b5996039f4c886928d01402d3537cf616ece308541da18",
+      "publisher": {
+        "@id": "https://meridianverity.com/#organization"
+      },
+      "about": {
+        "@id": "https://meridianverity.com/protected-actions/#defined-term"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/#webpage",
+      "url": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+      "name": "One Protected Payment Action Challenge",
+      "description": "Public-safe agentic commerce challenge route for one non-confidential protected payment-adjacent action before impact.",
+      "isPartOf": {
+        "@id": "https://meridianverity.com/#website"
+      },
+      "about": {
+        "@id": "https://meridianverity.com/#one-protected-payment-action-challenge"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://meridianverity.com/#one-protected-payment-action-challenge",
+      "name": "One Protected Payment Action Challenge",
+      "description": "A public-safe challenge route for mapping one non-confidential payment-adjacent protected action to ACCEPT/HOLD/REFUSE before impact.",
+      "url": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+      "inDefinedTermSet": {
+        "@id": "https://meridianverity.com/#acceptance-terms"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/#witness-ready-route",
+      "name": "Witness-ready One Protected Payment Action Challenge",
+      "description": "A written-scope route for potential independent observation of one non-confidential protected payment-adjacent action; no witnessed result, validation, endorsement, certification, claim chart, or license is claimed by publication.",
+      "url": "https://meridianverity.com/agentic-commerce-acceptance/one-protected-payment-action-challenge/#witness-ready-route"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://meridianverity.com/research/#webpage",
+      "url": "https://meridianverity.com/research/",
+      "name": "Research for Proof Before Impact",
+      "description": "Public research, verifier routes, patent records, open evaluation repositories, and evidence maps for protected-action review before AI impact.",
+      "isPartOf": {
+        "@id": "https://meridianverity.com/#website"
+      },
+      "about": [
+        {
+          "@id": "https://meridianverity.com/#protected-action"
+        },
+        {
+          "@id": "https://meridianverity.com/#acceptance-plane"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "https://github.com/meridianverity/permit-receipt"
+        },
+        {
+          "@id": "https://github.com/meridianverity/acceptance-plane"
+        },
+        {
+          "@id": "https://github.com/meridianverity/acceptance-plane-public-readiness-kit"
+        }
+      ]
+    }
+  ]
+}

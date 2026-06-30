@@ -1,0 +1,1142 @@
+
+# V277 homepage buyer-route definition link live-sync force
+/
+  Cache-Control: public, max-age=120, must-revalidate
+/index.html
+  Cache-Control: public, max-age=120, must-revalidate
+/assets2/ui/v277-home-buyer-route-protected-action-definition-live-force.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+/legal/privacy/MVG_Privacy_Policy_and_Data_Protection_Notice_v3.0.0.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+/legal/privacy/MVG_Privacy_Policy_and_Data_Protection_Notice_v3.0.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/privacy/publication.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/privacy/privacy-publication.v3.0.0.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/privacy/privacy_rights_request_profile.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/privacy/legal_manifest_entry_privacy_v3.0.0.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/privacy/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register.v350.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+/sitemap-core.xml
+  Content-Type: application/xml; charset=utf-8
+/sitemap-partner.xml
+  Content-Type: application/xml; charset=utf-8
+/sitemap-legal.xml
+  Content-Type: application/xml; charset=utf-8
+/sitemap-trust.xml
+  Content-Type: application/xml; charset=utf-8
+
+# V262 search discovery + TDM machine-route content types
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/ai.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/.well-known/tdmrep.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/.well-known/tdm-reservation.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/well-known/tdmrep.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/well-known/tdm-reservation.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/ai-tdm-reservation/tdm-policy.jsonld
+  Content-Type: application/ld+json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/ai-tdm-reservation/publication.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/._*
+  X-Robots-Tag: noindex, noarchive, nosnippet
+
+# V257 Evidence Pack exact route headers
+/legal/evidence-pack/MVG_Evidence_Pack_Index_Assurance_Evidence_Catalog_and_Evidence_Request_Control_Policy_v2.9.0.pdf
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+  Content-Disposition: inline; filename="MVG_Evidence_Pack_Index_Assurance_Evidence_Catalog_and_Evidence_Request_Control_Policy_v2.9.0.pdf"
+/legal/evidence-pack/MVG_Evidence_Pack_Index_Assurance_Evidence_Catalog_and_Evidence_Request_Control_Policy_v2.9.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evidence-pack/publication.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evidence-pack/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evidence-pack/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/trust/evidence/catalog.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+/trust/evidence/request-profile.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+/trust/evidence/access-notice.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+/trust/evidence/evidence-room-profile.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register-entry.evidence-pack.v290.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register.v290.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# V256 DPA exact route headers
+/legal/dpa/MVG_Global_Data_Processing_Addendum_International_Transfer_Addendum_and_Regulated_Data_Processing_Rider_v2.7.0.pdf
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+  Content-Disposition: inline; filename="MVG_Global_Data_Processing_Addendum_International_Transfer_Addendum_and_Regulated_Data_Processing_Rider_v2.7.0.pdf"
+/legal/dpa/MVG_Global_Data_Processing_Addendum_International_Transfer_Addendum_and_Regulated_Data_Processing_Rider_v2.7.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/dpa/MVG_Global_Data_Processing_Addendum_International_Transfer_Addendum_and_Regulated_Data_Processing_Rider_v2.7.0.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/dpa/publication.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/dpa/dpa-publication.v2.7.0.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/dpa/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/dpa/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/dpa/*.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/dpa/*.csv
+  Content-Type: text/csv; charset=utf-8
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register.v270.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# V255 tamper-evident legal manifest exact route headers
+/legal/tamper-evident-manifest/MVG_Tamper_Evident_Legal_and_Trust_Publication_Manifest_Policy_v2.6.0.pdf
+  Content-Type: application/pdf
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: public, max-age=31536000, immutable
+/legal/tamper-evident-manifest/MVG_Tamper_Evident_Legal_and_Trust_Publication_Manifest_Policy_v2.6.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/tamper-evident-manifest/MVG_Legal_Trust_Publication_Manifest_v2.6.0.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/.well-known/mvg-legal-manifest.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/well-known/mvg-legal-manifest.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/tamper-evident-manifest/publication.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/tamper-evident-manifest/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/tamper-evident-manifest/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/tamper-evident-manifest/verify_mvg_legal_manifest.py
+  Content-Type: text/x-python; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/assets2/data/legal-publication-register.v260.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  X-Robots-Tag: noindex, noarchive, nosnippet
+
+# V253 status final web release headers
+/trust/status.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=60
+  X-Robots-Tag: noindex, noarchive, nosnippet
+  X-MVG-Status-Boundary: not-sla; not-customer-notice; not-breach-notice; not-regulator-notice; not-materiality-determination; customer-agreement-controls
+/trust/status.rss
+  Content-Type: application/rss+xml; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300
+  X-Robots-Tag: noindex, noarchive, nosnippet
+  X-MVG-Status-Boundary: not-sla; not-customer-notice; not-breach-notice; not-regulator-notice; not-materiality-determination; customer-agreement-controls
+/legal/status/MVG_Status_and_Incident_Communication_Policy_v2.5.0.pdf
+  Content-Type: application/pdf
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: public, max-age=31536000, immutable
+/legal/status/MVG_Status_and_Incident_Communication_Policy_v2.5.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/status/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/status/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/status/publication.json
+  Content-Type: application/json; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/status/templates/*.json
+  Content-Type: application/json; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/legal/status/http_headers_status_v2.5.0.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Robots-Tag: noindex, noarchive, nosnippet
+
+# Global security headers
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Permitted-Cross-Domain-Policies: none
+  X-DNS-Prefetch-Control: off
+  Origin-Agent-Cluster: ?1
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), bluetooth=(), publickey-credentials-get=(self), publickey-credentials-create=(self)
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'; frame-ancestors 'none'; img-src 'self' data:; font-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self' blob:; connect-src 'self'; upgrade-insecure-requests
+
+# security.txt must be served as text/plain (RFC 9116)
+/.well-known/security.txt
+  Content-Type: text/plain; charset=utf-8
+/security.txt
+  Content-Type: text/plain; charset=utf-8
+
+# Verify landing page: buyer-facing and indexable
+/verify/
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'; frame-ancestors 'none'; img-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self' blob:; connect-src 'self'
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+# Verify challenge fixtures: reachable, but keep out of search
+/verify/challenge/*
+  X-Robots-Tag: noindex, nofollow
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'; frame-ancestors 'none'; img-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self' blob:; connect-src 'self'
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+
+# PGP public key
+/pgp.asc
+  Content-Type: text/plain; charset=utf-8
+/pgp.fingerprint
+  Content-Type: text/plain; charset=utf-8
+/trust.json
+  Content-Type: application/json; charset=utf-8
+
+# MVG trust descriptor (machine-readable)
+/.well-known/mvg-trust.json
+  Content-Type: application/json; charset=utf-8
+/.well-known/mvg-trust.json.asc
+  Content-Type: text/plain; charset=utf-8
+/.well-known/mvg-trust.dsse.json
+  Content-Type: application/json; charset=utf-8
+
+# Mirror of trust descriptor for hosts that omit dot-directories during upload
+/well-known/mvg-trust.json
+  Content-Type: application/json; charset=utf-8
+/well-known/mvg-trust.dsse.json
+  Content-Type: application/json; charset=utf-8
+
+
+# Site release manifests (pinned pointers)
+# Site integrity helper artifacts
+/assets/site-integrity/hold-remediation-map.v1.json
+  Content-Type: application/json; charset=utf-8
+/assets/site-integrity/attachment-binding.v1.json
+  Content-Type: application/json; charset=utf-8
+
+
+
+
+
+# Offline Diligence Pack Verifier: explicitly forbid network calls
+/verify-diligence/*
+  X-Robots-Tag: noindex, nofollow
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; frame-ancestors 'none'; img-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self'; connect-src 'none'
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+# Offline Trust Pack Verifier: explicitly forbid network calls
+/verify-trust/*
+  X-Robots-Tag: noindex, nofollow
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; frame-ancestors 'none'; img-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self'; connect-src 'none'
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+
+# Offline Assurance Pack Verifier: explicitly forbid network calls
+/verify-assurance/*
+  X-Robots-Tag: noindex, nofollow
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; frame-ancestors 'none'; img-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self'; connect-src 'none'
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+# Verify Air‑gapped Kit: explicitly forbid network calls
+/verify-airgap-kit/*
+  X-Robots-Tag: noindex, nofollow
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; frame-ancestors 'none'; img-src 'self' data:; style-src 'self'; style-src-elem 'self' 'sha256-8D421RgxfWs5yQUVVi+8UzRcB/5d0vYs7KIYtMKlP/o=' 'sha256-DuOlNLYyLuLcMn4agibUHnBDnI9ZL6Gbgcn+1y7cFUM=' 'sha256-HaKBQvrtkyKzVX4/8fq2YiiSrZjN27YRtVuthpWMDMI='; style-src-attr 'none'; script-src 'self' 'sha256-wUVIwiGqsAuS2QhoMOS8hlnZeVTm2tvigWrplGpsY5o='; worker-src 'self'; connect-src 'none'
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+
+
+# Legacy locale stubs: keep out of search even before redirects fully settle
+/en/*
+  X-Robots-Tag: noindex, nofollow
+/kr/*
+  X-Robots-Tag: noindex, nofollow
+/de/*
+  X-Robots-Tag: noindex, nofollow
+/jp/*
+  X-Robots-Tag: noindex, nofollow
+/zh/*
+  X-Robots-Tag: noindex, nofollow
+
+# Archive: allow access but block search indexing
+/archive/*
+  X-Robots-Tag: noindex, nofollow
+
+# Exact legacy locale roots and known leaked paths: allow crawl, block indexing, avoid stale cache
+/en
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/procurement
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/procurement/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/patents
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/patents/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/trust
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/trust/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/legal
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/en/legal/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/jp
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/jp/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/jp/accessibility
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/jp/accessibility/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/de
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/de/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/kr
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/kr/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/zh
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/zh/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/zh/why-now
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+/zh/why-now/
+  X-Robots-Tag: noindex, follow, noarchive
+  Cache-Control: no-store
+
+
+# Pointer JSON: avoid stale "latest" in caches (auditor/procurement automation)
+/.well-known/mvg-trust.json
+  Cache-Control: no-store
+/.well-known/mvg-trust.json.asc
+  Cache-Control: no-store
+/.well-known/mvg-trust.dsse.json
+  Cache-Control: no-store
+
+/.well-known/*.dsse.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+
+/.well-known/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+
+/.well-known/*.sig
+  Content-Type: application/pgp-signature; charset=utf-8
+  Cache-Control: no-store
+/well-known/mvg-trust.json
+  Cache-Control: no-store
+/well-known/mvg-trust.dsse.json
+  Cache-Control: no-store
+
+
+
+
+# Dot well-known ascii-armored signatures (readable; no caching)
+/.well-known/*.json.asc
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+
+# Mirror pointer JSON/signatures: avoid stale caches (hosts that omit dot-directories)
+/well-known/*.dsse.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/well-known/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/well-known/*.sig
+  Content-Type: application/pgp-signature; charset=utf-8
+  Cache-Control: no-store
+/well-known/*.json.asc
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+
+# Versioned static assets: immutable caching (pinned by filename version)
+/assets/*.v*.*
+  Cache-Control: public, max-age=31536000, immutable
+/assets/*/*.v*.*
+  Cache-Control: public, max-age=31536000, immutable
+/assets/*/*/*.v*.*
+  Cache-Control: public, max-age=31536000, immutable
+
+
+
+
+# Security advisories feed (append-only; receipt-linked)
+/security/advisories/*.ndjson
+  Content-Type: application/x-ndjson; charset=utf-8
+  Cache-Control: no-store
+/security/advisories/*.dsse.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/security/advisories/*/*/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/security/advisories/*/*/*.asc
+  Content-Type: application/pgp-signature; charset=utf-8
+  Cache-Control: no-store
+
+
+# Site Release artifacts (mode-split rails)
+/trust/site-release/latest/releases/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust/site-release/demo/releases/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+
+/trust/site-release/latest/releases/*.zip
+  Content-Type: application/zip
+  Cache-Control: no-store
+/trust/site-release/demo/releases/*.zip
+  Content-Type: application/zip
+  Cache-Control: no-store
+
+/trust/site-release/latest/releases/*.asc
+  Content-Type: application/pgp-signature; charset=utf-8
+  Cache-Control: no-store
+/trust/site-release/demo/releases/*.asc
+  Content-Type: application/pgp-signature; charset=utf-8
+  Cache-Control: no-store
+
+/trust/site-release/latest/releases/MVG_SITE_RELEASE_FEED.json
+  Cache-Control: no-store
+/trust/site-release/demo/releases/MVG_SITE_RELEASE_FEED.json
+  Cache-Control: no-store
+
+# Deployments rail artifacts
+/trust/deployments/*/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust/deployments/*/*.asc
+  Content-Type: application/pgp-signature; charset=utf-8
+  Cache-Control: no-store
+
+# Local ops tooling (not part of public API surface; prevent indexing)
+/ops-local/*
+  X-Robots-Tag: noindex, nofollow
+
+# Non-SEO artifact rails (keep reachable, but prevent indexing)
+/downloads2/*
+  X-Robots-Tag: noindex, nofollow
+/downloads3/*
+  X-Robots-Tag: noindex, nofollow
+/downloads4/*
+  X-Robots-Tag: noindex, nofollow
+/transparency/*
+  X-Robots-Tag: noindex, nofollow
+/trust2/*
+  X-Robots-Tag: noindex, nofollow
+/trust3/*
+  X-Robots-Tag: noindex, nofollow
+
+# Tool UIs (avoid SERP noise; use Trust Center / Procurement as entrypoints)
+/search/*
+  X-Robots-Tag: noindex, nofollow
+/trust/dsse-viewer/*
+  X-Robots-Tag: noindex, nofollow
+
+# Local PDFs: keep downloadable, but prefer HTML SERP entrypoints
+/downloads/controls-mapping/controls_mapping_v1.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/controls-mapping/owasp_genai_mvg_map_v1.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/CTC_AAS_Constitution_v1.0_FINAL_PUBLISH_DOI18340955.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/CTC_AAS_Constitution_v1.0_FINAL_PUBLISH_DOI18340955_OFFICIAL_CHANNELS.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/HALTSEAL_Outreach_1pager_Apex_v3_1_0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/HALTSEAL_Outreach_Apex_Deck_v2_0_0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/Kingdom_Conformance_RFC_v1.3.6_Zenodo_STANDARD_APEX_WITH_APPENDIX_E.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/Kingdom_Conformance_RFC_v1.3.6_Zenodo_STANDARD_APEX_WITH_APPENDIX_E_OFFICIAL_CHANNELS.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/MVG_Assurance_Report_PUBLIC_v1.0.0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/MVG_Attack_Surface_Map_APEX_v2.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/downloads/docs/Trust_MeridianVerityGroup.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/cookies/MVG_Cookie_Policy_v1.0.3.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/dpa/MVG_DPA_v1.0.3.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/evidence-pack/MVG_Evidence_Pack_Index_v1.0.2.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/privacy/MVG_Privacy_Policy_v1.0.3.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/privacy/MVG_Privacy_Policy_v1.0.4.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/retention/MVG_Data_Retention_and_Deletion_Policy_v1.0.2.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/retention/MVG_Data_Retention_Deletion_and_Evidence_Artifact_Minimization_Policy_v2.3.0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/security-disclosure/MVG_Security_and_Responsible_Disclosure_Policy_v1.0.2.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/security-disclosure/MVG_Security_and_Responsible_Disclosure_Policy_v1.0.3.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/status/MVG_Status_Page_and_Incident_Communication_v1.0.2.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/subprocessors/MVG_Subprocessor_Disclosure_Statement_v1.0.2.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/tamper-evident-manifest/MVG_Tamper_Evident_Legal_and_Trust_Document_Manifest_Spec_v1.0.1.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/terms/MVG_Terms_of_Use_v1.0.3.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/legal/terms/MVG_Terms_of_Use_v2.1.1.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/standards/alp-l1/v1.0.0/KCS-ALP-L1_Whitepaper_v1.0.0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/standards/kcs/v1.0.0/Kingdom_Conformance_Standard_KCS_v1.0.0_PUBLIC_SAFE_R3_APEX.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/trust/procurement-ticket-pack/policy/MVG_Procurement_Ticket_Pack_Policy_PublicSafe_v1.0.0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/trust/security-review/packet-boardroom.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/trust/security-review/packet.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+/trust2/procurement-ticket-pack/policy/MVG_Procurement_Ticket_Pack_Policy_PublicSafe_v1.0.0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+
+# Authority parity machine routes: no-store, explicit content types
+/trust-center/feed/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust-center/feed/*.ndjson
+  Content-Type: application/x-ndjson; charset=utf-8
+  Cache-Control: no-store
+/trust-center/quorum/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust-center/corroboration/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust-center/public-witnessed-pass/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust-center/witness-pack/current/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/trust-center/witness-pack/current/*.md
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+/trust-center/witness-pack/current/*.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+/trust-center/witness-pack/current/*.zip
+  Content-Type: application/zip
+  Cache-Control: no-store
+
+# Search-surface hardening: allow crawl, but keep utility/search-cleanup surfaces out of SERP
+/downloads/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+/downloads/docs/*.pdf
+  X-Robots-Tag: noindex, noarchive
+/downloads/controls-mapping/*.pdf
+  X-Robots-Tag: noindex, noarchive
+/legal/*/*.pdf
+  X-Robots-Tag: noindex, noarchive
+/standards/*/*/*.pdf
+  X-Robots-Tag: noindex, noarchive
+/trust/procurement-ticket-pack/policy/*.pdf
+  X-Robots-Tag: noindex, noarchive
+/trust2/procurement-ticket-pack/policy/*.pdf
+  X-Robots-Tag: noindex, noarchive
+/trust/security-review/*.pdf
+  X-Robots-Tag: noindex, noarchive
+
+/approval-receipts/*
+  X-Robots-Tag: noindex, nofollow
+/contact-channels/*
+  X-Robots-Tag: noindex, nofollow
+/diligence-commitments/*
+  X-Robots-Tag: noindex, nofollow
+/procurement/audit/*
+  X-Robots-Tag: noindex, nofollow
+/procurement/exec/*
+  X-Robots-Tag: noindex, nofollow
+/procurement/legal/*
+  X-Robots-Tag: noindex, nofollow
+/procurement/security/*
+  X-Robots-Tag: noindex, nofollow
+
+# v92.0 FINAL SERP sanitation: keep machine and artifact rails crawlable but out of search
+/.well-known/*
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/well-known/*
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/security.txt
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/.well-known/security.txt
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/pgp.asc
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/pgp.fingerprint
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust.json
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/archive/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/trust/status/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/trust/deployments/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/trust/site-release/latest/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/trust/site-release/demo/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/trust/site-release/ready_to_sign/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/trust-center/feed/*.json
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/feed/*.ndjson
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/feed/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/quorum/*.json
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/corroboration/*.json
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/public-witnessed-pass/*.json
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/witness-pack/current/*.json
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/witness-pack/current/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/witness-pack/archive/*/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust-center/state/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/verify/challenge/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/downloads/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/downloads2/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/downloads4/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust/site-release/latest/releases/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust/site-release/demo/releases/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+/trust/site-release/ready_to_sign/releases/*.zip
+  X-Robots-Tag: noindex, noarchive, nosnippet
+
+# Acceptance Plane public research surfaces
+/acceptance-plane/
+  X-Robots-Tag: index, follow
+/scholar/acceptance-plane/
+  X-Robots-Tag: index, follow
+/scholar/acceptance-plane/*.pdf
+  Content-Type: application/pdf
+  X-Robots-Tag: index, follow
+  Cache-Control: public, max-age=3600
+/downloads/acceptance-plane/*.pdf
+  Content-Type: application/pdf
+  X-Robots-Tag: index, follow
+  Cache-Control: public, max-age=3600
+/downloads/acceptance-plane/*.zip
+  Content-Type: application/zip
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600
+
+/downloads/patents/*.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=3600
+
+/licensing/evidence-before-action-archive/
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+/licensing/legacy-trust-rail/
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet
+
+
+# v109 brand SERP hygiene: raw verification artifacts remain crawlable for machines, but should not appear as human search results.
+/.well-known/*.json
+  X-Robots-Tag: noindex, follow, noarchive
+/.well-known/*.dsse.json
+  X-Robots-Tag: noindex, follow, noarchive
+/.well-known/*.json.asc
+  X-Robots-Tag: noindex, follow, noarchive
+/.well-known/*.sig
+  X-Robots-Tag: noindex, follow, noarchive
+/well-known/*.json
+  X-Robots-Tag: noindex, follow, noarchive
+/well-known/*.dsse.json
+  X-Robots-Tag: noindex, follow, noarchive
+/well-known/*.json.asc
+  X-Robots-Tag: noindex, follow, noarchive
+/well-known/*.sig
+  X-Robots-Tag: noindex, follow, noarchive
+/trust/dsse-viewer/*
+  X-Robots-Tag: noindex, follow, noarchive
+/press/ops/*
+  X-Robots-Tag: noindex, follow, noarchive
+
+# AI/TDM reservation machine-readable routes
+/ai.txt
+  Content-Type: text/plain; charset=utf-8
+/.well-known/tdmrep.json
+  Content-Type: application/json; charset=utf-8
+  X-Robots-Tag: noindex, follow, noarchive
+/.well-known/tdm-reservation.json
+  Content-Type: application/json; charset=utf-8
+  X-Robots-Tag: noindex, follow, noarchive
+
+
+/legal/cookies/MVG_Cookie_and_Tracking_Technologies_Policy_v2.2.1.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+  Content-Disposition: inline; filename="MVG_Cookie_and_Tracking_Technologies_Policy_v2.2.1.pdf"
+/legal/cookies/MVG_Cookie_and_Tracking_Technologies_Policy_v2.2.1.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/cookies/cookies-publication.v2.2.1.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+
+/legal/security-disclosure/MVG_Security_and_Responsible_Disclosure_Policy_v2.3.0.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+
+/legal/privacy/MVG_Privacy_Policy_v2.1.1.pdf
+  X-Robots-Tag: noindex, follow, noarchive
+
+/legal/subprocessors/MVG_Subprocessor_Disclosure_and_Vendor_Control_Statement_v2.4.0.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+  Content-Disposition: inline; filename="MVG_Subprocessor_Disclosure_and_Vendor_Control_Statement_v2.4.0.pdf"
+/legal/subprocessors/MVG_Subprocessor_Disclosure_and_Vendor_Control_Statement_v2.4.0.pdf.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/subprocessors/subprocessors-publication.v2.4.0.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register.v249.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+
+# V250 AI/TDM rights-reservation routes
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+/ai.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+/.well-known/tdmrep.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/.well-known/tdm-reservation.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/tdmrep.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/tdm-reservation.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/tdm-policy.jsonld
+  Content-Type: application/ld+json; charset=utf-8
+  Cache-Control: no-store
+/legal/ai-tdm-reservation/tdm-policy.jsonld
+  Content-Type: application/ld+json; charset=utf-8
+  Cache-Control: no-store
+/legal/ai-tdm-reservation/publication.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store
+/legal/ai-tdm-reservation/*.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+/legal/ai-tdm-reservation/*.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store
+/legal/ai-tdm-reservation/*
+  tdm-reservation: 1
+  tdm-policy: https://meridianverity.com/legal/ai-tdm-reservation/tdm-policy.jsonld
+  Link: <https://meridianverity.com/legal/ai-tdm-reservation/>; rel="rights-reservation"
+  Link: <https://meridianverity.com/legal/ai-tdm-reservation/tdm-policy.jsonld>; rel="tdm-policy"; type="application/ld+json"
+  X-Robots-Tag: noai, noimageai
+  X-MVG-AI-TDM-Reservation: MVG-AI-TDM-2.4.0; rights-reserved=1; ai-train=no; ai-input=no; embeddings=no; rag=no; semantic-indexing=no; benchmarking=no; competitive-reconstruction=no
+  Content-Signal: search=yes, ai-train=no, ai-input=no
+# V263 SEO / LLM entity graph content-type lock
+/assets2/seo/mvg-entity-graph.v262.jsonld
+  Content-Type: application/ld+json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/assets2/seo/*.jsonld
+  Content-Type: application/ld+json; charset=utf-8
+  X-Content-Type-Options: nosniff
+
+# V266 Enterprise Commercial Framework exact route headers
+/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+  Content-Disposition: inline; filename="MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf"
+  X-MVG-Commercial-Boundary: not-offer; not-license; not-order-form; not-customer-agreement; written-scope-controls
+/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/publication.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/commercial-framework-publication.v1.0.0.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register.v320.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register-entry.commercial-framework.v100.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+
+# V266 Enterprise Commercial Framework publication routes
+/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
+/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/MVG_Enterprise_Commercial_and_Licensing_Framework_Statement_v1.0.0.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/publication.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/http_headers_commercial_framework_v1.0.0.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/commercial-framework/*
+  X-MVG-Commercial-Boundary: not-offer; not-license; not-order-form; not-customer-agreement; written-scope-controls
+/assets2/data/legal-publication-register.v320.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register-entry.commercial-framework.v100.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+
+
+# V267 Evaluation Access and Clean-Room Agreement publication routes
+/legal/evaluation-access/MVG_Evaluation_Access_Clean_Room_Diligence_and_Non_Public_Materials_Agreement_v1.2.0.pdf
+  Content-Type: application/pdf
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+  Content-Disposition: inline; filename="MVG_Evaluation_Access_Clean_Room_Diligence_and_Non_Public_Materials_Agreement_v1.2.0.pdf"
+  X-MVG-Evaluation-Access-Boundary: public-template; not-license; not-offer; customer-executable-only-when-accepted-or-scoped
+/legal/evaluation-access/MVG_Evaluation_Access_Clean_Room_Diligence_and_Non_Public_Materials_Agreement_v1.2.0.pdf.sha256.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/MVG_Evaluation_Access_Clean_Room_Diligence_and_Non_Public_Materials_Agreement_v1.2.0.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/publication.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/SHA256SUMS.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/SHA256SUMS.txt.sha256
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/http_headers_evaluation_access_v1.2.0.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+/legal/evaluation-access/*
+  X-MVG-Evaluation-Access-Boundary: public-template; not-license; not-offer; customer-executable-only-when-accepted-or-scoped
+/assets2/data/legal-publication-register.v330.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+/assets2/data/legal-publication-register-entry.evaluation-access.v120.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+  X-Content-Type-Options: nosniff
+
+# V268 Terms v3.0.0 publication
+/legal/terms/
+  Content-Type: text/html; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+  X-MVG-Legal-Boundary: public-terms; not-license; not-offer; customer-agreement-controls
+/legal/terms/MVG_Terms_of_Use_and_Public_Materials_Access_Terms_v3.0.0.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
+/legal/terms/publication.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+/legal/terms/terms-publication.v3.0.0.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+/legal/terms/archive/v2.1.1/
+  X-Robots-Tag: noindex, follow, noarchive
+
+# V272 Protected Actions category definition publication routes
+/protected-actions/
+  Content-Type: text/html; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+  X-MVG-Protected-Actions-Boundary: public-category-definition; not-license; written-scope-controls-private-depth
+/protected-actions/MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf
+  Content-Type: application/pdf
+  Content-Disposition: inline; filename="MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf"
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
+/protected-actions/*.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+/protected-actions/*.txt
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
+/protected-actions/*.sha256
+  Content-Type: text/plain; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=31536000, immutable
+
+# V273 Protected Actions live-sync force headers
+/protected-actions/
+  X-MVG-Release: V273_PROTECTED_ACTIONS_LIVE_SYNC_FORCE
+  X-MVG-Protected-Actions-Boundary: public-category-definition; not-license; written-scope-controls-private-depth
+  Cache-Control: public, max-age=300, must-revalidate
+/protected-actions/MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf
+  Content-Type: application/pdf
+  Content-Disposition: inline; filename="MVG_Protected_Actions_Category_Definition_and_Acceptance_Boundary_Statement_v1.0.0.pdf"
+  Cache-Control: public, max-age=31536000, immutable
+/protected-actions/*.json
+  Content-Type: application/json; charset=utf-8
+/assets2/ui/v273-protected-actions-masterpiece-live-sync.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+/assets2/ui/v273-protected-actions-frontier-live-sync.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+
+# V278 One Protected Payment Action Challenge headers
+/agentic-commerce-acceptance/one-protected-payment-action-challenge/
+  Content-Type: text/html; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+  X-MVG-Challenge-Route: one-protected-payment-action; public-safe; not-license-demand
+/assets2/ui/v278-one-protected-payment-action-challenge-apex.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+/assets2/ui/v278-one-protected-payment-action-challenge-apex.js
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+/assets2/data/one-protected-payment-action-negative-vectors.v1.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+/assets2/data/one-protected-payment-action-evidence-consumers.v1.json
+  Content-Type: application/json; charset=utf-8
+  X-Content-Type-Options: nosniff
+  Cache-Control: public, max-age=300, must-revalidate
+
+/assets2/ui/v279-witness-ready-payment-action-challenge.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets2/data/one-protected-payment-action-witness-ready-route.v1.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/assets2/data/one-protected-payment-action-witness-checklist.v1.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+
+/assets2/data/one-protected-payment-action-observer-sheet.v1.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+# V280 Witness-ready payment-action challenge live sync force
+/agentic-commerce-acceptance/one-protected-payment-action-challenge/
+  Cache-Control: public, max-age=60, must-revalidate
+  X-MVG-Release: V280_WITNESS_READY_LIVE_FORCE
+
+/agentic-commerce-acceptance/one-protected-payment-action-challenge/index.html
+  Cache-Control: public, max-age=60, must-revalidate
+  X-MVG-Release: V280_WITNESS_READY_LIVE_FORCE
+
+/assets2/ui/v279-witness-ready-payment-action-challenge.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets2/ui/v280-witness-ready-payment-action-live-force.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets2/data/one-protected-payment-action-witness-ready-route.v1.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+
+/assets2/data/one-protected-payment-action-witness-checklist.v1.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+
+/assets2/data/one-protected-payment-action-observer-sheet.v1.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+
+# V282 research apex public proof surface
+
+/assets2/ui/v282-research-apex-public-proof-surface.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=31536000, immutable
+/assets2/data/research-public-proof-surface.v282.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate

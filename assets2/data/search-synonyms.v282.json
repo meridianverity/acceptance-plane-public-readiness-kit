@@ -1,0 +1,1266 @@
+{
+  "20 minute review": [
+    "protected-action review",
+    "public-safe first email",
+    "contact"
+  ],
+  "20-minute review": [
+    "protected-action review",
+    "public-safe first email",
+    "bring one action boundary"
+  ],
+  "90-day replay layer": [
+    "clinical AI acceptance controls"
+  ],
+  "AI Acceptance Evidence Crosswalks": [
+    "NIST ISO OWASP MITRE",
+    "acceptance evidence before impact",
+    "public-source evidence maps"
+  ],
+  "AI action boundary": [
+    "protected-action review",
+    "NOVACOV",
+    "ORPRG",
+    "ACE",
+    "RVAL",
+    "TRC",
+    "TSIL",
+    "Safety Receipts",
+    "VIC-WM"
+  ],
+  "AI generated content labeling": [
+    "VIC-WM"
+  ],
+  "AI prescription renewal": [
+    "clinical AI acceptance controls"
+  ],
+  "AI/TDM reservation": [
+    "MVG-AI-TDM-2.4.0",
+    "machine-readable rights notice",
+    "ai.txt",
+    "tdmrep.json",
+    "tdm-reservation.json",
+    "TDM policy JSON-LD",
+    "no AI training by publication",
+    "written scope for AI/TDM"
+  ],
+  "BAPR": [
+    "safety receipts"
+  ],
+  "Behavioral Hash Validator": [
+    "NOVACOV",
+    "BHV"
+  ],
+  "C2PA": [
+    "VIC-WM"
+  ],
+  "Clean-Room Diligence": [
+    "evaluation access",
+    "claim-level review",
+    "clean-team protocol",
+    "no AI/TDM"
+  ],
+  "Commercial Framework": [
+    "Enterprise Commercial and Licensing Framework Statement",
+    "licensing route",
+    "non-binding framework",
+    "not an offer",
+    "not a quote",
+    "not a customer agreement"
+  ],
+  "Customer Content model training": [
+    "privacy policy",
+    "DPA"
+  ],
+  "DPA": [
+    "/legal/dpa/",
+    "Global Data Processing Addendum v2.7.0",
+    "MVG-DPA-2.7.0"
+  ],
+  "DPU security": [
+    "ACE"
+  ],
+  "EHR write-back": [
+    "clinical AI acceptance controls",
+    "Safety Receipts"
+  ],
+  "Encrypted Logic Vault": [
+    "NOVACOV",
+    "ELV"
+  ],
+  "Enterprise Commercial Framework": [
+    "MVG-COMMERCIAL-FRAMEWORK-1.0.0",
+    "commercial framework",
+    "licensing framework",
+    "customer agreement routing",
+    "written scope controls private depth",
+    "no license by publication"
+  ],
+  "Enterprise Commercial and Licensing Framework": [
+    "MVG-COMMERCIAL-FRAMEWORK-1.0.0",
+    "commercial framework",
+    "strategic licensing route",
+    "customer agreement routing",
+    "written scope controls private depth",
+    "no license by publication"
+  ],
+  "Enterprise Security Addendum": [
+    "MVG-SECURITY-ADDENDUM-3.1.0",
+    "technical and organizational measures",
+    "TOMs",
+    "customer security schedule",
+    "security addendum"
+  ],
+  "Evaluation Access": [
+    "clean-room diligence",
+    "evidence-room access",
+    "Non-Public Materials",
+    "public template",
+    "written scope"
+  ],
+  "Evaluation Access Agreement": [
+    "MVG-EVALUATION-ACCESS-1.2.0",
+    "clean-room diligence",
+    "evidence room",
+    "Non-Public Materials"
+  ],
+  "Evidence Room Access Notice": [
+    "evaluation access",
+    "access notice",
+    "recipient schedule",
+    "watermarking",
+    "click acceptance"
+  ],
+  "GPC": [
+    "Global Privacy Control",
+    "universal opt-out signal",
+    "cookie policy"
+  ],
+  "HOLD ESCALATE": [
+    "clinical AI acceptance controls"
+  ],
+  "HOLD until signed and bound": [
+    "unsigned required proof",
+    "public-route byte recheck",
+    "DSSE signature required"
+  ],
+  "HTI": [
+    "safety receipts"
+  ],
+  "ISO IEC 42001 evidence map": [
+    "AI management system",
+    "ISO 42001",
+    "management system evidence"
+  ],
+  "Immutable Arbitration Ledger": [
+    "NOVACOV",
+    "IAL"
+  ],
+  "Immutable Constraint Chain": [
+    "NOVACOV",
+    "ICC"
+  ],
+  "MITRE ATLAS evidence map": [
+    "adversary tactics",
+    "AI-enabled systems",
+    "threat-informed AI security"
+  ],
+  "MVG-AI-TDM-2.4.0": [
+    "AI/TDM Reservation Policy and Machine-Readable Rights Notice",
+    "text and data mining reservation",
+    "crawler-control notice"
+  ],
+  "MVG-DOC-MANIFEST-2.6.0": [
+    "Tamper-Evident Legal and Trust Publication Manifest",
+    "legal manifest",
+    "publication integrity"
+  ],
+  "MVG-DPA-2.7.0": [
+    "/legal/dpa/",
+    "Global Data Processing Addendum v2.7.0"
+  ],
+  "MVG-EVALUATION-ACCESS-1.2.0": [
+    "Evaluation Access and Clean-Room Agreement",
+    "Mutual Confidentiality",
+    "Non-Public Materials Agreement"
+  ],
+  "MVG-PRIVACY-3.0.0": [
+    "Privacy Policy and Data Protection Notice v3.0.0",
+    "current privacy publication",
+    "legal privacy"
+  ],
+  "MVG-RETENTION-2.3.0": [
+    "retention policy",
+    "data retention deletion evidence artifact minimization"
+  ],
+  "MVG-SECURITY-ADDENDUM-3.1.0": [
+    "security addendum",
+    "enterprise security addendum",
+    "TOMs",
+    "customer-executable when incorporated or signed"
+  ],
+  "MVG-STATUS-2.5.0": [
+    "Status and Incident Communication Policy",
+    "/legal/status/",
+    "/trust/status.json",
+    "/trust/status.rss"
+  ],
+  "MVG-SUBPROCESSORS-2.4.0": [
+    "Subprocessor Disclosure and Vendor Control Statement",
+    "legal/subprocessors"
+  ],
+  "MVG-TERMS-3.0.0": [
+    "Terms of Use and Public Materials Access Terms",
+    "public proof boundary",
+    "evidence-room access terms",
+    "clean-room access terms"
+  ],
+  "MVG-TRUST-EVIDENCE-INDEX-2.9.0": [
+    "Evidence Pack Index",
+    "Assurance Evidence Catalog",
+    "Evidence Room",
+    "Evidence Request Control Policy"
+  ],
+  "Mission Identity Template": [
+    "NOVACOV",
+    "MIT"
+  ],
+  "NIST AI RMF evidence map": [
+    "Govern Map Measure Manage",
+    "AI RMF GenAI Profile",
+    "NIST acceptance evidence"
+  ],
+  "NOVACOV": [
+    "Runtime Activation Control",
+    "Proof before activation",
+    "verify-to-activation",
+    "patents novacov"
+  ],
+  "Non-Public Materials Agreement": [
+    "evaluation access agreement",
+    "clean-room diligence",
+    "NDA gated materials",
+    "no redistribution"
+  ],
+  "ORPRG": [
+    "permit receipts",
+    "patents"
+  ],
+  "OS HAL sensor gate": [
+    "TSIL",
+    "input-boundary review"
+  ],
+  "OWASP GenAI Agentic evidence map": [
+    "LLM Top 10",
+    "Agentic Applications 2026",
+    "prompt injection",
+    "excessive agency"
+  ],
+  "PGP": [
+    "security disclosure",
+    "security.txt",
+    "OpenPGP fingerprint"
+  ],
+  "Proof before activation": [
+    "NOVACOV",
+    "Runtime Activation Control",
+    "proof before autonomous logic"
+  ],
+  "Purpose Enforcement Kernel": [
+    "NOVACOV",
+    "PEK"
+  ],
+  "R2": [
+    "Reality Receipt",
+    "TRC"
+  ],
+  "RVAL": [
+    "/patents/rval/",
+    "Replay-Verifiable Acceptance",
+    "conformance receipts",
+    "deterministic validators",
+    "certificate registries"
+  ],
+  "Reality Receipt": [
+    "R2",
+    "TRC",
+    "view receipt"
+  ],
+  "Replay-Verifiable Acceptance": [
+    "/patents/rval/",
+    "RVAL",
+    "proof before acceptance",
+    "verifier of verifiers"
+  ],
+  "Runtime Activation Control": [
+    "NOVACOV",
+    "Proof before activation",
+    "verify-to-activation"
+  ],
+  "S2": [
+    "Sensor Receipt",
+    "TSIL"
+  ],
+  "Security Addendum": [
+    "Enterprise Security Addendum",
+    "TOMs",
+    "customer-executable when incorporated or signed",
+    "legal/security-addendum"
+  ],
+  "Sovereign Logic Gate": [
+    "NOVACOV",
+    "Runtime Activation Control",
+    "Logic-Execution Gate"
+  ],
+  "TOMs": [
+    "technical and organizational measures",
+    "Enterprise Security Addendum",
+    "security controls"
+  ],
+  "TRC": [
+    "Trusted Reality Compositor",
+    "Reality Compositor Rail",
+    "Reality Receipts",
+    "proof before pixels"
+  ],
+  "TSIL": [
+    "patents tsil",
+    "sensor receipts"
+  ],
+  "Terms of Use and Public Materials Access Terms": [
+    "MVG-TERMS-3.0.0",
+    "Meridian Verity terms",
+    "public materials access terms",
+    "legal terms"
+  ],
+  "Trusted Reality Compositor": [
+    "TRC",
+    "Reality Receipts",
+    "view-permit latch"
+  ],
+  "_v211_frontdoor": {
+    "label": "Request a 20-minute Protected-Action Review",
+    "summary": "Bring one boundary. Map the proof route. Scope depth later."
+  },
+  "accelerator security": [
+    "ACE"
+  ],
+  "acceptance before payment impact": [
+    "/agentic-commerce-acceptance/",
+    "/licensing/agentic-commerce-acceptance/"
+  ],
+  "acceptance plane licensing": [
+    "/acceptance-plane/",
+    "/licensing/acceptance-plane/"
+  ],
+  "action boundary": [
+    "protected-action review",
+    "acceptance boundary",
+    "execution boundary"
+  ],
+  "activation digest": [
+    "VIC-WM"
+  ],
+  "agent activation gate": [
+    "NOVACOV",
+    "permit-before-action",
+    "Runtime Activation Control"
+  ],
+  "agentic commerce": [
+    "ORPRG",
+    "permit before commit",
+    "proof before payment"
+  ],
+  "agentic commerce acceptance": [
+    "/agentic-commerce-acceptance/",
+    "/licensing/agentic-commerce-acceptance/"
+  ],
+  "agentic commerce review route": [
+    "licensing",
+    "ORPRG"
+  ],
+  "ai acceptance evidence crosswalks": [
+    "/ai-acceptance-crosswalks/",
+    "/assets2/seo/mvg-entity-graph.v262.jsonld"
+  ],
+  "application permission is not input trust": [
+    "TSIL",
+    "sensor receipts"
+  ],
+  "assurance evidence catalog": [
+    "evidence pack index",
+    "evidence request",
+    "request-only evidence",
+    "NDA-gated evidence",
+    "clean-room evidence"
+  ],
+  "bound the agent": [
+    "protected actions",
+    "prove the action",
+    "accept before impact"
+  ],
+  "boundary is the product": [
+    "execution boundary"
+  ],
+  "bring one action boundary": [
+    "protected-action review"
+  ],
+  "bring one protected action": [
+    "/review/protected-action/",
+    "/procurement/protected-action-review/"
+  ],
+  "camera spoof": [
+    "sensor receipts",
+    "TSIL"
+  ],
+  "certificate registry": [
+    "/patents/rval/",
+    "signed heads",
+    "inclusion proofs",
+    "revocation",
+    "freshness"
+  ],
+  "clean-room agreement": [
+    "/legal/evaluation-access/",
+    "claim-level diligence",
+    "recipient controls",
+    "no AI/TDM"
+  ],
+  "clean-room diligence": [
+    "commercial framework",
+    "evidence room",
+    "NDA",
+    "written scope",
+    "non-public materials"
+  ],
+  "clinical AI": [
+    "clinical AI acceptance controls",
+    "safety receipts"
+  ],
+  "clinical AI HOLD": [
+    "clinical AI acceptance controls"
+  ],
+  "clinical AI acceptance controls": [
+    "proof before care actions",
+    "safety evidence packet"
+  ],
+  "commercial framework": [
+    "enterprise commercial and licensing framework",
+    "legal commercial framework",
+    "non-binding framework",
+    "request-routing surface",
+    "licensing framework"
+  ],
+  "commercial framework meridian verity": [
+    "/legal/commercial-framework/",
+    "/legal/terms/",
+    "/legal/dpa/"
+  ],
+  "commercial front door": [
+    "protected-action review",
+    "contact",
+    "review packet"
+  ],
+  "compute execution permit": [
+    "ACE"
+  ],
+  "compute receipt": [
+    "ACE"
+  ],
+  "confidential AI": [
+    "ACE"
+  ],
+  "conformance receipts": [
+    "/patents/rval/",
+    "PASS FAIL HOLD",
+    "reason-code registry",
+    "conformance pack"
+  ],
+  "content credentials": [
+    "VIC-WM"
+  ],
+  "content is not authority": [
+    "instruction promotion gates"
+  ],
+  "content only verification": [
+    "VIC-WM"
+  ],
+  "content-only verification": [
+    "VIC-WM",
+    "Verifiable Inference Credentials"
+  ],
+  "continuation branch": [
+    "NOVACOV",
+    "written-scope review",
+    "runtime activation control"
+  ],
+  "cookie policy": [
+    "Cookie and Tracking Technologies Policy",
+    "MVG-COOKIES-2.2.1",
+    "legal cookies"
+  ],
+  "cookies": [
+    "Cookie and Tracking Technologies Policy",
+    "no advertising surveillance",
+    "local storage"
+  ],
+  "copy review brief": [
+    "/review/protected-action/"
+  ],
+  "customer content": [
+    "model training boundary",
+    "Customer Personal Data",
+    "DPA"
+  ],
+  "customer security schedule": [
+    "security addendum",
+    "written scope",
+    "RTO RPO",
+    "incident notice period"
+  ],
+  "data processing addendum": [
+    "/legal/dpa/",
+    "Global Data Processing Addendum",
+    "International Transfer Addendum"
+  ],
+  "data protection": [
+    "privacy policy",
+    "rights request",
+    "DPA"
+  ],
+  "data protection notice": [
+    "privacy policy",
+    "legal privacy",
+    "legal@meridianverity.com"
+  ],
+  "data residency": [
+    "ACE"
+  ],
+  "deletion policy": [
+    "retention policy",
+    "data deletion",
+    "data minimization",
+    "legal hold"
+  ],
+  "disclosure preservation": [
+    "VIC-WM"
+  ],
+  "driver firmware hypervisor": [
+    "NOVACOV",
+    "gateway-oriented runtime enforcement",
+    "ACE"
+  ],
+  "dual-channel watermark": [
+    "VIC-WM"
+  ],
+  "egress gating": [
+    "TRC",
+    "share upload record capture clipboard"
+  ],
+  "energy budget": [
+    "ACE"
+  ],
+  "evaluation access": [
+    "/legal/evaluation-access/",
+    "clean-room diligence",
+    "evidence-room access",
+    "Non-Public Materials",
+    "written scope"
+  ],
+  "evidence artifact minimization": [
+    "retention policy",
+    "least-revealing proof",
+    "proof artifacts",
+    "signed state"
+  ],
+  "evidence pack index": [
+    "MVG-TRUST-EVIDENCE-INDEX-2.9.0",
+    "assurance evidence catalog",
+    "evidence room",
+    "evidence request control",
+    "/legal/evidence-pack/"
+  ],
+  "evidence package": [
+    "evidence packs"
+  ],
+  "evidence room": [
+    "evidence pack index",
+    "evidence-room controlled evidence",
+    "access notice",
+    "evidence-room profile"
+  ],
+  "evidence-only bundle": [
+    "NOVACOV",
+    "review evidence",
+    "signed-head identifier"
+  ],
+  "export class": [
+    "ACE"
+  ],
+  "external effect": [
+    "execution boundary",
+    "permit receipts"
+  ],
+  "field of use licensing": [
+    "commercial framework",
+    "licensing",
+    "written scope",
+    "strategic license agreement"
+  ],
+  "first email": [
+    "public-safe first email"
+  ],
+  "frame-budget verification": [
+    "TRC",
+    "Trusted Reality Compositor",
+    "Reality Compositor Rail",
+    "Reality Receipt",
+    "R2",
+    "proof before pixels",
+    "receipt-gated rendering",
+    "view-permit latch",
+    "frame-budget verification",
+    "egress gating",
+    "View Receipts",
+    "Interaction Receipts",
+    "synthetic overlays",
+    "AR VR camera overlays",
+    "camera overlays",
+    "HUD overlays",
+    "compositor gate",
+    "verify-to-pixels",
+    "Structured Precondition-Failure"
+  ],
+  "frameworks describe the risk": [
+    "acceptance evidence before impact"
+  ],
+  "gateway-oriented runtime enforcement": [
+    "NOVACOV",
+    "driver firmware hypervisor",
+    "proof before activation"
+  ],
+  "global data processing addendum": [
+    "/legal/dpa/",
+    "DPA",
+    "regulated-data rider"
+  ],
+  "hardware rooted execution evidence": [
+    "ACE"
+  ],
+  "hardware-rooted execution evidence": [
+    "ACE"
+  ],
+  "incident communication": [
+    "status policy",
+    "public-safe incident updates",
+    "customer notice separation",
+    "legal notice clock",
+    "security advisories"
+  ],
+  "input admission rail": [
+    "TSIL",
+    "sensor ingress rail"
+  ],
+  "input boundary": [
+    "sensor receipts",
+    "TSIL"
+  ],
+  "international transfer addendum": [
+    "/legal/dpa/",
+    "SCCs",
+    "UK Addendum",
+    "Swiss terms"
+  ],
+  "legal publication register": [
+    "terms publication",
+    "privacy publication",
+    "controlling PDF"
+  ],
+  "legal surface": [
+    "legal",
+    "privacy",
+    "terms",
+    "DPA"
+  ],
+  "legal trust manifest": [
+    "mvg-legal-manifest.json",
+    "DSSE signing lane",
+    "publication integrity"
+  ],
+  "legal@meridianverity.com": [
+    "privacy request",
+    "DPA",
+    "legal request"
+  ],
+  "liveness": [
+    "sensor receipts",
+    "TSIL"
+  ],
+  "logic execution gate": [
+    "NOVACOV",
+    "Runtime Activation Control",
+    "Sovereign Logic Gate"
+  ],
+  "logs explain TSIL gates": [
+    "TSIL",
+    "sensor receipts"
+  ],
+  "medication policy freshness": [
+    "clinical AI acceptance controls"
+  ],
+  "merchant surface": [
+    "ORPRG",
+    "agentic commerce"
+  ],
+  "meridian verity group licensing": [
+    "/licensing/",
+    "/licensing/protected-action-review/",
+    "/legal/commercial-framework/"
+  ],
+  "meridian verity licensing": [
+    "/licensing/",
+    "/licensing/protected-action-review/",
+    "/review/protected-action/"
+  ],
+  "nist iso owasp mitre evidence map": [
+    "/ai-acceptance-crosswalks/"
+  ],
+  "no AI training": [
+    "AI/TDM reservation",
+    "terms section 10",
+    "robots AI train no"
+  ],
+  "no AI training by publication": [
+    "AI/TDM reservation",
+    "model training reservation",
+    "written agreement required"
+  ],
+  "no advertising surveillance": [
+    "cookie policy",
+    "no tracking by default",
+    "legal cookies"
+  ],
+  "no current proof no protected effect": [
+    "protected actions",
+    "HOLD",
+    "REFUSE",
+    "proof before impact"
+  ],
+  "no license by publication": [
+    "commercial framework",
+    "terms of use",
+    "legal hub",
+    "public review surfaces not rights grants"
+  ],
+  "no tracking by default": [
+    "privacy policy",
+    "cookie policy"
+  ],
+  "patient-facing release": [
+    "clinical AI acceptance controls"
+  ],
+  "payment agent authorization": [
+    "ORPRG",
+    "Permit Receipts"
+  ],
+  "penetration testing authorization": [
+    "customer pentest authorization",
+    "written test scope",
+    "Security Disclosure Policy"
+  ],
+  "permit identifier": [
+    "NOVACOV",
+    "permit before action",
+    "signed-head identifier"
+  ],
+  "pharmacy transmission": [
+    "clinical AI acceptance controls",
+    "pre-transmission acceptance plane"
+  ],
+  "policy allow mask": [
+    "ACE"
+  ],
+  "prescription renewal": [
+    "clinical AI acceptance controls",
+    "pre-transmission acceptance"
+  ],
+  "privacy policy": [
+    "Privacy Policy and Data Protection Notice",
+    "MVG-PRIVACY-3.0.0",
+    "privacy rights request",
+    "data protection notice",
+    "Customer Content privacy",
+    "evidence-room privacy"
+  ],
+  "procurement protected action": [
+    "/procurement/protected-action-review/",
+    "/review/protected-action/"
+  ],
+  "prompt is not approval": [
+    "instruction promotion gates"
+  ],
+  "proof after content leaves the model": [
+    "VIC-WM"
+  ],
+  "proof before acceptance": [
+    "/patents/rval/",
+    "RVAL",
+    "Run the Verifier",
+    "Evidence Packs"
+  ],
+  "proof before autonomous logic becomes action": [
+    "NOVACOV",
+    "Runtime Activation Control",
+    "Proof before activation"
+  ],
+  "proof before care": [
+    "safety receipts"
+  ],
+  "proof before commit": [
+    "permit receipts"
+  ],
+  "proof before compute": [
+    "ACE",
+    "Compute Admission Rail"
+  ],
+  "proof before payment": [
+    "ORPRG",
+    "agentic commerce"
+  ],
+  "proof before perception": [
+    "sensor receipts"
+  ],
+  "proof before pixels": [
+    "TRC",
+    "Reality Receipt",
+    "receipt-gated rendering"
+  ],
+  "proof survived": [
+    "evidence packs"
+  ],
+  "protected action": [
+    "protected actions",
+    "proof before impact",
+    "accept before impact",
+    "execution boundary",
+    "AI action boundary"
+  ],
+  "protected action review": [
+    "/review/protected-action/",
+    "/licensing/protected-action-review/",
+    "/procurement/protected-action-review/"
+  ],
+  "protected actions": [
+    "protected action",
+    "ACCEPT HOLD REFUSE",
+    "external effect",
+    "bound the agent",
+    "prove the action"
+  ],
+  "protected-action acceptance": [
+    "ORPRG",
+    "Execution Boundary"
+  ],
+  "protected-action review": [
+    "20-minute review",
+    "AI action boundary",
+    "public proof packet",
+    "public-safe first email"
+  ],
+  "provenance report": [
+    "VIC-WM"
+  ],
+  "public legal terms": [
+    "terms of use",
+    "legal surface",
+    "publication control"
+  ],
+  "public materials access terms": [
+    "legal terms",
+    "no license by publication",
+    "written scope controls private depth"
+  ],
+  "public-safe intake": [
+    "protected-action review",
+    "privacy policy",
+    "legal surface"
+  ],
+  "reason codes": [
+    "VIC-WM",
+    "RVAL"
+  ],
+  "receipt-gated rendering": [
+    "TRC",
+    "view-permit latch"
+  ],
+  "recipient schedule": [
+    "evaluation access",
+    "authorized recipients",
+    "clean-room reviewers",
+    "no forwarding"
+  ],
+  "redacted replay packet": [
+    "evidence packs",
+    "run the verifier"
+  ],
+  "regulated data rider": [
+    "/legal/dpa/",
+    "PHI boundary",
+    "Restricted Data"
+  ],
+  "rendering egress": [
+    "TRC",
+    "share upload record clipboard",
+    "egress parity"
+  ],
+  "replay": [
+    "run the verifier"
+  ],
+  "reproduce outcome": [
+    "run the verifier"
+  ],
+  "request evidence": [
+    "/trust/evidence/",
+    "Evidence Request",
+    "qualified request",
+    "legal@meridianverity.com"
+  ],
+  "responsible disclosure": [
+    "security disclosure",
+    "security@meridianverity.com",
+    "security.txt"
+  ],
+  "retention policy": [
+    "data retention",
+    "deletion",
+    "evidence artifact minimization",
+    "MVG-RETENTION-2.3.0"
+  ],
+  "runtime activation control": [
+    "NOVACOV",
+    "Proof before activation",
+    "permit before action"
+  ],
+  "safe harbor": [
+    "security disclosure",
+    "responsible disclosure",
+    "written scope"
+  ],
+  "safety evidence packet": [
+    "clinical AI acceptance controls",
+    "evidence packs",
+    "Safety Receipts"
+  ],
+  "sandbox-control language": [
+    "clinical AI acceptance controls"
+  ],
+  "security addendum": [
+    "Enterprise Security Addendum",
+    "TOMs",
+    "technical and organizational measures",
+    "MVG-SECURITY-ADDENDUM-3.1.0",
+    "customer security schedule",
+    "audit-by-evidence"
+  ],
+  "security review meridian verity": [
+    "/security-review/",
+    "/legal/security-addendum/",
+    "/legal/security-disclosure/"
+  ],
+  "security.txt": [
+    "security disclosure",
+    "PGP",
+    "security contact"
+  ],
+  "sensor ingress rail": [
+    "TSIL",
+    "input-boundary review"
+  ],
+  "sensor receipt patent": [
+    "TSIL",
+    "US 12,639,429 B1"
+  ],
+  "signal should carry proof": [
+    "TSIL",
+    "proof before perception"
+  ],
+  "signed-head freshness": [
+    "TSIL",
+    "Sensor Receipts"
+  ],
+  "signed-head identifier": [
+    "NOVACOV",
+    "permit identifier",
+    "review evidence"
+  ],
+  "source register": [
+    "AI acceptance source register",
+    "source reviewed"
+  ],
+  "status feed": [
+    "trust status JSON",
+    "trust status RSS",
+    "machine-readable status",
+    "public status feed",
+    "status API"
+  ],
+  "status policy": [
+    "MVG-STATUS-2.5.0",
+    "status and incident communication",
+    "public status boundary",
+    "status JSON",
+    "status RSS",
+    "not an SLA",
+    "not a breach notice",
+    "not customer notice"
+  ],
+  "subprocessor disclosure": [
+    "MVG-SUBPROCESSORS-2.4.0",
+    "vendor-control statement",
+    "current Subprocessor Schedule"
+  ],
+  "subprocessors": [
+    "subprocessor disclosure",
+    "vendor control",
+    "subprocessor schedule",
+    "DPA schedule"
+  ],
+  "synthetic content watermarking": [
+    "VIC-WM"
+  ],
+  "synthetic overlay receipts": [
+    "TRC",
+    "Trusted Reality Compositor",
+    "Reality Compositor Rail",
+    "Reality Receipt",
+    "R2",
+    "proof before pixels",
+    "receipt-gated rendering",
+    "view-permit latch",
+    "frame-budget verification",
+    "egress gating",
+    "View Receipts",
+    "Interaction Receipts",
+    "synthetic overlays",
+    "AR VR camera overlays",
+    "camera overlays",
+    "HUD overlays",
+    "compositor gate",
+    "verify-to-pixels",
+    "Structured Precondition-Failure"
+  ],
+  "synthetic overlays": [
+    "TRC",
+    "AR VR camera overlays",
+    "receipt-gated rendering"
+  ],
+  "tamper-evident legal manifest": [
+    "MVG-DOC-MANIFEST-2.6.0",
+    "legal publication register",
+    "signed manifest",
+    "HOLD until signed and bound"
+  ],
+  "tamper-evident log": [
+    "VIC-WM",
+    "Evidence Packs"
+  ],
+  "technical and organizational measures": [
+    "TOMs",
+    "security addendum",
+    "enterprise security controls",
+    "MVG-SECURITY-ADDENDUM-3.1.0"
+  ],
+  "terms of use": [
+    "legal terms",
+    "MVG-TERMS-2.1.1",
+    "website terms",
+    "no license by publication",
+    "AI TDM reservation"
+  ],
+  "tracking technologies": [
+    "cookies",
+    "local storage",
+    "GPC",
+    "consent gate"
+  ],
+  "trusted sensor ingress": [
+    "TSIL",
+    "sensor receipts"
+  ],
+  "unlearning status": [
+    "ACE"
+  ],
+  "validator certification": [
+    "/patents/rval/",
+    "conformance suites",
+    "test vectors",
+    "expected validator outputs"
+  ],
+  "vendor control": [
+    "subprocessor disclosure",
+    "restricted downstream use",
+    "vendor review"
+  ],
+  "verifiable inference credential": [
+    "VIC-WM"
+  ],
+  "verifier of verifiers": [
+    "/patents/rval/",
+    "RVAL",
+    "replay-verifiable acceptance"
+  ],
+  "verify to activation": [
+    "NOVACOV",
+    "Runtime Activation Control",
+    "proof before activation"
+  ],
+  "verify-to-activation": [
+    "NOVACOV",
+    "Runtime Activation Control",
+    "proof before activation"
+  ],
+  "version": "v278-one-protected-payment-action-challenge-synonyms",
+  "view-permit latch": [
+    "TRC",
+    "per-frame compositor gate",
+    "proof before pixels"
+  ],
+  "visible bounded provable": [
+    "agentic commerce",
+    "ORPRG"
+  ],
+  "vulnerability disclosure": [
+    "security disclosure",
+    "security@meridianverity.com",
+    "safe harbor"
+  ],
+  "wallet connector": [
+    "ORPRG",
+    "agentic commerce"
+  ],
+  "was this signal trustworthy enough to enter": [
+    "TSIL",
+    "sensor receipts"
+  ],
+  "written scope before depth": [
+    "/review/protected-action/",
+    "/legal/commercial-framework/"
+  ],
+  "written scope controls depth": [
+    "public proof starts review",
+    "commercial framework",
+    "protected-action review",
+    "customer-specific instruments control"
+  ],
+  "Protected Actions": [
+    "protected action",
+    "proof before impact",
+    "external effect boundary",
+    "ACCEPT HOLD REFUSE",
+    "MVG-PROTECTED-ACTIONS-1.0.0",
+    "Protected Actions PDF"
+  ],
+  "Bound the agent": [
+    "prove the action",
+    "accept before impact",
+    "protected actions"
+  ],
+  "External effect boundary": [
+    "protected action",
+    "execution boundary",
+    "acceptance boundary"
+  ],
+  "one protected payment action challenge": [
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+    "payment-adjacent action",
+    "acceptance before payment impact",
+    "negative vectors"
+  ],
+  "protected payment action": [
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+    "one protected payment action challenge",
+    "checkout payment action",
+    "payment-adjacent action"
+  ],
+  "payment action challenge": [
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+    "negative vectors",
+    "agentic commerce acceptance"
+  ],
+  "valid agent valid token valid payment impact": [
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+    "Access authorizes reach",
+    "Tokens authorize capability",
+    "Acceptance authorizes impact"
+  ],
+  "access authorizes reach": [
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+    "tokens authorize capability",
+    "acceptance authorizes impact"
+  ],
+  "no live PAN no live settlement": [
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/",
+    "public-safe payment challenge",
+    "written scope controls depth"
+  ],
+  "negative vectors payment action": [
+    "/assets2/data/one-protected-payment-action-negative-vectors.v1.json",
+    "/agentic-commerce-acceptance/one-protected-payment-action-challenge/"
+  ],
+  "witness ready challenge": [
+    "One Protected Payment Action Challenge",
+    "agentic commerce acceptance",
+    "written scope"
+  ],
+  "third party witnessed challenge": [
+    "witness-ready route",
+    "independent observation under written scope",
+    "one protected payment action"
+  ],
+  "qualified independent witness": [
+    "witness-ready route",
+    "clean-room evidence observer",
+    "payment-action challenge"
+  ],
+  "clean-room evidence observer": [
+    "evaluation access",
+    "witness-ready challenge",
+    "evidence room"
+  ],
+  "payment action witness route": [
+    "One Protected Payment Action Challenge",
+    "witness-ready route",
+    "written scope controls depth"
+  ],
+  "research": [
+    "proof before impact research",
+    "Acceptance Plane research",
+    "public proof route",
+    "open evaluation repositories",
+    "Zenodo archives"
+  ],
+  "PermitReceipt": [
+    "permit receipt",
+    "permit-before-commit",
+    "action digest",
+    "policy epoch",
+    "external effect gate",
+    "permit-receipt GitHub"
+  ],
+  "acceptance plane GitHub": [
+    "public architecture thesis",
+    "Acceptance Plane repository",
+    "acceptance before impact reference workflow"
+  ],
+  "public readiness kit": [
+    "scenario card linter",
+    "Acceptance Plane public readiness kit",
+    "action acceptance discussion kit"
+  ],
+  "research hub": [
+    "public research records",
+    "open repositories",
+    "buyer evidence",
+    "public proof archive"
+  ]
+}
