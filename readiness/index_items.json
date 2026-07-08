@@ -1,0 +1,456 @@
+{
+  "tool": "action-acceptance-readiness-index",
+  "version": "0.2.0",
+  "items": [
+    {
+      "id": "ARI-01-01",
+      "category": "boundary",
+      "category_label": "Acceptance boundary",
+      "prompt": "Has the team named the acceptance boundary question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for acceptance boundary.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-01-02",
+      "category": "boundary",
+      "category_label": "Acceptance boundary",
+      "prompt": "Is there a public-safe owner for acceptance boundary discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for acceptance boundary.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-01-03",
+      "category": "boundary",
+      "category_label": "Acceptance boundary",
+      "prompt": "Can the team identify HOLD conditions related to acceptance boundary?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for acceptance boundary.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-01-04",
+      "category": "boundary",
+      "category_label": "Acceptance boundary",
+      "prompt": "Can the team describe REFUSE conditions related to acceptance boundary?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for acceptance boundary.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-01-05",
+      "category": "boundary",
+      "category_label": "Acceptance boundary",
+      "prompt": "Can the team ask a vendor about acceptance boundary without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for acceptance boundary.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-02-01",
+      "category": "evidence",
+      "category_label": "Gate-time evidence",
+      "prompt": "Has the team named the gate-time evidence question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for gate-time evidence.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-02-02",
+      "category": "evidence",
+      "category_label": "Gate-time evidence",
+      "prompt": "Is there a public-safe owner for gate-time evidence discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for gate-time evidence.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-02-03",
+      "category": "evidence",
+      "category_label": "Gate-time evidence",
+      "prompt": "Can the team identify HOLD conditions related to gate-time evidence?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for gate-time evidence.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-02-04",
+      "category": "evidence",
+      "category_label": "Gate-time evidence",
+      "prompt": "Can the team describe REFUSE conditions related to gate-time evidence?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for gate-time evidence.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-02-05",
+      "category": "evidence",
+      "category_label": "Gate-time evidence",
+      "prompt": "Can the team ask a vendor about gate-time evidence without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for gate-time evidence.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-03-01",
+      "category": "freshness",
+      "category_label": "Freshness and revocation",
+      "prompt": "Has the team named the freshness and revocation question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for freshness and revocation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-03-02",
+      "category": "freshness",
+      "category_label": "Freshness and revocation",
+      "prompt": "Is there a public-safe owner for freshness and revocation discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for freshness and revocation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-03-03",
+      "category": "freshness",
+      "category_label": "Freshness and revocation",
+      "prompt": "Can the team identify HOLD conditions related to freshness and revocation?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for freshness and revocation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-03-04",
+      "category": "freshness",
+      "category_label": "Freshness and revocation",
+      "prompt": "Can the team describe REFUSE conditions related to freshness and revocation?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for freshness and revocation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-03-05",
+      "category": "freshness",
+      "category_label": "Freshness and revocation",
+      "prompt": "Can the team ask a vendor about freshness and revocation without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for freshness and revocation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-04-01",
+      "category": "replay",
+      "category_label": "Replay and duplicate handling",
+      "prompt": "Has the team named the replay and duplicate handling question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for replay and duplicate handling.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-04-02",
+      "category": "replay",
+      "category_label": "Replay and duplicate handling",
+      "prompt": "Is there a public-safe owner for replay and duplicate handling discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for replay and duplicate handling.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-04-03",
+      "category": "replay",
+      "category_label": "Replay and duplicate handling",
+      "prompt": "Can the team identify HOLD conditions related to replay and duplicate handling?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for replay and duplicate handling.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-04-04",
+      "category": "replay",
+      "category_label": "Replay and duplicate handling",
+      "prompt": "Can the team describe REFUSE conditions related to replay and duplicate handling?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for replay and duplicate handling.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-04-05",
+      "category": "replay",
+      "category_label": "Replay and duplicate handling",
+      "prompt": "Can the team ask a vendor about replay and duplicate handling without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for replay and duplicate handling.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-05-01",
+      "category": "decision",
+      "category_label": "ACCEPT / HOLD / REFUSE reasoning",
+      "prompt": "Has the team named the accept / hold / refuse reasoning question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for accept / hold / refuse reasoning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-05-02",
+      "category": "decision",
+      "category_label": "ACCEPT / HOLD / REFUSE reasoning",
+      "prompt": "Is there a public-safe owner for accept / hold / refuse reasoning discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for accept / hold / refuse reasoning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-05-03",
+      "category": "decision",
+      "category_label": "ACCEPT / HOLD / REFUSE reasoning",
+      "prompt": "Can the team identify HOLD conditions related to accept / hold / refuse reasoning?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for accept / hold / refuse reasoning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-05-04",
+      "category": "decision",
+      "category_label": "ACCEPT / HOLD / REFUSE reasoning",
+      "prompt": "Can the team describe REFUSE conditions related to accept / hold / refuse reasoning?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for accept / hold / refuse reasoning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-05-05",
+      "category": "decision",
+      "category_label": "ACCEPT / HOLD / REFUSE reasoning",
+      "prompt": "Can the team ask a vendor about accept / hold / refuse reasoning without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for accept / hold / refuse reasoning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-06-01",
+      "category": "escalation",
+      "category_label": "Human escalation",
+      "prompt": "Has the team named the human escalation question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for human escalation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-06-02",
+      "category": "escalation",
+      "category_label": "Human escalation",
+      "prompt": "Is there a public-safe owner for human escalation discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for human escalation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-06-03",
+      "category": "escalation",
+      "category_label": "Human escalation",
+      "prompt": "Can the team identify HOLD conditions related to human escalation?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for human escalation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-06-04",
+      "category": "escalation",
+      "category_label": "Human escalation",
+      "prompt": "Can the team describe REFUSE conditions related to human escalation?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for human escalation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-06-05",
+      "category": "escalation",
+      "category_label": "Human escalation",
+      "prompt": "Can the team ask a vendor about human escalation without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for human escalation.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-07-01",
+      "category": "governance",
+      "category_label": "Ownership and accountability",
+      "prompt": "Has the team named the ownership and accountability question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for ownership and accountability.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-07-02",
+      "category": "governance",
+      "category_label": "Ownership and accountability",
+      "prompt": "Is there a public-safe owner for ownership and accountability discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for ownership and accountability.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-07-03",
+      "category": "governance",
+      "category_label": "Ownership and accountability",
+      "prompt": "Can the team identify HOLD conditions related to ownership and accountability?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for ownership and accountability.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-07-04",
+      "category": "governance",
+      "category_label": "Ownership and accountability",
+      "prompt": "Can the team describe REFUSE conditions related to ownership and accountability?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for ownership and accountability.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-07-05",
+      "category": "governance",
+      "category_label": "Ownership and accountability",
+      "prompt": "Can the team ask a vendor about ownership and accountability without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for ownership and accountability.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-08-01",
+      "category": "procurement",
+      "category_label": "Buyer/vendor readiness",
+      "prompt": "Has the team named the buyer/vendor readiness question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for buyer/vendor readiness.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-08-02",
+      "category": "procurement",
+      "category_label": "Buyer/vendor readiness",
+      "prompt": "Is there a public-safe owner for buyer/vendor readiness discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for buyer/vendor readiness.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-08-03",
+      "category": "procurement",
+      "category_label": "Buyer/vendor readiness",
+      "prompt": "Can the team identify HOLD conditions related to buyer/vendor readiness?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for buyer/vendor readiness.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-08-04",
+      "category": "procurement",
+      "category_label": "Buyer/vendor readiness",
+      "prompt": "Can the team describe REFUSE conditions related to buyer/vendor readiness?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for buyer/vendor readiness.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-08-05",
+      "category": "procurement",
+      "category_label": "Buyer/vendor readiness",
+      "prompt": "Can the team ask a vendor about buyer/vendor readiness without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for buyer/vendor readiness.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-09-01",
+      "category": "incident",
+      "category_label": "Incident learning",
+      "prompt": "Has the team named the incident learning question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for incident learning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-09-02",
+      "category": "incident",
+      "category_label": "Incident learning",
+      "prompt": "Is there a public-safe owner for incident learning discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for incident learning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-09-03",
+      "category": "incident",
+      "category_label": "Incident learning",
+      "prompt": "Can the team identify HOLD conditions related to incident learning?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for incident learning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-09-04",
+      "category": "incident",
+      "category_label": "Incident learning",
+      "prompt": "Can the team describe REFUSE conditions related to incident learning?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for incident learning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-09-05",
+      "category": "incident",
+      "category_label": "Incident learning",
+      "prompt": "Can the team ask a vendor about incident learning without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for incident learning.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-10-01",
+      "category": "handoff",
+      "category_label": "Conformance handoff",
+      "prompt": "Has the team named the conformance handoff question for external-impact actions?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for conformance handoff.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-10-02",
+      "category": "handoff",
+      "category_label": "Conformance handoff",
+      "prompt": "Is there a public-safe owner for conformance handoff discussion?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for conformance handoff.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-10-03",
+      "category": "handoff",
+      "category_label": "Conformance handoff",
+      "prompt": "Can the team identify HOLD conditions related to conformance handoff?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for conformance handoff.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-10-04",
+      "category": "handoff",
+      "category_label": "Conformance handoff",
+      "prompt": "Can the team describe REFUSE conditions related to conformance handoff?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for conformance handoff.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    },
+    {
+      "id": "ARI-10-05",
+      "category": "handoff",
+      "category_label": "Conformance handoff",
+      "prompt": "Can the team ask a vendor about conformance handoff without requesting private implementation details?",
+      "evidence_hint": "Use public discussion notes, scenario cards, workshop decisions, or procurement questions. Do not include private implementation details.",
+      "gap_if_missing": "No documented public readiness answer for conformance handoff.",
+      "scope_boundary": "Educational readiness item only; not a certification control or compliance requirement."
+    }
+  ]
+}

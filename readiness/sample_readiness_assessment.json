@@ -1,0 +1,257 @@
+{
+  "assessment_id": "AP-READINESS-SAMPLE-001",
+  "organization_context": "Sample organization evaluating autonomous action before impact in a public-safe tabletop setting.",
+  "responses": [
+    {
+      "item_id": "ARI-01-01",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-01-02",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-01-03",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-01-04",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-01-05",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-02-01",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-02-02",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-02-03",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-02-04",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-02-05",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-03-01",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-03-02",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-03-03",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-03-04",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-03-05",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-04-01",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-04-02",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-04-03",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-04-04",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-04-05",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-05-01",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-05-02",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-05-03",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-05-04",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-05-05",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-06-01",
+      "status": "YES",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-06-02",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-06-03",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-06-04",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-06-05",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-07-01",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-07-02",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-07-03",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-07-04",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-07-05",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-08-01",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-08-02",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-08-03",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-08-04",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-08-05",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-09-01",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-09-02",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-09-03",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-09-04",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-09-05",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-10-01",
+      "status": "PARTIAL",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-10-02",
+      "status": "NO",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-10-03",
+      "status": "NO",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-10-04",
+      "status": "NO",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    },
+    {
+      "item_id": "ARI-10-05",
+      "status": "NO",
+      "notes": "Sample public-readiness discussion note; replace with team-specific evidence."
+    }
+  ],
+  "boundary": "Educational readiness assessment only; not certification, compliance approval, procurement approval, production readiness, or an allow/deny decision."
+}

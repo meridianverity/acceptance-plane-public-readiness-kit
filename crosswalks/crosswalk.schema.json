@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Acceptance Plane Public Crosswalk",
+  "type": "object",
+  "required": [
+    "source",
+    "source_url",
+    "scope_boundary",
+    "mappings"
+  ],
+  "properties": {
+    "source": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "scope_boundary": {
+      "type": "string"
+    },
+    "mappings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source_area",
+          "acceptance_plane_question",
+          "public_readiness_prompt",
+          "scope_boundary"
+        ],
+        "properties": {
+          "source_area": {
+            "type": "string"
+          },
+          "acceptance_plane_question": {
+            "type": "string"
+          },
+          "public_readiness_prompt": {
+            "type": "string"
+          },
+          "scope_boundary": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

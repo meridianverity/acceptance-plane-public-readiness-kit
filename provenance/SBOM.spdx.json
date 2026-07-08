@@ -2,34 +2,25 @@
   "spdxVersion": "SPDX-2.3",
   "dataLicense": "CC0-1.0",
   "SPDXID": "SPDXRef-DOCUMENT",
-  "name": "acceptance-plane-public-readiness-kit-v0.1.4-public-sbom",
-  "documentNamespace": "https://meridianverity.com/spdx/acceptance-plane-public-readiness-kit/v0.1.4/public-sbom",
+  "name": "acceptance-plane-public-readiness-kit-v0.2.0-public-sbom",
+  "documentNamespace": "https://meridianverity.com/spdx/acceptance-plane-public-readiness-kit/v0.2.0/public-sbom",
   "creationInfo": {
-    "created": "2026-06-25T00:00:00Z",
+    "created": "2026-07-07T00:00:00Z",
     "creators": [
       "Organization: Meridian Verity Group",
-      "Tool: manual-public-readiness-release"
+      "Tool: standard-library-release-scripts"
     ]
   },
   "packages": [
     {
       "name": "acceptance-plane-public-readiness-kit",
-      "SPDXID": "SPDXRef-Package-AcceptancePlanePublicReadinessKit",
-      "versionInfo": "0.1.4",
+      "SPDXID": "SPDXRef-Package",
+      "versionInfo": "0.2.0",
       "downloadLocation": "NOASSERTION",
       "filesAnalyzed": false,
-      "licenseConcluded": "NOASSERTION",
+      "licenseConcluded": "MIT AND CC-BY-4.0",
       "licenseDeclared": "MIT AND CC-BY-4.0",
-      "copyrightText": "NOASSERTION",
-      "externalRefs": []
-    }
-  ],
-  "annotations": [
-    {
-      "annotationDate": "2026-06-25T00:00:00Z",
-      "annotationType": "OTHER",
-      "annotator": "Organization: Meridian Verity Group",
-      "comment": "Public readiness kit has no external runtime dependencies; Python standard library only. This SBOM is informational and does not imply product implementation, certification, conformance, compliance approval, production readiness, patent license, or trademark license."
+      "description": "Public education and readiness kit; not implementation, standard, certification kit, or patent license."
     }
   ]
 }

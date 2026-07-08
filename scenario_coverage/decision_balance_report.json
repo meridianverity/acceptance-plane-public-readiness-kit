@@ -1,0 +1,25 @@
+{
+  "cards": 100,
+  "domains": {
+    "agent_tool_use": 10,
+    "ar_vr_overlays": 10,
+    "cloud_deployment": 10,
+    "education_minors": 10,
+    "enterprise_data": 10,
+    "financial_actions": 10,
+    "healthcare_dsi": 10,
+    "public_sector": 10,
+    "robotics_physical": 10,
+    "sensor_ingress": 10
+  },
+  "decisions": {
+    "HOLD": 35,
+    "REFUSE": 33,
+    "ACCEPT": 32
+  },
+  "risk_tiers": {
+    "high-consequence": 81,
+    "context-dependent": 19
+  },
+  "boundary": "coverage for education only; not conformance coverage, certification coverage, compliance coverage, or implementation test coverage"
+}

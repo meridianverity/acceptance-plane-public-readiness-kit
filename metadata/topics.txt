@@ -6,5 +6,6 @@ action-acceptance
 acceptance-plane
 public-readiness
 scenario-cards
-developer-tools
-ai-safety
+readiness-index
+ai-risk-management
+agentic-security

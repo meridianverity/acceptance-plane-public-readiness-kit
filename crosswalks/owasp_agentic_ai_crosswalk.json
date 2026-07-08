@@ -1,0 +1,43 @@
+{
+  "source": "OWASP Agentic AI security materials",
+  "source_url": "https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/",
+  "scope_boundary": "Educational crosswalk only; not a compliance mapping, certification claim, legal opinion, or formal standards alignment.",
+  "mappings": [
+    {
+      "source_area": "Agent authority",
+      "acceptance_plane_question": "How is tool access separated from action acceptance?",
+      "public_readiness_prompt": "Ask whether agent capability alone is ever treated as permission to create impact.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Privilege risk",
+      "acceptance_plane_question": "What prevents an over-privileged agent from causing high-consequence impact?",
+      "public_readiness_prompt": "List evidence categories required before privileged action.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Goal and behavior risk",
+      "acceptance_plane_question": "When should misaligned or ambiguous behavior trigger HOLD?",
+      "public_readiness_prompt": "Define ambiguity and escalation prompts.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Tool-use abuse",
+      "acceptance_plane_question": "What public scenario cards test tool-use abuse discussions?",
+      "public_readiness_prompt": "Select cards from agent_tool_use and high-consequence domains.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Monitoring and response",
+      "acceptance_plane_question": "How are near misses converted into readiness questions?",
+      "public_readiness_prompt": "Use the incident tabletop worksheet.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Supply-chain context",
+      "acceptance_plane_question": "What vendor evidence can be requested without requesting private mechanisms?",
+      "public_readiness_prompt": "Use vendor disclosure questions and RFP prompts.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    }
+  ]
+}

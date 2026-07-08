@@ -1,27 +1,14 @@
-# Sources and Provenance
+# Sources and Boundaries
 
-This public readiness kit is based on the Acceptance Plane public architecture thesis and related public release materials.
+This public readiness kit uses public educational references and internal public scenario cards. Crosswalk files are public-safe prompts, not compliance mappings or certification claims.
 
-Canonical public architecture thesis DOI: 10.5281/zenodo.20645907
+Referenced public source families:
 
-Key release boundary preserved in this kit:
+- NIST AI Risk Management Framework: https://www.nist.gov/itl/ai-risk-management-framework
+- OWASP Agentic AI threats and mitigations: https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/
+- CISA / Five Eyes Careful Adoption of Agentic AI Services: https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services
+- ISO/IEC 42001 overview: https://www.iso.org/standard/42001
+- GitHub Artifact Attestations documentation: https://docs.github.com/actions/security-for-github-actions/using-artifact-attestations/using-artifact-attestations-to-establish-provenance-for-builds
+- SLSA build provenance: https://slsa.dev/spec/draft/build-provenance
 
-- Public materials define the category, workflow, vocabulary, conceptual diagrams, scenario corpus, public-interest guidance, and procurement questions.
-- Private/licensed materials retain implementation-level details such as exact API schemas, full evidence object models, cryptographic binding, enforcement pipelines, hardware-specific claim maps, partner deployments, conformance certification, certificate registries, signed test vectors, and unpublished patent language.
-
-v0.1.2 provenance hardening:
-
-- Full-repo text boundary QA scans public files for unsafe positive implementation/certification/conformance/standard/patent-license claims.
-- Strict SHA-256 manifest verification fails on unmanifested files and stale manifest entries.
-- `provenance/FILE_TREE.txt` and `provenance/QA_REPORT.md` are included in the manifest.
-- The only file intentionally excluded from the manifest is `provenance/MANIFEST.sha256` itself.
-
-No patent PDFs, claim charts, partner materials, private implementation files, production schemas, production verifier code, signed conformance vectors, or certificate-registry implementations are included in this package.
-
-
-v0.1.4 public polish hardening:
-
-- Public wording polish and release-command safety.
-- Playbook rename to production-boundary-first language.
-- Public threat model, evaluator script, archive/license boundary guide, release-integrity guide.
-- Demo transcript, JSON demo output, and SPDX-style public SBOM.
+Boundary: no private claim charts, customer mappings, production evidence schemas, cryptographic mechanisms, or implementation details are included.

@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Action Acceptance Readiness Index Assessment",
+  "type": "object",
+  "required": [
+    "assessment_id",
+    "organization_context",
+    "responses",
+    "boundary"
+  ],
+  "properties": {
+    "assessment_id": {
+      "type": "string"
+    },
+    "organization_context": {
+      "type": "string"
+    },
+    "responses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "item_id",
+          "status"
+        ],
+        "properties": {
+          "item_id": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "YES",
+              "PARTIAL",
+              "NO",
+              "UNKNOWN"
+            ]
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "boundary": {
+      "type": "string"
+    }
+  }
+}

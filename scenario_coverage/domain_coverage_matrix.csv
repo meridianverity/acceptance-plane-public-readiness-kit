@@ -1,0 +1,11 @@
+domain,cards,accept,hold,refuse,high_consequence,context_dependent
+agent_tool_use,10,3,4,3,7,3
+ar_vr_overlays,10,4,3,3,6,4
+cloud_deployment,10,3,3,4,7,3
+education_minors,10,3,3,4,7,3
+enterprise_data,10,3,4,3,7,3
+financial_actions,10,4,3,3,10,0
+healthcare_dsi,10,3,4,3,10,0
+public_sector,10,3,4,3,10,0
+robotics_physical,10,3,3,4,10,0
+sensor_ingress,10,3,4,3,7,3

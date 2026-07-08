@@ -1,1 +1,1 @@
-Free public readiness kit for discussing action acceptance before impact, with a 5-minute educational scenario-card linter. Not an implementation, standard, certification kit, or patent license.
+Free public readiness kit for action acceptance before impact: scenario-card linting, readiness indexing, evidence ladder, crosswalks, workshops, and public-safe conformance handoff.

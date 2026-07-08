@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.2.0 — 2026-07-07
+
+- Promotes the public readiness kit from a scenario-card-only educational package into a board-to-builder adoption gateway.
+- Adds the Action Acceptance Readiness Index with sample assessment and report output.
+- Adds public-safe crosswalks for NIST AI RMF, OWASP agentic-AI materials, Five Eyes/CISA agentic-AI guidance, and ISO/IEC 42001 language.
+- Adds the Public Evidence Ladder and a readiness-to-conformance handoff bridge to separate external artifacts.
+- Adds scenario coverage reports for the 100-card public corpus.
+- Adds board, CISO/platform, procurement, and incident-tabletop workshop materials.
+- Adds procurement due-diligence questions, RFP clauses, red flags, and non-certification language.
+- Adds release ZIP build/verification tools, release pointer metadata, provenance workflow skeletons, SPDX/SLSA metadata, and stronger boundary QA.
+
 ## v0.1.4 — 2026-06-25
 
 Public polish and release-integrity hardening release.

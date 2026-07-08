@@ -1,0 +1,43 @@
+{
+  "source": "Five Eyes / CISA agentic AI adoption guidance",
+  "source_url": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
+  "scope_boundary": "Educational crosswalk only; not a compliance mapping, certification claim, legal opinion, or formal standards alignment.",
+  "mappings": [
+    {
+      "source_area": "Careful adoption",
+      "acceptance_plane_question": "Should this autonomous workflow be used at all for the impact category?",
+      "public_readiness_prompt": "Record whether safer non-agentic alternatives were considered.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Privilege and access",
+      "acceptance_plane_question": "What privileges exist before action acceptance?",
+      "public_readiness_prompt": "List access scopes separately from acceptance evidence.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Design and configuration",
+      "acceptance_plane_question": "What boundary prevents configuration mistakes from becoming impact?",
+      "public_readiness_prompt": "Document acceptance boundary and protected system.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Behavioral uncertainty",
+      "acceptance_plane_question": "What unexpected behavior triggers HOLD?",
+      "public_readiness_prompt": "Define review path and decision owner.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Resilience and reversibility",
+      "acceptance_plane_question": "What actions require rollback planning before ACCEPT?",
+      "public_readiness_prompt": "Ask for rollback and consequence notes.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Operational monitoring",
+      "acceptance_plane_question": "How will HOLD/REFUSE decisions be reviewed?",
+      "public_readiness_prompt": "Define public-safe incident review prompts.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    }
+  ]
+}

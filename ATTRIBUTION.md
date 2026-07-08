@@ -1,46 +1,15 @@
-# Attribution, Citation, and Mark Use
+# Attribution
 
-**Public readiness materials for action acceptance before impact.**  
-**Not a product implementation. Not a standard. No patent license. No certification right.**
+Acceptance Plane™ Public Readiness Kit v0.2.0, Meridian Verity Group. Public readiness materials for action acceptance before impact. Software portions used under MIT; non-software public readiness materials used under CC BY 4.0, unless a file states otherwise.
 
-## Recommended citation for the canonical thesis
+Suggested attribution:
 
-Lee, Scott. Meridian Verity Group. (2026). *The Acceptance Plane: The Missing Trust Layer for Agentic AI Infrastructure* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20645907
+> Adapted from the Acceptance Plane™ Public Readiness Kit v0.2.0 by Meridian Verity Group, used under the repository license split.
 
-## Recommended attribution for this kit
+Boundary:
 
-Acceptance Plane™ Public Readiness Kit v0.1.4, Meridian Verity Group. Public readiness materials for action acceptance before impact. Software portions used under MIT; non-software public readiness materials used under CC BY 4.0, unless a file states otherwise.
+> Not a product implementation. Not a standard. No patent license. No certification right.
 
-## Allowed descriptive use
+Do not imply endorsement, certification, compliance approval, product approval, patent coverage, trademark permission, or implementation permission from Meridian Verity Group.
 
-You may use the public materials to:
-
-- cite or discuss the Acceptance Plane™ public architecture category;
-- adapt scenario cards for tabletop discussion with attribution;
-- use RFP questions or checklists as public readiness prompts;
-- discuss action acceptance before impact as an architecture, governance, and public-interest question;
-- refer descriptively to Acceptance Plane™ as Meridian Verity Group's framework identifier.
-
-## Prohibited or restricted use
-
-This public kit does not authorize you to:
-
-- claim that a product, service, implementation, organization, or vendor is Acceptance Plane™ certified;
-- claim endorsement, approval, compliance status, procurement approval, safety approval, or certification by Meridian Verity Group;
-- use Acceptance Plane™, The Acceptance Plane™, Meridian Verity Group, MVG, logos, or framework identifiers as your own source-identifying marks;
-- imply that this kit grants a patent license, trademark license, service mark license, implementation license, certification right, compliance approval, or production deployment right;
-- present this kit as a formal standard, product specification, API contract, implementation package, conformance suite, certificate registry, or reference implementation;
-- remove the rights-boundary notice from redistributed or adapted public materials.
-
-## Boundary notice to preserve
-
-When reusing substantial portions of the public materials, preserve this notice or a materially equivalent notice:
-
-> Public readiness materials for action acceptance before impact. Not a product implementation. Not a standard. No patent license. No certification right.
-
-No patent license, trademark license, service mark license, product implementation license, certification right, compliance approval, endorsement, or right to use Meridian Verity Group names, logos, marks, or framework identifiers as source-identifying marks is granted.
-
-
-## Version note
-
-For v0.1.4, use the phrase “free public readiness kit with a 5-minute educational scenario-card linter for developers.” Do not describe the kit as a free version, implementation, reference implementation, standard, conformance kit, or certification kit.
+For v0.2.0, use the phrase “free public readiness kit for board-to-builder readiness discussions about action acceptance before impact.” Do not describe the kit as a free version, implementation, standard, conformance kit, certification kit, product SDK, or production verifier.

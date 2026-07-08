@@ -1,15 +1,7 @@
-Meridian Verity Group is releasing the Acceptance Plane™ Public Readiness Kit v0.1.4.
+Meridian Verity Group is releasing Acceptance Plane Public Readiness Kit v0.2.0 — Board-to-Builder Readiness for Action Acceptance Before Impact.
 
-It is a free public readiness kit with a 5-minute educational scenario-card linter for developers.
+The release adds a public readiness index, standards/security crosswalks, scenario coverage reports, workshop materials, procurement due-diligence prompts, and a public-safe bridge to separate conformance artifacts.
 
-The kit includes a 100-scenario public corpus and public materials for discussing action acceptance before impact in agentic AI infrastructure.
+Access is not authority. Permission is not proof. Execution is not acceptance.
 
-Boundary: it is not a product implementation, not a standard, no patent license, and no certification right.
-
-Suggested first step:
-
-```bash
-git clone https://github.com/meridianverity/acceptance-plane-public-readiness-kit.git
-cd acceptance-plane-public-readiness-kit
-make demo
-```
+Boundary: public education and readiness discussion only. Not a product implementation, standard, certification kit, compliance approval, patent license, or production allow/deny system.

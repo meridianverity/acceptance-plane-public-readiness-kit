@@ -1,0 +1,43 @@
+{
+  "source": "NIST AI Risk Management Framework",
+  "source_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+  "scope_boundary": "Educational crosswalk only; not a compliance mapping, certification claim, legal opinion, or formal standards alignment.",
+  "mappings": [
+    {
+      "source_area": "Govern",
+      "acceptance_plane_question": "Who owns the boundary that decides whether autonomous action becomes impact?",
+      "public_readiness_prompt": "Name the accountable owner and escalation path.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Map",
+      "acceptance_plane_question": "What system, user, and consequence context must be known before action acceptance?",
+      "public_readiness_prompt": "Describe action, actor, protected system, target, and affected stakeholders.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Measure",
+      "acceptance_plane_question": "What public evidence categories are sufficient for tabletop discussion of ACCEPT/HOLD/REFUSE?",
+      "public_readiness_prompt": "List current evidence categories and gaps without exposing private schemas.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Manage",
+      "acceptance_plane_question": "What HOLD and REFUSE conditions reduce risk before impact?",
+      "public_readiness_prompt": "Document conditions that pause or block external-impact action.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Transparency",
+      "acceptance_plane_question": "What explanation is needed after a HOLD or REFUSE decision?",
+      "public_readiness_prompt": "Describe decision reasons in public-safe language.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Accountability",
+      "acceptance_plane_question": "What team reviews readiness gaps and near misses?",
+      "public_readiness_prompt": "Identify a forum, cadence, and owner.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "source": "ISO/IEC 42001 AI management system vocabulary",
+  "source_url": "https://www.iso.org/standard/42001",
+  "scope_boundary": "Educational crosswalk only; not a compliance mapping, certification claim, legal opinion, or formal standards alignment.",
+  "mappings": [
+    {
+      "source_area": "AI management system",
+      "acceptance_plane_question": "Where does action acceptance fit inside organizational AI governance?",
+      "public_readiness_prompt": "Identify policy owner, review cadence, and scope.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Risk treatment",
+      "acceptance_plane_question": "What action-level risks require HOLD or REFUSE?",
+      "public_readiness_prompt": "Map risk treatment discussions to public scenario cards.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Lifecycle process",
+      "acceptance_plane_question": "At what lifecycle point is acceptance evidence reviewed?",
+      "public_readiness_prompt": "Name design, procurement, deployment, and incident checkpoints.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Supplier relationship",
+      "acceptance_plane_question": "What buyer questions should be asked of AI-agent vendors?",
+      "public_readiness_prompt": "Use procurement due-diligence questions.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Documentation",
+      "acceptance_plane_question": "What public-safe documentation is enough for readiness discussion?",
+      "public_readiness_prompt": "Use readiness report and workshop notes.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    },
+    {
+      "source_area": "Improvement",
+      "acceptance_plane_question": "How does the team update readiness after incidents or near misses?",
+      "public_readiness_prompt": "Use the tabletop and incident-review templates.",
+      "scope_boundary": "Educational prompt only; not a control requirement or certification criterion."
+    }
+  ]
+}

@@ -1,36 +1,35 @@
-# Release Checklist — v0.1.4
+# Release Checklist — v0.2.0
 
-## Local gates
+Boundary: Not a product implementation. Not a standard. No patent license. No certification right.
 
-- [ ] `make doctor`
-- [ ] `make demo`
-- [ ] `make demo-json`
-- [ ] `make manifest-refresh`
+## Local QA
+
 - [ ] `make qa-clean`
-- [ ] Confirm `provenance/MANIFEST.sha256` is updated.
-- [ ] Confirm `provenance/FILE_TREE.txt` is updated.
-- [ ] Confirm ZIP checksum exists.
+- [ ] `make readiness-demo`
+- [ ] `make crosswalk-check`
+- [ ] `make coverage-check`
+- [ ] `make workshop-demo`
+- [ ] `make external-pointer-check`
+- [ ] `make qa-full`
 
-## Public boundary
+## Release assets
 
-- [ ] README says: “free public readiness kit with a 5-minute educational scenario-card linter for developers.”
-- [ ] README says: “Not a product implementation. Not a standard. No patent license. No certification right.”
-- [ ] No public file describes the kit as a free version, implementation, reference implementation, standard, conformance kit, certification kit, production verifier, or production deployment artifact.
-- [ ] `playbooks/production_boundary_readiness.md` is present.
-- [ ] The former sales-forward playbook filename is absent.
+- [ ] Tag: `v0.2.0`
+- [ ] Release title: `Acceptance Plane Public Readiness Kit v0.2.0 — Board-to-Builder Readiness for Action Acceptance Before Impact`
+- [ ] Asset: `acceptance-plane-public-readiness-kit-v0.2.0.zip`
+- [ ] Checksum asset: `acceptance-plane-public-readiness-kit-v0.2.0.zip.sha256.txt`
+- [ ] Body: `metadata/github_release_body_v0.2.0.md`
 
-## GitHub release
+## Boundary check
 
-- [ ] Repository: `meridianverity/acceptance-plane-public-readiness-kit`
-- [ ] Tag: `v0.1.4`
-- [ ] Release title: `Acceptance Plane™ Public Readiness Kit v0.1.4`
-- [ ] Asset: `acceptance-plane-public-readiness-kit-v0.1.4.zip`
-- [ ] Checksum asset: `acceptance-plane-public-readiness-kit-v0.1.4.zip.sha256`
-- [ ] Body: `launch/github_release_body_v0.1.4.md`
-- [ ] `gh release create` uses `--verify-tag`.
+- [ ] Release body says it is public education/readiness material only.
+- [ ] Release body does not claim implementation, standard, certification, compliance approval, production allow/deny, patent license, or deployment readiness.
+- [ ] External conformance artifacts are referenced only as separate artifacts via pointer lock.
+- [ ] No claim charts, customer mappings, private licensing maps, production evidence schemas, or implementation details are included.
 
-## AAIF posture
+## Hosted provenance after publish
 
-- [ ] Do not submit as an AAIF Hosted Project at this stage.
-- [ ] Use `AAIF_FEEDBACK_INQUIRY.md` only as a feedback / working-group-fit inquiry.
-- [ ] Do not claim donation, contribution, or official AAIF status unless AAIF approves through the required process.
+- [ ] Attach ZIP and SHA sidecar.
+- [ ] Run GitHub artifact attestation workflow.
+- [ ] Enable OpenSSF Scorecard workflow if appropriate for the public repo.
+- [ ] Record release URL and attestation verification command in a follow-up release note.

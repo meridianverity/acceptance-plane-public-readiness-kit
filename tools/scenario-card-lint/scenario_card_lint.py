@@ -141,7 +141,7 @@ def main(argv: list[str]) -> int:
     if args.format == "json":
         payload = {
             "tool": "scenario-card-lint",
-            "tool_version": "0.1.4",
+            "tool_version": "0.2.0",
             "report_type": "educational scenario-card completeness lint only",
             "cards_checked": len(reports),
             "statuses": dict(Counter(report["status"] for report in reports)),

@@ -1,7 +1,7 @@
-# Press note
+# Press Note — Acceptance Plane Public Readiness Kit v0.2.0
 
-Meridian Verity Group is releasing the Acceptance Plane™ Public Readiness Kit v0.1.4, a free public readiness kit with a 5-minute educational scenario-card linter for developers.
+Meridian Verity Group is releasing a free public readiness kit for discussing action acceptance before impact, now expanded from a scenario-card linter into a board-to-builder readiness gateway.
 
-The kit helps developers, buyers, auditors, researchers, public-sector teams, nonprofits, and public-interest organizations discuss action acceptance before impact using public scenario cards and ACCEPT / HOLD / REFUSE tabletop structure.
+The kit includes a 5-minute scenario-card linter, Action Acceptance Readiness Index, standards/security crosswalks, Public Evidence Ladder, workshop materials, procurement question pack, and a public-safe bridge to separate conformance artifacts.
 
-It is not a product implementation, formal standard, reference implementation, conformance suite, certification kit, patent license, or production deployment artifact.
+Boundary: not a product implementation, standard, certification kit, compliance approval, patent license, or production allow/deny system.

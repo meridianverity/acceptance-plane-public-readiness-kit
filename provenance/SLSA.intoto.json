@@ -1,0 +1,34 @@
+{
+  "_type": "https://in-toto.io/Statement/v1",
+  "subject": [
+    {
+      "name": "acceptance-plane-public-readiness-kit-v0.2.0.zip",
+      "digest": {
+        "sha256": "filled-after-build"
+      }
+    }
+  ],
+  "predicateType": "https://slsa.dev/provenance/v1",
+  "predicate": {
+    "buildDefinition": {
+      "buildType": "local-public-readiness-kit-release",
+      "externalParameters": {
+        "version": "0.2.0"
+      },
+      "internalParameters": {
+        "boundary": "public readiness material only"
+      },
+      "resolvedDependencies": []
+    },
+    "runDetails": {
+      "builder": {
+        "id": "local-standard-library-scripts"
+      },
+      "metadata": {
+        "invocationId": "local-v0.2.0",
+        "startedOn": "2026-07-07T00:00:00Z",
+        "finishedOn": "2026-07-07T00:00:00Z"
+      }
+    }
+  }
+}

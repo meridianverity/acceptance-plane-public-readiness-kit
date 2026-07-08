@@ -1,0 +1,17 @@
+{
+  "boundary": "Public pointer lock only. Separate artifacts are not bundled in this readiness kit and this file does not grant conformance, certification, implementation rights, or patent rights.",
+  "artifacts": {
+    "acceptance_plane_interop_gauntlet": {
+      "version": "v0.4.0",
+      "role": "public conformance target",
+      "sha256": "5ba32bbb6d6547cfb2508531323219754c45607ba6d9a34ccd7c699eedd3165b",
+      "boundary": "Separate artifact; not bundled in this readiness kit."
+    },
+    "acceptance_plane_independent_verifier": {
+      "version": "v0.2.0",
+      "role": "second executable verification path",
+      "sha256": "23dbdb480226755a7fcf42cd2f6daacc01ea23066dfdf1f6a3d822f1ebca1e40",
+      "boundary": "Separate artifact; not bundled in this readiness kit."
+    }
+  }
+}
