@@ -1,5 +1,0 @@
-V407 overlay v2 is manual-upload safe.
-
-Upload/merge these files into the repository root.
-
-Important: this v2 overlay intentionally does not include assets2/corpus/dual-gate-conformance/... exploded files. The corpus is packaged as a single ZIP under datasets/dual-gate-conformance-corpus/, and the replay console uses a compact embedded fixture index.
