@@ -9,6 +9,7 @@ make demo
 make qa-clean
 make manifest-refresh
 make qa-clean
+make reproducible-zip-check
 ```
 
 ## Manifest
@@ -19,9 +20,17 @@ make qa-clean
 
 Every shared release ZIP should be accompanied by a `.sha256` file.
 
+## Deterministic ZIP construction
+
+`make qa-full` builds the ZIP with fixed member timestamps, stable Unix file permissions, sorted paths, and a stable single archive root. `make reproducible-zip-check` rebuilds after an mtime-only source-file touch and requires the ZIP SHA-256 to remain unchanged.
+
+## Hosted attestation boundary
+
+The repository intentionally does not bundle a completed in-archive SLSA/in-toto statement for the release ZIP. A ZIP cannot truthfully contain a completed statement that names its own final digest without creating circular provenance. Completed artifact provenance should be generated after build by the GitHub artifact attestation workflow and verified against the released ZIP.
+
 ## Git release tag
 
-Use the release tag `v0.2.0` for this package. Create the tag locally, push it, then create the GitHub release with `--verify-tag` so the release command aborts if the tag is missing.
+Use the release tag `v0.3.4` for this package. Create the tag locally, push it, then create the GitHub release with `--verify-tag` so the release command aborts if the tag is missing.
 
 ## Boundary
 

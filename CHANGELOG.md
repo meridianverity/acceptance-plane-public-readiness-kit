@@ -1,15 +1,65 @@
 # Changelog
 
+## v0.3.4 — 2026-07-08
+
+- Removes the duplicate v0.3.3 changelog heading and visible release-surface wording issues found after v0.3.3.
+- Adds release-surface polish QA so duplicate release headings, repeated-word scars, awkward phrase-family wording, stale active release pointers, and underscore release filenames cannot pass future release gates.
+- Simplifies `make qa-full` so full release QA builds once, verifies directly, and still performs reproducible ZIP checks without recursive release rebuild loops.
+- Publishes canonical dotted v0.3.4 release asset names and metadata while preserving strict public boundaries.
+- Keeps the 300-card public readiness operating system intact: 10 domains, 100 ACCEPT / 100 HOLD / 100 REFUSE, uniqueness QA, language-polish QA, release-surface QA, readiness index, browser demo, report generator, workshop pack, procurement pack, facilitator packet, external conformance bridge, deterministic release verification, and reproducible ZIP check.
+
+## v0.3.3 — 2026-07-08
+
+- Polishes the final ACCEPT-card learning-goal wording issue in the 300-card public readiness corpus.
+- Adds release-gate checks for repeated reaches-before learning-goal phrasing so the issue cannot return.
+- Publishes canonical dotted v0.3.3 release asset names and metadata while preserving strict public boundaries.
+
+## v0.3.2 — 2026-07-08
+
+- Removes final editorial scars from the 300-card public educational corpus, including duplicated-before wording and incorrect incident/operator article usage.
+- Adds scenario language-polish QA to release gates so visible generator scars cannot pass future release QA.
+- Aligns remaining 300-card public corpus language in legal/IP and provenance files.
+- Publishes canonical dotted v0.3.2 release asset names and release metadata while preserving strict public boundaries.
+
+## v0.3.1 — 2026-07-08
+
+- Re-curates the 300-card public educational scenario corpus so every scenario has unique title/scenario, why, human-impact, learning-goal, and acceptance-boundary text.
+- Adds scenario uniqueness QA and wires it into `make qa` / `make qa-full`.
+- Aligns Korean summary language with the v0.3.x 300-card corpus.
+- Canonicalizes release-facing commands, metadata, ZIP asset names, and sidecar names around dotted `v0.3.1` filenames.
+- Retains deterministic ZIP packaging, manifest verification, release artifact verification, reproducible ZIP checks, figure DOI checks, and public boundary QA.
+
+
+## v0.3.0 — 2026-07-08
+
+- Promotes the kit from an integrity-and-stewardship release into a public readiness operating system.
+- Expands the public educational scenario corpus from 100 to 300 cards across ten domains while preserving public-only boundaries.
+- Adds a browser-only static readiness demo with no network dependency.
+- Adds a Markdown/JSON public readiness report generator.
+- Adds crosswalk coverage heatmap output.
+- Adds a third-party facilitator reproduction packet and public adoption evidence template.
+- Updates release metadata, manifest, file tree, QA report, boundary QA, and deterministic packaging for v0.3.0.
+- Preserves the public/private boundary: no production verifier, exact evidence schema, cryptographic binding, non-bypassable enforcement adapter, conformance vectors, certificate registry, partner deployment, or patent claim chart.
+
+## v0.2.1 — 2026-07-08
+
+- Fixes stale DOI text in the rendered PNG figures by regenerating them from the current SVG sources.
+- Removes the misleading local SLSA placeholder and clarifies that hosted artifact attestation is generated after build.
+- Makes release ZIP construction deterministic by fixing ZIP member timestamps, Unix permissions, ordering, compression inputs, and sidecar output.
+- Adds a reproducible ZIP check to the release QA path so mtime-only changes do not alter the release artifact digest.
+- Updates release metadata, CFF dates, workflows, release guides, SBOM labels, and public-state guard files for v0.2.1.
+- Adds long-horizon stewardship guidance and a figure rendering provenance note while preserving the public/private boundary.
+
 ## v0.2.0 — 2026-07-07
 
 - Promotes the public readiness kit from a scenario-card-only educational package into a board-to-builder adoption gateway.
 - Adds the Action Acceptance Readiness Index with sample assessment and report output.
 - Adds public-safe crosswalks for NIST AI RMF, OWASP agentic-AI materials, Five Eyes/CISA agentic-AI guidance, and ISO/IEC 42001 language.
 - Adds the Public Evidence Ladder and a readiness-to-conformance handoff bridge to separate external artifacts.
-- Adds scenario coverage reports for the 100-card public corpus.
+- Adds scenario coverage reports for the initial public corpus, later expanded and curated to the 300-card v0.3.x public corpus.
 - Adds board, CISO/platform, procurement, and incident-tabletop workshop materials.
 - Adds procurement due-diligence questions, RFP clauses, red flags, and non-certification language.
-- Adds release ZIP build/verification tools, release pointer metadata, provenance workflow skeletons, SPDX/SLSA metadata, and stronger boundary QA.
+- Adds release ZIP build/verification tools, release pointer metadata, provenance workflow skeletons, SPDX metadata and hosted-attestation guidance, and stronger boundary QA.
 
 ## v0.1.4 — 2026-06-25
 

@@ -1,0 +1,50 @@
+{
+  "sources": {
+    "Five Eyes / CISA agentic AI adoption guidance": {
+      "mappings": 6,
+      "source_areas": {
+        "Behavioral uncertainty": 1,
+        "Careful adoption": 1,
+        "Design and configuration": 1,
+        "Operational monitoring": 1,
+        "Privilege and access": 1,
+        "Resilience and reversibility": 1
+      }
+    },
+    "ISO/IEC 42001 AI management system vocabulary": {
+      "mappings": 6,
+      "source_areas": {
+        "AI management system": 1,
+        "Documentation": 1,
+        "Improvement": 1,
+        "Lifecycle process": 1,
+        "Risk treatment": 1,
+        "Supplier relationship": 1
+      }
+    },
+    "NIST AI Risk Management Framework": {
+      "mappings": 6,
+      "source_areas": {
+        "Accountability": 1,
+        "Govern": 1,
+        "Manage": 1,
+        "Map": 1,
+        "Measure": 1,
+        "Transparency": 1
+      }
+    },
+    "OWASP Agentic AI security materials": {
+      "mappings": 6,
+      "source_areas": {
+        "Agent authority": 1,
+        "Goal and behavior risk": 1,
+        "Monitoring and response": 1,
+        "Privilege risk": 1,
+        "Supply-chain context": 1,
+        "Tool-use abuse": 1
+      }
+    }
+  },
+  "total_mappings": 24,
+  "boundary": "public crosswalk coverage only; not compliance mapping, certification, legal opinion, or standards approval"
+}

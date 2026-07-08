@@ -1,44 +1,29 @@
-# GitHub Upload Guide — v0.2.0
+# GitHub Upload Guide — v0.3.4
 
-Boundary: Not a product implementation. Not a standard. No patent license. No certification right.
-
-## Local release build
+Run locally before publication:
 
 ```bash
 make qa-full
+sha256sum -c dist/acceptance-plane-public-readiness-kit-v0.3.4.zip.sha256.txt
 ```
 
 Expected assets:
 
 ```text
-dist/acceptance-plane-public-readiness-kit-v0.2.0.zip
-dist/acceptance-plane-public-readiness-kit-v0.2.0.zip.sha256.txt
+dist/acceptance-plane-public-readiness-kit-v0.3.4.zip
+dist/acceptance-plane-public-readiness-kit-v0.3.4.zip.sha256.txt
 ```
 
-## Tag and release
+Publish:
 
 ```bash
-git status --short
 git add .
-git commit -m "Release Acceptance Plane Public Readiness Kit v0.2.0"
-git tag -a v0.2.0 -m "Acceptance Plane Public Readiness Kit v0.2.0"
+git commit -m "Release Acceptance Plane Public Readiness Kit v0.3.4"
+git tag -a v0.3.4 -m "Acceptance Plane Public Readiness Kit v0.3.4"
 git push origin main
-git push origin v0.2.0
+git push origin v0.3.4
 
-gh release create v0.2.0   dist/acceptance-plane-public-readiness-kit-v0.2.0.zip   dist/acceptance-plane-public-readiness-kit-v0.2.0.zip.sha256.txt   --repo meridianverity/acceptance-plane-public-readiness-kit   --title "Acceptance Plane Public Readiness Kit v0.2.0 — Board-to-Builder Readiness for Action Acceptance Before Impact"   --notes-file metadata/github_release_body_v0.2.0.md   --verify-tag
+gh release create v0.3.4   dist/acceptance-plane-public-readiness-kit-v0.3.4.zip   dist/acceptance-plane-public-readiness-kit-v0.3.4.zip.sha256.txt   --repo meridianverity/acceptance-plane-public-readiness-kit   --title "Acceptance Plane Public Readiness Kit v0.3.4 — Release-Surface Locked Public Readiness Corpus for Action Acceptance Before Impact"   --notes-file metadata/github_release_body_v0.3.4.md   --verify-tag
 ```
 
-## Optional hosted provenance
-
-After release, run the artifact attestation workflow and record the verification command:
-
-```bash
-gh attestation verify acceptance-plane-public-readiness-kit-v0.2.0.zip   -R meridianverity/acceptance-plane-public-readiness-kit
-```
-
-Hosted attestation is public-release provenance. The local SLSA-shaped file in `provenance/SLSA.intoto.json` is a local release record only.
-
-
-## v0.2.0 public-state guard
-
-Before announcing v0.2.0 externally, confirm the public GitHub release page shows tag `v0.2.0`, the uploaded ZIP, and the matching SHA-256 sidecar. See `metadata/public_release_state_note_v0.2.0.md`.
+Hosted attestation should be attached by GitHub Actions after public build. Local JSON is not a substitute for hosted provenance.

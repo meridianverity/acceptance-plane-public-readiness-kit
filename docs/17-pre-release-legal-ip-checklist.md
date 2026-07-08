@@ -37,7 +37,7 @@ This checklist is a release hygiene tool, not legal advice. Use appropriate coun
 ## Provenance and QA
 
 - [ ] Full-repo boundary QA passes.
-- [ ] Scenario-card linter passes across the 100-card corpus.
+- [ ] Scenario-card linter passes across the 300-card public corpus.
 - [ ] Strict manifest verification passes and fails on unmanifested files.
 - [ ] `provenance/FILE_TREE.txt`, `provenance/QA_REPORT.md`, and `provenance/SOURCES.md` are current and included in the manifest.
 - [ ] ZIP integrity test passes.

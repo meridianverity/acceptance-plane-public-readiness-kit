@@ -1,7 +1,5 @@
-Meridian Verity Group is releasing Acceptance Plane Public Readiness Kit v0.2.0 — Board-to-Builder Readiness for Action Acceptance Before Impact.
+Meridian Verity Group is preparing Acceptance Plane Public Readiness Kit v0.3.4 — Release-Surface Locked Public Readiness Corpus for Action Acceptance Before Impact.
 
-The release adds a public readiness index, standards/security crosswalks, scenario coverage reports, workshop materials, procurement due-diligence prompts, and a public-safe bridge to separate conformance artifacts.
+Public-safe positioning: the public front door for organizations deciding whether autonomous action can become impact — and when they must move from readiness discussion to independent conformance evidence.
 
-Access is not authority. Permission is not proof. Execution is not acceptance.
-
-Boundary: public education and readiness discussion only. Not a product implementation, standard, certification kit, compliance approval, patent license, or production allow/deny system.
+Boundary: public education and readiness discussion only; not an implementation, standard, certification kit, compliance approval, patent license, production verifier, or production allow/deny system.
