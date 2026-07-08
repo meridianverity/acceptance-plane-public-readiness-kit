@@ -1,19 +1,5 @@
-# Repository about text
+# Repository about — v0.3.4
 
-Description:
+Free public readiness kit for discussing action acceptance before impact. Includes scenario-card linting, readiness indexing, public reports, workshop support, procurement prompts, and public-safe handoff language to separate conformance artifacts.
 
-```text
-Free public readiness kit for discussing action acceptance before impact, with a 5-minute educational scenario-card linter. Not an implementation, standard, certification kit, or patent license.
-```
-
-Website:
-
-```text
-https://meridianverity.com/
-```
-
-Topics:
-
-```text
-agentic-ai, ai-infrastructure, ai-security, ai-governance, action-acceptance, acceptance-plane, public-readiness, scenario-cards, developer-tools, ai-safety
-```
+Not an implementation, standard, certification kit, compliance approval, patent license, or production allow/deny system.

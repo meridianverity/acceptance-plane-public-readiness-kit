@@ -6,7 +6,11 @@ from pathlib import Path
 from collections import Counter, defaultdict
 
 ROOT=Path(__file__).resolve().parents[2]
-BATCHES=[ROOT/'scenarios_batch_1', ROOT/'scenarios_batch_2']
+BATCHES=sorted(p for p in ROOT.glob('scenarios_batch_*') if p.is_dir())
+EXPECTED_CARDS=300
+EXPECTED_DOMAINS=10
+EXPECTED_PER_DOMAIN=30
+MIN_DECISION_COVERAGE=90
 OUT=ROOT/'scenario_coverage'
 BOUNDARY='coverage for education only; not conformance coverage, certification coverage, compliance coverage, or implementation test coverage'
 
@@ -53,11 +57,11 @@ def main(argv):
     if args.write: write_reports()
     cs,domains,decisions,risk,evidence,_=compute()
     errors=[]
-    if len(cs)!=100: errors.append(f'expected 100 cards, found {len(cs)}')
-    if len(domains)!=10: errors.append(f'expected 10 domains, found {len(domains)}')
-    if any(v!=10 for v in domains.values()): errors.append(f'domain imbalance: {dict(domains)}')
+    if len(cs)!=EXPECTED_CARDS: errors.append(f'expected {EXPECTED_CARDS} cards, found {len(cs)}')
+    if len(domains)!=EXPECTED_DOMAINS: errors.append(f'expected {EXPECTED_DOMAINS} domains, found {len(domains)}')
+    if any(v!=EXPECTED_PER_DOMAIN for v in domains.values()): errors.append(f'domain imbalance: {dict(domains)}')
     for label in ['ACCEPT','HOLD','REFUSE']:
-        if decisions.get(label,0)<30: errors.append(f'decision label under-covered: {label}={decisions.get(label,0)}')
+        if decisions.get(label,0)<MIN_DECISION_COVERAGE: errors.append(f'decision label under-covered: {label}={decisions.get(label,0)}')
     if len(evidence)<12: errors.append(f'expected at least 12 evidence categories, found {len(evidence)}')
     if errors:
         print('scenario coverage: FAIL')
@@ -65,11 +69,11 @@ def main(argv):
         return 1
     print('scenario coverage: PASS')
     print(f'Cards: {len(cs)}')
-    print(f'Domains: {len(domains)} / 10 balanced')
-    print('Decision labels:', dict(decisions))
+    print(f'Domains: {len(domains)} / {EXPECTED_DOMAINS} balanced')
+    print(f'Decision labels: {dict(decisions)}')
     print(f'Evidence categories: {len(evidence)} / 12 covered')
     print(f'High-consequence coverage: {round(risk.get("high-consequence",0)/len(cs)*100)}%')
-    print('Coverage status: PUBLIC_DISCUSSION_CORPUS_READY')
-    print('Boundary:', BOUNDARY)
+    print('Coverage status: PUBLIC_READINESS_OPERATING_CORPUS_READY')
+    print('Boundary:',BOUNDARY)
     return 0
 if __name__=='__main__': raise SystemExit(main(sys.argv))

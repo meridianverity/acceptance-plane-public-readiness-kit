@@ -1,6 +1,6 @@
 Git checkout QA test
 Date: 2026-07-08
-Release: v0.2.0
+Release: v0.3.4
 
 Procedure:
 - initialized a local Git repository with `git init`
@@ -13,6 +13,6 @@ PASS
 Key result:
 - Manifest verification ignores `.git/` local VCS state while remaining strict for release files.
 - Public boundary QA passed with 0 unsafe hits.
-- Scenario-card linter passed across the 100-card public corpus in scenarios_batch_1/ and scenarios_batch_2/.
+- Scenario-card linter passed across the 300-card public corpus in scenarios_batch_1/ through scenarios_batch_6/.
 - Readiness index, crosswalk lint, scenario coverage, workshop generation, external pointer lock, and release artifact verification all passed.
 - Generated Python cache files are removed before and after QA.

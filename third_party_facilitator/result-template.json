@@ -1,0 +1,10 @@
+{
+  "artifact": "acceptance-plane-public-readiness-kit",
+  "version": "0.3.4",
+  "fresh_zip_sha256": "",
+  "qa_full_result": "PASS/FAIL",
+  "scenario_cards_observed": 300,
+  "readiness_report_generated": false,
+  "facilitator_notes": "public notes only; no confidential implementation detail",
+  "boundary": "public facilitator reproduction only; not certification, compliance approval, production readiness, procurement approval, conformance approval, implementation validation, or patent license"
+}

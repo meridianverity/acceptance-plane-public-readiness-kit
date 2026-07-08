@@ -4,6 +4,7 @@ ai-security
 ai-governance
 action-acceptance
 acceptance-plane
+fail-closed-autonomy
 public-readiness
 scenario-cards
 readiness-index

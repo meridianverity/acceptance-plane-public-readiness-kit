@@ -1,6 +1,6 @@
 # Public Boundary
 
-This file is the root-level public boundary pointer for the Acceptance Plane Public Readiness Kit v0.2.0.
+This file is the root-level public boundary pointer for the Acceptance Plane Public Readiness Kit v0.3.4.
 
 ## What this kit is
 

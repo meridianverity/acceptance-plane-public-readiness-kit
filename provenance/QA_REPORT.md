@@ -1,34 +1,25 @@
-# QA Report — Acceptance Plane Public Readiness Kit v0.2.0
+# QA Report — Acceptance Plane Public Readiness Kit v0.3.4
 
-Boundary: public readiness material only. Not implementation, standard, certification kit, compliance approval, patent license, or production allow/deny system.
+Result: PASS. Verified by `make qa-full` for the v0.3.4 release artifact.
 
 Expected gates:
 
-```text
-make qa-clean                         PASS
-make readiness-demo                   PASS
-make crosswalk-check                  PASS
-make coverage-check                   PASS
-make workshop-demo                    PASS
-make external-pointer-check           PASS
-python3 scripts/verify_manifest.py    PASS
-python3 scripts/verify_release_artifact.py <zip> --sha256-file <sha> PASS
-python3 scripts/public_boundary_qa.py PASS
-```
+- unit tests: PASS
+- scenario-card linter: PASS — 300 cards
+- scenario uniqueness QA: PASS — no id-normalized duplicates, no title/scenario duplicates, no repeated high-signal explanatory fields
+- readiness index: PASS
+- public report generator: PASS
+- browser demo check: PASS — network not required
+- crosswalk lint: PASS
+- crosswalk coverage: PASS
+- scenario coverage: PASS — 300 cards / 10 domains / 100 ACCEPT / 100 HOLD / 100 REFUSE
+- workshop pack: PASS
+- facilitator packet: PASS
+- external pointer check: PASS
+- figure asset verification: PASS
+- public boundary QA: PASS
+- manifest verification: PASS
+- release artifact verification: PASS
+- reproducible ZIP check: PASS
 
-Coverage summary:
-
-- Scenario cards: 100
-- Domains: 10
-- Decision labels: ACCEPT/HOLD/REFUSE balanced for public discussion
-- Readiness index items: 50
-- Crosswalks: NIST AI RMF / OWASP agentic AI / Five Eyes-CISA / ISO/IEC 42001
-- Workshop flows: board / CISO-platform / procurement / incident tabletop
-- External pointer lock: gauntlet v0.4.0 + independent verifier v0.2.0
-- Boundary scan: expected 0 unsafe hits
-
-- Current canonical DOI/title alignment: `10.5281/zenodo.20683834` / *The Acceptance Plane: A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts*
-- Broken root boundary reference: fixed via `PUBLIC_BOUNDARY.md`
-- Release audit wording: PASS wording finalized
-
-- Micro-HOLD fix audit: `provenance/MICRO_HOLD_FIX_AUDIT_v0.2.0.md`
+Boundary: QA report only. Not certification, compliance approval, production readiness, conformance testing, or an allow/deny decision.

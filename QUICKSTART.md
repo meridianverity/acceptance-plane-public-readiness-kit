@@ -1,4 +1,4 @@
-# Quickstart — Acceptance Plane Public Readiness Kit v0.2.0
+# Quickstart — Acceptance Plane Public Readiness Kit v0.3.4
 
 Boundary: Not a product implementation. Not a standard. No patent license. No certification right.
 
@@ -49,4 +49,19 @@ make qa-clean
 make qa-full
 ```
 
-This builds `dist/acceptance-plane-public-readiness-kit-v0.2.0.zip`, writes a SHA-256 sidecar, and verifies archive shape, path safety, CRC, manifest entries, and file hashes.
+This builds `dist/acceptance-plane-public-readiness-kit-v0.3.4.zip`, writes a SHA-256 sidecar, verifies archive shape/path safety/CRC/manifest entries/file hashes, and checks deterministic rebuild behavior.
+
+## v0.3.4 public readiness operating-system checks
+
+```bash
+make report-demo
+make browser-demo-check
+make facilitator-check
+```
+
+Boundary: public readiness discussion only; not certification, compliance approval, production readiness, or an allow/deny decision.
+
+
+## v0.3.4 language-polish and learning-goal polish gate
+
+Run `make scenario-language-polish-check` to verify that the 300-card public educational corpus does not contain visible wording scars such as a duplicated `before` token, incorrect article before `incident`, or incorrect article before `operator`. This is editorial QA only, not certification, conformance testing, production readiness, or an allow/deny decision.

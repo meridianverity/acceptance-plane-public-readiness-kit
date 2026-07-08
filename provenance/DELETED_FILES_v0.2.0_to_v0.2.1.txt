@@ -1,0 +1,8 @@
+provenance/SLSA.intoto.json
+provenance/SLSA.template.intoto.json
+launch/git_publish_commands_v0.2.0.sh
+launch/github_release_body_v0.2.0.md
+launch/upload_strategy_v0.2.0.md
+metadata/github_release_body_v0.2.0.md
+metadata/public_release_state_note_v0.2.0.md
+metadata/release_pointer_lock_v0.2.0.md

@@ -1,17 +1,9 @@
-# Release Audit — Acceptance Plane Public Readiness Kit v0.2.0
+# Release Audit — Acceptance Plane Public Readiness Kit v0.3.4
 
-Boundary: public readiness material only. Not implementation, standard, certification kit, compliance approval, patent license, or production allow/deny system.
+Result: PASS. Verified by `make qa-full` for the v0.3.4 release artifact.
 
-Release audit gates:
+Release integrity checks include deterministic ZIP construction, SHA-256 sidecar, single-root archive shape, path safety, ZIP CRC, strict manifest verification, public boundary QA, figure DOI verification, and reproducible ZIP check.
 
-- Scenario-card linter over 100 cards.
-- Action Acceptance Readiness Index sample.
-- Standards/security crosswalk lint.
-- Scenario coverage check.
-- Workshop packet generation.
-- External artifact pointer lock check.
-- Public boundary QA.
-- Strict manifest verification.
-- Release ZIP verification: SHA sidecar, CRC, path safety, single-root archive, manifest/file hash match.
+Corpus stewardship checks include the 300-card scenario linter, scenario coverage, and scenario uniqueness QA.
 
-Result: PASS. Verified by `make qa-full` for the v0.2.0 release artifact.
+Boundary: release audit only. Not certification, compliance approval, production readiness, conformance testing, or an allow/deny decision.

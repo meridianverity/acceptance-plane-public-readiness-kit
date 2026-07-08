@@ -1,0 +1,28 @@
+{
+  "version": "0.3.4",
+  "boundary": "Figure asset lock for public release integrity only. Not certification, conformance approval, production readiness, or implementation evidence.",
+  "canonical_doi": "10.5281/zenodo.20683834",
+  "render_note": "PNG figures were regenerated from the DOI-aligned SVG sources during the v0.2.1 hold-fix pass, hash-locked, and re-verified during v0.3.4 packaging.",
+  "figures": [
+    {
+      "name": "acceptance-plane-stack",
+      "svg": "figures/acceptance-plane-stack.svg",
+      "svg_sha256": "7ddef2a02572ca7aa680d674a0cabee30c8790841d234bd398d4434d9c26429c",
+      "png": "figures/acceptance-plane-stack.png",
+      "png_sha256": "c2750f6ab89efa933a2bd12a452aa6686cd8da90be724de11fbf87fe72badb21",
+      "png_width": 1600,
+      "png_height": 1000,
+      "required_svg_text": "Canonical DOI: 10.5281/zenodo.20683834"
+    },
+    {
+      "name": "acceptance-plane-workflow",
+      "svg": "figures/acceptance-plane-workflow.svg",
+      "svg_sha256": "1d4cf98013624401f7e91a986a4c118129a8262015eac99001433e3b94b7eaeb",
+      "png": "figures/acceptance-plane-workflow.png",
+      "png_sha256": "0dac607cdc3345302eb08c350d4a79eefd40bef8a66e5e43a9e1ed9c50ae5266",
+      "png_width": 1600,
+      "png_height": 1100,
+      "required_svg_text": "Canonical DOI: 10.5281/zenodo.20683834"
+    }
+  ]
+}

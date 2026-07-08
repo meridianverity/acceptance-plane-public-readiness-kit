@@ -1,0 +1,6 @@
+launch/git_publish_commands_v0.3.2.sh
+launch/github_release_body_v0.3.2.md
+launch/upload_strategy_v0.3.2.md
+metadata/github_release_body_v0.3.2.md
+metadata/public_release_state_note_v0.3.2.md
+metadata/release_pointer_lock_v0.3.2.md
