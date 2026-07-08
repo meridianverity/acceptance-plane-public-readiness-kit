@@ -26,3 +26,9 @@ Coverage summary:
 - Workshop flows: board / CISO-platform / procurement / incident tabletop
 - External pointer lock: gauntlet v0.4.0 + independent verifier v0.2.0
 - Boundary scan: expected 0 unsafe hits
+
+- Current canonical DOI/title alignment: `10.5281/zenodo.20683834` / *The Acceptance Plane: A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts*
+- Broken root boundary reference: fixed via `PUBLIC_BOUNDARY.md`
+- Release audit wording: PASS wording finalized
+
+- Micro-HOLD fix audit: `provenance/MICRO_HOLD_FIX_AUDIT_v0.2.0.md`

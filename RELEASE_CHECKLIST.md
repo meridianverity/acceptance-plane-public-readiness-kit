@@ -33,3 +33,8 @@ Boundary: Not a product implementation. Not a standard. No patent license. No ce
 - [ ] Run GitHub artifact attestation workflow.
 - [ ] Enable OpenSSF Scorecard workflow if appropriate for the public repo.
 - [ ] Record release URL and attestation verification command in a follow-up release note.
+
+
+## v0.2.0 public-state guard
+
+Before announcing v0.2.0 externally, confirm the public GitHub release page shows tag `v0.2.0`, the uploaded ZIP, and the matching SHA-256 sidecar. See `metadata/public_release_state_note_v0.2.0.md`.

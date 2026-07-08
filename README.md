@@ -12,7 +12,7 @@ This kit helps boards, buyers, auditors, CISOs, platform teams, public-sector te
 
 ## What changed in v0.2.0
 
-v0.1.4 was a clean public educational kit with a 5-minute scenario-card linter. v0.2.0 turns the same public boundary into a board-to-builder readiness gateway:
+The v0.1.x line was a clean public educational kit with a 5-minute scenario-card linter. v0.2.0 turns the same public boundary into a board-to-builder readiness gateway:
 
 - **Action Acceptance Readiness Index**: a public discussion maturity score that produces a HOLD-style readiness report without claiming certification or production readiness.
 - **Standards/security crosswalks**: public-safe prompts aligned to NIST AI RMF, OWASP agentic-AI security materials, Five Eyes/CISA agentic-AI guidance, and ISO/IEC 42001 vocabulary.
@@ -107,9 +107,11 @@ This public kit does **not** grant any patent license, trademark license, servic
 
 ## Citation
 
-Canonical public architecture thesis:
+Current canonical public architecture record:
 
-Lee, Scott. Meridian Verity Group. (2026). *The Acceptance Plane: The Missing Trust Layer for Agentic AI Infrastructure* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20645907
+Lee, Scott. Meridian Verity Group. (2026). *The Acceptance Plane: A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts* (MVG-AP-TR-2026-06-v2.0.2). Zenodo. https://doi.org/10.5281/zenodo.20683834
+
+This readiness kit is a public educational supplement to that record. Earlier v1.0.0 thesis language may appear in historical changelog notes only.
 
 ## Release principle
 

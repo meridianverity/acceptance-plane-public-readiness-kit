@@ -29,3 +29,13 @@ acceptance-plane-public-readiness-kit-v0.2.0.zip.sha256.txt
 ## Strict scope
 
 This kit is for public education, readiness discussion, procurement alignment, tabletop review, and category literacy only. It does not include production verifier logic, cryptographic binding methods, exact evidence schemas, non-bypassable enforcement mechanisms, conformance vectors, certification rights, patent claim charts, or implementation licenses.
+
+
+## Citation alignment
+
+Current canonical public architecture record: *The Acceptance Plane: A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts* (Meridian Verity Group Technical Report No. MVG-AP-TR-2026-06-v2.0.2), DOI `10.5281/zenodo.20683834`.
+
+
+## Public release state guard
+
+Do not announce v0.2.0 as released until the GitHub release page shows tag `v0.2.0` and the uploaded asset checksum matches the published SHA-256 sidecar.

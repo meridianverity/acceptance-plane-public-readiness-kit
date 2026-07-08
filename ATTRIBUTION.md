@@ -13,3 +13,8 @@ Boundary:
 Do not imply endorsement, certification, compliance approval, product approval, patent coverage, trademark permission, or implementation permission from Meridian Verity Group.
 
 For v0.2.0, use the phrase “free public readiness kit for board-to-builder readiness discussions about action acceptance before impact.” Do not describe the kit as a free version, implementation, standard, conformance kit, certification kit, product SDK, or production verifier.
+
+
+## Current canonical public architecture record
+
+Lee, Scott. 2026. *The Acceptance Plane: A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts*. Meridian Verity Group Technical Report No. MVG-AP-TR-2026-06-v2.0.2. DOI: `10.5281/zenodo.20683834`.

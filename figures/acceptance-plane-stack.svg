@@ -27,5 +27,5 @@
 <text x="180" y="804" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#222">The Acceptance Plane determines whether a specific autonomous AI action should be accepted before impact,</text>
 <text x="268" y="840" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#222">based on current, scope-bound, verifier-ready evidence at the acceptance boundary.</text>
 <text x="326" y="928" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111">The Acceptance Plane decides whether an autonomous AI action becomes a real-world consequence.</text>
-<text x="1220" y="966" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#555">Canonical DOI: 10.5281/zenodo.20645907</text>
+<text x="1220" y="966" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#555">Canonical DOI: 10.5281/zenodo.20683834</text>
 </svg>

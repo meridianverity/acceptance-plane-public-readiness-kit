@@ -21,7 +21,7 @@ Every shared release ZIP should be accompanied by a `.sha256` file.
 
 ## Git release tag
 
-Use a standard release tag such as `v0.1.4`. Create the tag locally, push it, then create the GitHub release with `--verify-tag` so the release command aborts if the tag is missing.
+Use the release tag `v0.2.0` for this package. Create the tag locally, push it, then create the GitHub release with `--verify-tag` so the release command aborts if the tag is missing.
 
 ## Boundary
 

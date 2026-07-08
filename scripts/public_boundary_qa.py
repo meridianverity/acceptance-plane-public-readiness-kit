@@ -10,7 +10,7 @@ VERSION = "0.2.0"
 SCENARIO_BATCHES = [ROOT / "scenarios_batch_1", ROOT / "scenarios_batch_2"]
 VALID_DECISIONS = {"ACCEPT", "HOLD", "REFUSE"}
 REQUIRED_NOTICE = "Not a product implementation. Not a standard. No patent license. No certification right."
-CANONICAL_DOI = "10.5281/zenodo.20645907"
+CANONICAL_DOI = "10.5281/zenodo.20683834"
 TEXT_SUFFIXES = {"", ".cff", ".csv", ".gitignore", ".gitattributes", ".editorconfig", ".json", ".md", ".py", ".sh", ".txt", ".yaml", ".yml"}
 TEXT_FILENAMES = {"LICENSE", "NOTICE", "VERSION", "Makefile"}
 EXCLUDE_FROM_TEXT_SCAN = {"provenance/MANIFEST.sha256"}
@@ -61,6 +61,7 @@ def check_versions_and_core():
     cff=require('CITATION.cff')
     if f'version: "{VERSION}"' not in cff: errors.append('CITATION.cff version mismatch')
     if CANONICAL_DOI not in cff or 'preferred-citation:' not in cff: errors.append('CITATION.cff missing preferred DOI')
+    if 'A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts' not in cff: errors.append('CITATION.cff missing current public record title')
     zen=json.loads(require('.zenodo.json') or '{}')
     if zen.get('version')!=VERSION: errors.append('.zenodo.json version mismatch')
     if not any(r.get('identifier')==CANONICAL_DOI for r in zen.get('related_identifiers',[])): errors.append('.zenodo.json missing canonical DOI')
@@ -72,7 +73,7 @@ def check_required_new_files():
     required=[
         'readiness/action_acceptance_readiness_index.schema.json','readiness/index_items.json','readiness/scoring_model.md','readiness/sample_readiness_assessment.json','readiness/sample_readiness_report.md',
         'crosswalks/README.md','crosswalks/crosswalk.schema.json','crosswalks/nist_ai_rmf_crosswalk.json','crosswalks/owasp_agentic_ai_crosswalk.json','crosswalks/five_eyes_agentic_ai_crosswalk.json','crosswalks/iso_iec_42001_crosswalk.json',
-        'docs/25-public-evidence-ladder.md','docs/26-readiness-to-conformance-bridge.md',
+        'docs/25-public-evidence-ladder.md','docs/26-readiness-to-conformance-bridge.md','PUBLIC_BOUNDARY.md',
         'metadata/external_artifact_pointer_lock.json','metadata/external_artifact_pointer_lock.schema.json','metadata/github_release_body_v0.2.0.md','metadata/release_pointer_lock_v0.2.0.md',
         'scenario_coverage/domain_coverage_matrix.csv','scenario_coverage/decision_balance_report.json','scenario_coverage/evidence_category_heatmap.json','scenario_coverage/scenario_taxonomy.md',
         'workshops/30_min_board_briefing.md','workshops/60_min_ciso_platform_review.md','workshops/90_min_procurement_vendor_review.md','workshops/2_hour_incident_tabletop.md','workshops/facilitator_guide.md','workshops/participant_worksheet.md',

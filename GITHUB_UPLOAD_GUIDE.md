@@ -37,3 +37,8 @@ gh attestation verify acceptance-plane-public-readiness-kit-v0.2.0.zip   -R meri
 ```
 
 Hosted attestation is public-release provenance. The local SLSA-shaped file in `provenance/SLSA.intoto.json` is a local release record only.
+
+
+## v0.2.0 public-state guard
+
+Before announcing v0.2.0 externally, confirm the public GitHub release page shows tag `v0.2.0`, the uploaded ZIP, and the matching SHA-256 sidecar. See `metadata/public_release_state_note_v0.2.0.md`.

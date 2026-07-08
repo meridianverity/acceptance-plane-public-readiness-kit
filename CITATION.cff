@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this public readiness kit, cite the repository and the preferred canonical architecture thesis."
+message: "If you use this public readiness kit, cite the repository and the current canonical public architecture record."
 title: "Acceptance Plane Public Readiness Kit"
 version: "0.2.0"
-date-released: "2026-07-07"
+date-released: "2026-07-08"
 authors:
   - family-names: "Lee"
     given-names: "Scott"
@@ -10,11 +10,11 @@ repository-code: "https://github.com/meridianverity/acceptance-plane-public-read
 license: "MIT AND CC-BY-4.0"
 preferred-citation:
   type: report
-  title: "The Acceptance Plane: The Missing Trust Layer for Agentic AI Infrastructure"
+  title: "The Acceptance Plane: A Public Trust Architecture for Agentic AI Action Acceptance and Verifier-Ready Receipts"
   authors:
     - family-names: "Lee"
       given-names: "Scott"
   date-released: "2026"
   identifiers:
     - type: doi
-      value: "10.5281/zenodo.20645907"
+      value: "10.5281/zenodo.20683834"

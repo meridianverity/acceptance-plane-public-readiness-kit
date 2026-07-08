@@ -1,17 +1,18 @@
 Git checkout QA test
-Date: 2026-06-25
-Release: v0.1.4
+Date: 2026-07-08
+Release: v0.2.0
 
 Procedure:
 - initialized a local Git repository with `git init`
 - renamed the branch to `main`
-- ran `make qa-clean`, including standard-library unit tests
+- ran `make qa-full`, including standard-library unit tests, readiness index, crosswalk lint, coverage check, workshop generation, external pointer check, public-boundary QA, manifest verification, and release ZIP verification
 
 Result:
 PASS
 
 Key result:
 - Manifest verification ignores `.git/` local VCS state while remaining strict for release files.
-- Public boundary QA passed.
+- Public boundary QA passed with 0 unsafe hits.
 - Scenario-card linter passed across the 100-card public corpus in scenarios_batch_1/ and scenarios_batch_2/.
+- Readiness index, crosswalk lint, scenario coverage, workshop generation, external pointer lock, and release artifact verification all passed.
 - Generated Python cache files are removed before and after QA.

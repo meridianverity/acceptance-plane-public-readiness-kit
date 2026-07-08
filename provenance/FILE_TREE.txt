@@ -26,6 +26,7 @@ MAINTAINERS.md
 Makefile
 NOTICE
 PATENT_AND_TRADEMARK_NOTICE.md
+PUBLIC_BOUNDARY.md
 QUICKSTART.md
 README.md
 README_ko.md
@@ -99,6 +100,7 @@ launch/upload_strategy_v0.2.0.md
 metadata/external_artifact_pointer_lock.json
 metadata/external_artifact_pointer_lock.schema.json
 metadata/github_release_body_v0.2.0.md
+metadata/public_release_state_note_v0.2.0.md
 metadata/release_pointer_lock_v0.2.0.md
 metadata/repo_about.md
 metadata/repo_description.txt
@@ -116,6 +118,7 @@ provenance/DELETED_FILES_v0.1.4_to_v0.2.0.txt
 provenance/FILE_TREE.txt
 provenance/GIT_CHECKOUT_TEST.txt
 provenance/MANIFEST.sha256
+provenance/MICRO_HOLD_FIX_AUDIT_v0.2.0.md
 provenance/QA_REPORT.md
 provenance/RELEASE_AUDIT.md
 provenance/SBOM.spdx.json

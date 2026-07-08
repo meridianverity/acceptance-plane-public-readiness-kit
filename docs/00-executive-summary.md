@@ -18,7 +18,7 @@ The world needs a shared language for pre-impact action acceptance. Hospitals, s
 
 ## The boundary
 
-This kit opens readiness materials, not mechanisms. It includes vocabulary, scenario cards, RFP questions, templates, public-interest guidance, and a educational scenario-card linter. It excludes exact evidence schemas, cryptographic protocols, non-bypassable enforcement, production receipts, conformance suites, certificate registries, and hardware-specific implementations.
+This kit opens readiness materials, not mechanisms. It includes vocabulary, scenario cards, RFP questions, templates, public-interest guidance, and an educational scenario-card linter. It excludes exact evidence schemas, cryptographic protocols, non-bypassable enforcement, production receipts, conformance suites, certificate registries, and hardware-specific implementations.
 
 ## The strategic sentence
 

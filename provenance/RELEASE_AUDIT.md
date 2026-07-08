@@ -14,4 +14,4 @@ Release audit gates:
 - Strict manifest verification.
 - Release ZIP verification: SHA sidecar, CRC, path safety, single-root archive, manifest/file hash match.
 
-Result: filled after QA.
+Result: PASS. Verified by `make qa-full` for the v0.2.0 release artifact.
